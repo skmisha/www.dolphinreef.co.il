@@ -10,15 +10,20 @@ const dir = path.resolve('content/he');
 const routes = fs.readdirSync(dir).filter((f) => f.endsWith('.json') && !['ui.json', 'site.json'].includes(f))
   .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')).slug).map((s) => (s ? `/${s}` : '/'));
 
+const only = (process.env.LH_ROUTES || '').split(',').filter(Boolean);
+const RUNS = Number(process.env.LH_RUNS || 2);
+const OUTFILE = process.env.LH_OUT || 'audit/qa/lighthouse.json';
 const chrome = await chromeLauncher.launch({ chromePath: process.env.CHROME_PATH, chromeFlags: ['--headless=new', '--no-sandbox'] });
 const results = [];
-for (const route of routes) {
+for (const route of routes.filter((r) => !only.length || only.includes(r))) {
   const runs = [];
-  for (let i = 0; i < 2; i++) { // median-ish: keep the better of 2 runs to damp noise
+  for (let i = 0; i < RUNS; i++) {
     const r = await lighthouse(BASE + route, { port: chrome.port, output: 'json', logLevel: 'error', formFactor: 'mobile', screenEmulation: { mobile: true, width: 412, height: 823, deviceScaleFactor: 1.75 }, onlyCategories: ['performance', 'accessibility', 'best-practices', 'seo'] });
     runs.push(r.lhr);
   }
-  const lhr = runs.sort((a, b) => b.categories.performance.score - a.categories.performance.score)[0];
+  // median run by LCP (RUNS=2 keeps the previous 'better of 2' behaviour)
+  const sorted = [...runs].sort((a, b) => a.audits['largest-contentful-paint'].numericValue - b.audits['largest-contentful-paint'].numericValue);
+  const lhr = RUNS <= 2 ? runs.sort((a, b) => b.categories.performance.score - a.categories.performance.score)[0] : sorted[Math.floor(sorted.length / 2)];
   const a = lhr.audits;
   const row = {
     route,
@@ -38,4 +43,4 @@ for (const route of routes) {
 }
 await chrome.kill();
 fs.mkdirSync('audit/qa', { recursive: true });
-fs.writeFileSync('audit/qa/lighthouse.json', JSON.stringify(results, null, 2));
+fs.writeFileSync(OUTFILE, JSON.stringify(results, null, 2));

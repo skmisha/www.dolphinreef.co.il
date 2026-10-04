@@ -1,0 +1,80 @@
+[
+  {
+    "route": "/accessibility-statement",
+    "performance": 97,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpMs": 2562,
+    "cls": 0,
+    "tbtMs": 42,
+    "fcpMs": 1514,
+    "lcpElement": "<img alt=\"צלילת היכרות בנוף התת-מימי של ריף הדולפינים\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"pos",
+    "failedA11y": []
+  },
+  {
+    "route": "/diving",
+    "performance": 98,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpMs": 2358,
+    "cls": 0.029,
+    "tbtMs": 49,
+    "fcpMs": 1513,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  },
+  {
+    "route": "/map",
+    "performance": 96,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpMs": 2759,
+    "cls": 0,
+    "tbtMs": 58,
+    "fcpMs": 909,
+    "lcpElement": "<img alt=\"מפת התמצאות בריף הדולפינים\" width=\"1140\" height=\"700\" decoding=\"async\" data-nimg=\"1\" style=\"color:transparent\"",
+    "failedA11y": []
+  },
+  {
+    "route": "/dining-at-thereef/menu-bar",
+    "performance": 94,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpMs": 3029,
+    "cls": 0,
+    "tbtMs": 50,
+    "fcpMs": 1512,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  },
+  {
+    "route": "/stalbetcoffe",
+    "performance": 97,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpMs": 2437,
+    "cls": 0,
+    "tbtMs": 43,
+    "fcpMs": 1514,
+    "lcpElement": "<img alt=\"תמונה של קפה סתלבט על המים\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; ",
+    "failedA11y": []
+  },
+  {
+    "route": "/swimming",
+    "performance": 96,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpMs": 2678,
+    "cls": 0,
+    "tbtMs": 41,
+    "fcpMs": 1519,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  }
+]
