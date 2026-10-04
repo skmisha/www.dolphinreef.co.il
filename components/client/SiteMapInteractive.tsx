@@ -16,7 +16,7 @@ export function SiteMapInteractive({ map }: { map: MapPage['map'] }) {
   const dialog = useRef<HTMLDialogElement>(null);
   const [spot, setSpot] = useState<Spot | null>(null);
   const [hover, setHover] = useState<string | null>(null);
-  const open = (s: Spot) => { setSpot(s); dialog.current?.showModal(); };
+  const open = (s: Spot) => { setHover(null); setSpot(s); dialog.current?.showModal(); };
 
   const places = map.hotspots.filter((s, i, all) => /^\d+$/.test(s.label) && all.findIndex((x) => x.label === s.label) === i);
   const routes = map.hotspots.filter((s) => !/^\d+$/.test(s.label));
@@ -33,8 +33,8 @@ export function SiteMapInteractive({ map }: { map: MapPage['map'] }) {
             className={`hotspot${hover === s.label || (hover === 'routes' && !/^\d+$/.test(s.label)) ? ' is-active' : ''}`}
             style={{ insetInlineStart: `${s.xPct}%`, insetBlockStart: `${s.yPct}%` }}
             onClick={() => open(s)}
-            onMouseEnter={() => setHover(/^\d+$/.test(s.label) ? s.label : 'routes')}
-            onMouseLeave={() => setHover(null)}
+            onPointerEnter={(e) => e.pointerType === 'mouse' && setHover(/^\d+$/.test(s.label) ? s.label : 'routes')}
+            onPointerLeave={() => setHover(null)}
             aria-label={`${s.label} – ${s.title}`}
             aria-haspopup="dialog"
           />
@@ -48,8 +48,8 @@ export function SiteMapInteractive({ map }: { map: MapPage['map'] }) {
             <button
               className={`place${hover === s.label ? ' is-active' : ''}`}
               onClick={() => open(s)}
-              onMouseEnter={() => setHover(s.label)}
-              onMouseLeave={() => setHover(null)}
+              onPointerEnter={(e) => e.pointerType === 'mouse' && setHover(s.label)}
+              onPointerLeave={() => setHover(null)}
               onFocus={() => setHover(s.label)}
               onBlur={() => setHover(null)}
               aria-haspopup="dialog"
@@ -69,8 +69,8 @@ export function SiteMapInteractive({ map }: { map: MapPage['map'] }) {
             <button
               className={`place place--routes${hover === 'routes' ? ' is-active' : ''}`}
               onClick={() => open(routes[0])}
-              onMouseEnter={() => setHover('routes')}
-              onMouseLeave={() => setHover(null)}
+              onPointerEnter={(e) => e.pointerType === 'mouse' && setHover('routes')}
+              onPointerLeave={() => setHover(null)}
               onFocus={() => setHover('routes')}
               onBlur={() => setHover(null)}
               aria-haspopup="dialog"

@@ -14,19 +14,22 @@ export async function SiteFooter() {
   const titles = Object.fromEntries(
     await Promise.all(hrefs.map(async (h) => [h, site.nav.find((n) => n.href === h)?.label ?? (await getPage(h, locale))?.hero.title ?? h] as const)),
   );
-  const label = (href: string) => titles[href];
   return (
     <footer className="site-footer">
       <div className="container">
-        <div className="footer-grid">
-          <div>
-            <Image src={site.logo.src} alt={site.logo.alt} width={64} height={55} style={{ marginBlockEnd: 'var(--space-4)' }} />
+        <div className="footer-top">
+          <div className="footer-brand">
+            <Image src={site.logo.src} alt={site.logo.alt} width={64} height={55} />
             <h2 className="visually-hidden">{t('contact')}</h2>
-            <ul>
-              <li><a href={contact.phone.href}>{site.footer.phoneLabel}</a></li>
-              <li><a href={contact.email.href}>{contact.email.display}</a></li>
+            <ul className="footer-contact">
+              <li>
+                <a className="pill" href={contact.phone.href}><Icon name="phone" size={18} />{site.footer.phoneLabel}</a>
+              </li>
+              <li>
+                <a className="pill" href={contact.email.href}><Icon name="mail" size={18} />{contact.email.display}</a>
+              </li>
             </ul>
-            <ul className="social" aria-label={t('social')} style={{ marginBlockStart: 'var(--space-4)' }}>
+            <ul className="social" aria-label={t('social')}>
               {social.map((s) => (
                 <li key={s.id}>
                   <SmartLink href={s.href} aria-label={s.label} quiet>
@@ -36,18 +39,20 @@ export async function SiteFooter() {
               ))}
             </ul>
           </div>
-          {site.footer.columns.map((col, i) => (
-            <nav key={col.titleKey} aria-labelledby={`fcol-${i}`}>
-              <h2 id={`fcol-${i}`}>{t(col.titleKey.replace('footer.', ''))}</h2>
-              <ul>
-                {col.items.map((href) => (
-                  <li key={href}>
-                    <SmartLink href={href}>{label(href)}</SmartLink>
-                  </li>
-                ))}
-              </ul>
-            </nav>
-          ))}
+          <div className="footer-cols">
+            {site.footer.columns.map((col, i) => (
+              <nav key={col.titleKey} aria-labelledby={`fcol-${i}`} className="footer-col">
+                <h2 id={`fcol-${i}`}>{t(col.titleKey.replace('footer.', ''))}</h2>
+                <ul>
+                  {col.items.map((href) => (
+                    <li key={href}>
+                      <SmartLink href={href}>{titles[href]}</SmartLink>
+                    </li>
+                  ))}
+                </ul>
+              </nav>
+            ))}
+          </div>
         </div>
         <div className="footer-legal">
           <span>{t('copyright')}</span>

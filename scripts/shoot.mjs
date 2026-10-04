@@ -3,7 +3,7 @@ import { chromium } from 'playwright';
 const [, , base, out, ...paths] = process.argv;
 const browser = await chromium.launch();
 for (const p of paths) {
-  for (const [w, h] of [[390, 844], [1440, 900]]) {
+  for (const [w, h] of (process.env.WIDTHS ? process.env.WIDTHS.split(",").map((x) => [Number(x), x === "390" ? 844 : 900]) : [[390, 844], [1440, 900]])) {
     const page = await browser.newPage({ viewport: { width: w, height: h }, reducedMotion: 'reduce' });
     await page.goto(base + p, { waitUntil: 'networkidle' });
     await page.addStyleTag({ content: '.consent{display:none!important}' });
