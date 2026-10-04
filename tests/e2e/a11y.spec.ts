@@ -3,14 +3,17 @@ import AxeBuilder from '@axe-core/playwright';
 import { routes, dismissConsent } from './helpers';
 
 test.beforeEach(async ({ page }) => dismissConsent(page));
+// measure the settled page: scroll-reveal fades are mid-animation (semi-transparent) otherwise
+test.use({ reducedMotion: 'reduce' });
 
 for (const route of routes) {
   test(`axe WCAG 2.2 AA: ${route}`, async ({ page }, info) => {
     test.skip(info.project.name === 'pixel', 'covered by iphone (same breakpoint)');
+    await page.emulateMedia({ reducedMotion: 'reduce' });
     await page.goto(route);
     await page.waitForLoadState('networkidle');
     const results = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa']).analyze();
-    const summary = results.violations.map((v) => `${v.id} (${v.impact}): ${v.nodes.length} × ${v.nodes[0]?.target.join(' ')}`);
+    const summary = results.violations.map((v) => `${v.id} (${v.impact}): ${v.nodes.length} × ${v.nodes[0]?.target.join(" ")} :: ${v.nodes[0]?.any[0]?.message ?? ""}`);
     expect(summary, summary.join('\n')).toEqual([]);
   });
 }
