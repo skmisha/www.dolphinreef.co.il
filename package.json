@@ -6,6 +6,7 @@
     "audit:crawl": "node scripts/audit/crawl.mjs"
   },
   "devDependencies": {
+    "axe-core": "^4.13.0",
     "playwright": "^1.56.0"
   }
 }

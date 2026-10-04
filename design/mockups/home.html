@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ריף הדולפינים אילת – שחייה, צלילה ובריכות סתלבט</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700&family=Frank+Ruhl+Libre:wght@500;700&display=swap&subset=hebrew" rel="stylesheet">
+<link rel="stylesheet" href="mockup.css">
+</head>
+<body>
+<!-- Phase 2 mockup. Text: content/he/*.json (verbatim). Prices: data/prices.json. Labels marked data-ui come from ui.json in Phase 3. -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+  <symbol id="i-age" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="7" r="3.5"/><path d="M5 21c0-4 3-6.5 7-6.5s7 2.5 7 6.5"/></symbol>
+  <symbol id="i-wave" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M2 12c2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 2.5 2 5 2M2 17c2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 2.5 2 5 2"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+  <symbol id="i-phone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M5 3h4l2 5-2.5 1.5a11 11 0 0 0 6 6L16 13l5 2v4a2 2 0 0 1-2 2A17 17 0 0 1 3 5a2 2 0 0 1 2-2z"/></symbol>
+  <symbol id="i-a11y" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="4.5" r="2"/><path d="M5 8.5l7 1.5 7-1.5M12 10v5l-3 6M12 15l3 6"/></symbol>
+  <symbol id="i-play" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></symbol>
+</svg>
+
+<a class="skip" href="#main" data-ui="a11y.skipToContent">דילוג לתוכן הראשי</a>
+
+<header class="site-header">
+  <div class="container site-header__bar">
+    <a class="brand" href="/"><img src="img/logo.png" alt="ריף הדולפינים אילת" width="44" height="38"></a>
+    <nav class="nav" aria-label="ניווט ראשי">
+      <ul>
+        <li><a href="/experience-thereef">חוויית הביקור בריף</a></li>
+        <li><a href="/diving">צלילה היכרות בריף הדולפינים</a></li>
+        <li><a href="/swimming">שנירקול בריף הדולפינים</a></li>
+        <li><a href="/stalbet">סתלבט על המים</a></li>
+        <li><a href="/dining-at-thereef">לאכול בריף</a></li>
+        <li><a href="/events">אירועים</a></li>
+      </ul>
+    </nav>
+    <div class="header-actions">
+      <a class="btn btn--book header-book" href="https://reefbooking.dolphinreef.co.il/">להזמנה</a>
+      <button class="icon-btn menu-toggle" aria-label="תפריט" aria-expanded="false" data-ui="nav.menu"><svg width="22" height="22"><use href="#i-menu"/></svg></button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero__media">
+      <!-- Phase 3: <video preload="none" poster=…> lazy-started after LCP; still image is the LCP element -->
+      <img src="img/hero-reef.jpg" alt="הנוף מתחת למים" width="2000" height="1500" fetchpriority="high">
+    </div>
+    <div class="container hero__inner">
+      <span class="eyebrow"><svg width="18" height="18"><use href="#i-wave"/></svg>ריף הדולפינים באילת</span>
+      <h1 id="hero-title">ריף הדולפינים - חלום של מציאות</h1>
+      <p class="lead">ריף הדולפינים באילת – אתר ייחודי על חוף ים סוף, לצפות בדולפינים בבית גידולם הטבעי, לשחות ולצלול לצידם, ולבלות בבריכות הסתלבט, במסעדת החוף ובאחד החופים היפים בישראל.</p>
+      <div class="hero__ctas">
+        <a class="btn btn--book btn--lg" href="https://reefbooking.dolphinreef.co.il/">להזמנה</a>
+        <a class="btn btn--ghost btn--lg" href="#experiences">בואו נתחיל</a>
+      </div>
+    </div>
+  </section>
+
+  <div class="container">
+    <section class="facts" aria-label="מידע לביקור" data-ui="home.visitFacts">
+      <div class="fact">
+        <span class="fact__label">שני - חמישי</span>
+        <span class="fact__value">09:00-16:30</span>
+        <span class="fact__note">בימי ראשון סגור, למעט חופשות החגים וחלק מחופשת הקיץ.</span>
+      </div>
+      <div class="fact">
+        <span class="fact__label">שישי ושבת</span>
+        <span class="fact__value">09:00-17:00</span>
+        <span class="fact__note">מומלץ להתעדכן לפני ההגעה.</span>
+      </div>
+      <div class="fact" aria-live="polite">
+        <span class="fact__label">מחירי כניסה</span>
+        <span class="fact__value">מבוגר ‏74 ₪ · ילד ‏55 ₪</span>
+        <span class="fact__note">מבוגר מעל גיל 15 · ילד גיל 3 - 15 · ילדים עד גיל 3 כניסה חינם.</span>
+      </div>
+    </section>
+  </div>
+
+  <section class="section" id="experiences" aria-labelledby="exp-title">
+    <div class="container">
+      <div class="section__head">
+        <h2 id="exp-title">החוויות בריף הדולפינים</h2>
+      </div>
+      <div class="cards cards--4">
+        <article class="xcard">
+          <div class="xcard__media"><img src="img/card-snorkel.jpg" alt="שנירקול בריף הדולפינים, תמונה של שלושה אנשים מחזיקים ידיים וצפים על פני המים." width="900" height="1082" loading="lazy">
+            <span class="xcard__price"><span data-ui="price.from">החל מ-</span><b>265 ₪</b></span></div>
+          <div class="xcard__body">
+            <h3 class="xcard__title"><a href="/swimming">שנירקול בריף הדולפינים</a></h3>
+            <ul class="chips">
+              <li class="chip"><svg><use href="#i-age"/></svg>מגיל 10</li>
+              <li class="chip"><svg><use href="#i-clock"/></svg>כ-25 דקות במים</li>
+            </ul>
+            <p class="xcard__text">לשנרקל בסביבתם הטבעית של הדולפינים הוא חלום שרבים נושאים בליבם, ובריף הדולפינים הוא יכול להפוך למציאות…</p>
+          </div>
+          <div class="xcard__foot"><span class="xcard__more" data-ui="card.details">לפרטים <svg class="ico-dir" width="18" height="18"><use href="#i-arrow"/></svg></span><a class="btn btn--book" href="https://reefbooking.dolphinreef.co.il/swimming.aspx">להזמנה</a></div>
+        </article>
+        <article class="xcard">
+          <div class="xcard__media"><img src="img/card-dive.jpg" alt="צלילה בריף הדולפינים, צוללים בין האלמוגים" width="900" height="506" loading="lazy">
+            <span class="xcard__price"><span data-ui="price.from">החל מ-</span><b>355 ₪</b></span></div>
+          <div class="xcard__body">
+            <h3 class="xcard__title"><a href="/diving">צלילה בריף הדולפינים</a></h3>
+            <ul class="chips">
+              <li class="chip"><svg><use href="#i-age"/></svg>מגיל 8</li>
+              <li class="chip"><svg><use href="#i-clock"/></svg>כ-25 דקות במים</li>
+            </ul>
+            <p class="xcard__text">אם חלמתם לבקר בעולם קסום, מנותק "מרעשי היום יום", מרחפים חסרי משקל, מוקפים בעושר של דגים ואלמוגים, בסביבתם הטבעית של הדולפינים...</p>
+          </div>
+          <div class="xcard__foot"><span class="xcard__more" data-ui="card.details">לפרטים <svg class="ico-dir" width="18" height="18"><use href="#i-arrow"/></svg></span><a class="btn btn--book" href="https://reefbooking.dolphinreef.co.il/">להזמנה</a></div>
+        </article>
+        <article class="xcard">
+          <div class="xcard__media"><img src="img/card-stalbet.jpg" alt="סתלבט על המים, תמונה יפה של בחורה צפה על פני המים בסתלבט על המים בריף הדולפינים" width="640" height="971" loading="lazy">
+            <span class="xcard__price"><span data-ui="price.from">החל מ-</span><b>190 ₪</b></span></div>
+          <div class="xcard__body">
+            <h3 class="xcard__title"><a href="/stalbet">סתלבט על המים</a></h3>
+            <ul class="chips">
+              <li class="chip"><svg><use href="#i-age"/></svg>מגיל 18</li>
+              <li class="chip"><svg><use href="#i-clock"/></svg>שעה של בילוי</li>
+            </ul>
+            <p class="xcard__text">מחפשים "אי של שלווה בים של סערות"? ניקוי ראש, התרגעות, הנאה ו"טעינה מחדש של המצברים"? תמצאו את כולם בברכות סתלבט על המים...</p>
+          </div>
+          <div class="xcard__foot"><span class="xcard__more" data-ui="card.details">לפרטים <svg class="ico-dir" width="18" height="18"><use href="#i-arrow"/></svg></span><a class="btn btn--book" href="https://reefbooking.dolphinreef.co.il/pools.aspx">להזמנה</a></div>
+        </article>
+        <article class="xcard">
+          <div class="xcard__media"><img src="img/card-visit.jpg" alt="ריף הדולפינים מלמעלה לכיוון הים" width="900" height="674" loading="lazy">
+            <span class="xcard__price"><span data-ui="price.from">החל מ-</span><b>55 ₪</b></span></div>
+          <div class="xcard__body">
+            <h3 class="xcard__title"><a href="/experience-thereef">חווית הביקור בריף</a></h3>
+            <ul class="chips">
+              <li class="chip"><svg><use href="#i-age"/></svg>עד גיל 3 חינם</li>
+              <li class="chip"><svg><use href="#i-clock"/></svg>יום שלם באתר</li>
+            </ul>
+            <p class="xcard__text">ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם, המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, ואפשרות לצפות בדולפינים בבית גידולם הטבעי ...</p>
+          </div>
+          <div class="xcard__foot"><span class="xcard__more" data-ui="card.details">לפרטים <svg class="ico-dir" width="18" height="18"><use href="#i-arrow"/></svg></span></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--tint" aria-labelledby="about-title">
+    <div class="container split">
+      <div class="split__media"><img src="img/about.jpg" alt="מבט מלמעלה על פינות הישיבה בריף הדולפינים" width="1200" height="675" loading="lazy"></div>
+      <div class="split__body">
+        <h2 id="about-title">מי אנחנו</h2>
+        <p>ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, נופים קסומים, פינות "סתלבט" על חוף הים ולצפות בדולפינים בבית גידולם הטבעי (בים) והכל, תוך התחשבות מרבית בטבע ובסביבה</p>
+        <div><a class="btn btn--secondary" href="/experience-thereef">עוד... <svg class="ico-dir" width="18" height="18"><use href="#i-arrow"/></svg></a></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" aria-label="עוד בריף">
+    <div class="container cards">
+      <article class="mcard">
+        <img src="img/card-dining.jpg" alt="" width="900" height="600" loading="lazy">
+        <div class="mcard__body"><h3><a href="/dining-at-thereef">לאכול בריף</a></h3>
+          <p>בילוי בריף ואוויר הים פותחים את התאבון. בר החוף, קפה סתלבט והמזנון ישלימו את חווית הביקור שלכם ולא תצאו רעבים ...</p></div>
+      </article>
+      <article class="mcard">
+        <img src="img/card-events.jpg" alt="" width="900" height="505" loading="lazy">
+        <div class="mcard__body"><h3><a href="/events">אירועים בריף הדולפינים</a></h3>
+          <p>כל מה שרציתם ולא העזתם לחלום… אירועים לחברות ולפרטיים בריף הדולפינים</p></div>
+      </article>
+    </div>
+  </section>
+
+  <section class="section section--dark" aria-labelledby="visit-title">
+    <div class="container visit">
+      <div>
+        <div class="section__head"><h2 id="visit-title" data-ui="home.planVisit">מתכננים ביקור</h2></div>
+        <ul class="hours">
+          <li><span>שני - חמישי</span><b>09:00-16:30</b></li>
+          <li><span>שישי ושבת</span><b>09:00-17:00</b></li>
+          <li><span>בימי ראשון סגור, למעט חופשות החגים וחלק מחופשת הקיץ.</span></li>
+        </ul>
+        <p style="margin-block:var(--space-5)">לתשומת לבכם: לטובת חווית הביקור שלכם ורווחת השוהים באתר, אנו מגבילים את כמות המבקרים וייתכנו ימים שבהם הכניסה תעצר (לרוב למשך שעה- שעתיים) עד לירידה בכמות השוהים באתר.</p>
+        <div class="hero__ctas">
+          <a class="btn btn--book" href="tel:+97286300111"><svg width="18" height="18"><use href="#i-phone"/></svg>08-6300111</a>
+          <a class="btn btn--ghost" href="/map" data-ui="home.siteMap">מפה להתמצאות באתר</a>
+        </div>
+      </div>
+      <a class="visit__map" href="https://www.google.com/maps/search/?api=1&query=29.5264,34.9360" aria-label="פתיחת המיקום במפות Google (נפתח בחלון חדש)" target="_blank" rel="noopener">
+        <img src="img/card-visit.jpg" alt="" loading="lazy">
+        <span class="btn btn--book"><svg width="18" height="18"><use href="#i-pin"/></svg><span data-ui="home.openMaps">ניווט לריף</span></span>
+      </a>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <img src="img/logo.png" alt="ריף הדולפינים אילת" width="64" height="55" style="margin-block-end:var(--space-4)">
+        <ul>
+          <li><a href="tel:+97286300111">טל: 08-6300111</a></li>
+          <li><a href="mailto:info@dolphinreef.co.il">info@dolphinreef.co.il</a></li>
+        </ul>
+        <div class="social" style="margin-block-start:var(--space-4)">
+          <a href="https://api.whatsapp.com/send/?phone=972526021017&text&type=phone_number&app_absent=0" aria-label="WhatsApp">W</a>
+          <a href="https://www.instagram.com/dolphin_reef_eilat/" aria-label="Instagram">I</a>
+          <a href="https://www.facebook.com/dolphinreefeilat" aria-label="Facebook">F</a>
+          <a href="https://www.tiktok.com/@dolphin_reef_eilat" aria-label="TikTok">T</a>
+        </div>
+      </div>
+      <nav aria-labelledby="f1"><h2 id="f1" data-ui="footer.experiences">חוויות</h2><ul>
+        <li><a href="/experience-thereef">חוויית הביקור בריף</a></li><li><a href="/diving">צלילה היכרות בריף הדולפינים</a></li><li><a href="/swimming">שנירקול בריף הדולפינים</a></li><li><a href="/stalbet">סתלבט על המים</a></li><li><a href="/supportive-experience">חווייה תומכת</a></li></ul></nav>
+      <nav aria-labelledby="f2"><h2 id="f2" data-ui="footer.onSite">בריף</h2><ul>
+        <li><a href="/dining-at-thereef">לאכול בריף</a></li><li><a href="/stalbetcoffe">קפה סתלבט</a></li><li><a href="/events">אירועים לקבוצות ובודדים</a></li><li><a href="/shop">חנות המזכרות</a></li><li><a href="/map">מפה להתמצאות באתר</a></li></ul></nav>
+      <nav aria-labelledby="f3"><h2 id="f3" data-ui="footer.info">מידע</h2><ul>
+        <li><a href="/our-vision">החזון שלנו</a></li><li><a href="/accessibility">נגישות</a></li><li><a href="/accessibility-statement">הצהרת נגישות</a></li><li><a href="/privacypolicy">מדיניות פרטיות</a></li><li><a href="https://www.instagram.com/dolphin_reef_eilat/">עדכונים שוטפים</a></li></ul></nav>
+    </div>
+    <div class="footer-legal"><span>© ריף הדולפינים אילת</span><a href="/accessibility-statement">הצהרת נגישות</a></div>
+  </div>
+</footer>
+
+<div class="book-bar" role="region" aria-label="הזמנה">
+  <div class="book-bar__meta"><small data-ui="bookBar.label">שנירקול · צלילה · סתלבט</small><b><span data-ui="price.from">החל מ-</span>190 ₪</b></div>
+  <a class="btn btn--book" href="https://reefbooking.dolphinreef.co.il/">להזמנה</a>
+</div>
+<button class="a11y-fab" aria-label="תפריט נגישות" data-ui="a11y.toolbar"><svg width="26" height="26"><use href="#i-a11y"/></svg></button>
+</body>
+</html>
