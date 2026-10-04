@@ -515,7 +515,8 @@
     }
   }
   @media print { .reveal, .xcard, .mcard, .callout, .faq details { animation: none !important; } }
-  @keyframes rise { from { opacity: 0; transform: translateY(28px); } to { opacity: 1; transform: none; } }
+  /* slide only (no opacity): text is never semi-transparent, so contrast holds at every frame */
+  @keyframes rise { from { transform: translateY(32px) scale(0.985); } to { transform: none; } }
 
   /* global polish */
   .btn { transition: background var(--dur-fast) var(--ease-tide), transform var(--dur-fast) var(--ease-tide), box-shadow var(--dur-base) var(--ease-tide); }
@@ -575,4 +576,10 @@
     .a11y-fab { inset-block: 14px auto; inset-inline-end: calc(var(--gutter) + 52px); inline-size: 44px; block-size: 44px; border-width: 1px; box-shadow: none; background: rgb(15 94 115 / 0.9); }
     .a11y-panel { inset-block: 72px auto; }
   }
+}
+
+@layer components {
+  .consent a { text-decoration: underline; text-underline-offset: 0.2em; }
+  .info-card h2 { font-size: 1.25rem; }
+  .info-card h2::after { display: none; }
 }

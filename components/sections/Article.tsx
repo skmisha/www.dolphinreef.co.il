@@ -23,7 +23,7 @@ function BlockView({ block, legal }: { block: Block; legal?: boolean }) {
           {block.sections.map(({ section, index }, n) => (
             <section key={index} className="info-card" aria-labelledby={sectionId(index)}>
               <span className="info-card__num" aria-hidden="true">{String(n + 1).padStart(2, '0')}</span>
-              <Heading section={section} index={index} as="h3" />
+              <Heading section={section} index={index} />
               <Paras section={section} />
             </section>
           ))}
