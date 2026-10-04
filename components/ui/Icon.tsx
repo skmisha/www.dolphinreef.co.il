@@ -1,4 +1,5 @@
 import type { SVGProps } from 'react';
+import { brandPaths, type BrandName } from './brands';
 
 const paths = {
   clock: <><circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" /></>,
@@ -21,18 +22,21 @@ const paths = {
   file: <><path d="M14 3H6v18h12V7z" /><path d="M14 3v4h4M9 13h6M9 17h6" /></>,
   external: <path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5" />,
   image: <><rect x="3" y="4" width="18" height="16" rx="2" /><circle cx="9" cy="10" r="2" /><path d="m21 17-5-5-9 8" /></>,
-  whatsapp: <path d="M20 12a8 8 0 0 1-11.8 7L4 20l1.1-4A8 8 0 1 1 20 12zM9 8.5c0 3.5 3 6.5 6.5 6.5l1-1.5-2-1-1 1a5 5 0 0 1-2.5-2.5l1-1-1-2z" />,
-  instagram: <><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="1" fill="currentColor" /></>,
-  facebook: <path d="M14 8h3V4h-3a4 4 0 0 0-4 4v3H7v4h3v6h4v-6h3l1-4h-4V8z" />,
-  tiktok: <path d="M14 3v11.5a3.5 3.5 0 1 1-3.5-3.5M14 3c.5 2.5 2.5 4.5 5 4.5" />,
 } as const;
 
-export type IconName = keyof typeof paths;
+export type IconName = keyof typeof paths | BrandName;
 
 /** Icons that point in the reading direction; mirrored automatically under RTL. */
 const DIRECTIONAL = new Set<IconName>(['arrow', 'chevron']);
 
 export function Icon({ name, size = 20, className = '', ...rest }: { name: IconName; size?: number } & SVGProps<SVGSVGElement>) {
+  if (name in brandPaths) {
+    return (
+      <svg viewBox="0 0 24 24" width={size} height={size} fill="currentColor" aria-hidden="true" focusable="false" className={className} {...rest}>
+        <path d={brandPaths[name as BrandName]} />
+      </svg>
+    );
+  }
   return (
     <svg
       viewBox="0 0 24 24"
@@ -48,7 +52,7 @@ export function Icon({ name, size = 20, className = '', ...rest }: { name: IconN
       className={`${DIRECTIONAL.has(name) ? 'ico-dir ' : ''}${className}`}
       {...rest}
     >
-      {paths[name]}
+      {paths[name as keyof typeof paths]}
     </svg>
   );
 }

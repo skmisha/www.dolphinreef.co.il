@@ -48,7 +48,7 @@ export async function ExperienceTemplate({ page }: { page: ExperiencePage }) {
   return (
     <>
       <Hero
-        hero={page.hero}
+        hero={{ ...page.hero, intro: undefined, lead: page.hero.lead ?? page.seo.description }}
         crumbs={<Breadcrumbs items={[{ label: page.hero.title }]} />}
         actions={
           <a className="btn btn--book btn--lg" href={bookingUrl(x.booking)} {...target}>
@@ -63,6 +63,11 @@ export async function ExperienceTemplate({ page }: { page: ExperiencePage }) {
       <div className="section">
         <div className="container content-grid">
           <div style={{ display: 'grid', gap: 'var(--space-8)', minInlineSize: 0 }}>
+            {page.hero.intro && page.hero.intro.length > 0 && (
+              <div className="article-intro reveal">
+                {page.hero.intro.map((p, i) => <RichText key={i} value={p} />)}
+              </div>
+            )}
             {page.sections && page.sections.length > 0 && <ContentSections sections={page.sections} />}
 
             {x.youtube && <VideoFacade id={x.youtube} poster={page.hero.video?.poster ?? page.hero.image ?? undefined} title={page.hero.title} />}

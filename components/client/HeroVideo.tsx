@@ -17,8 +17,9 @@ export function HeroVideo({ src, poster }: { src: string; poster?: string }) {
   useEffect(() => {
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches || document.documentElement.classList.contains('a11y-no-motion');
     const conn = (navigator as Navigator & { connection?: { saveData?: boolean; effectiveType?: string } }).connection;
-    const slow = conn?.saveData || /2g/.test(conn?.effectiveType ?? '');
-    if (reduce || slow) return;
+    const slow = conn?.saveData || /(^|-)(2g|3g)$/.test(conn?.effectiveType ?? '');
+    const small = window.matchMedia('(max-width: 1023px)').matches; // phones/tablets keep the still image (data + LCP)
+    if (reduce || slow || small) return;
     const start = () => setTimeout(() => setEnabled(true), 1200);
     if (document.readyState === 'complete') start();
     else window.addEventListener('load', start, { once: true });

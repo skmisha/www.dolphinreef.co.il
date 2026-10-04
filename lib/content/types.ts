@@ -60,7 +60,7 @@ export interface ExperiencePage extends PageBase {
 
 export interface EventsPage extends PageBase {
   template: 'events';
-  albums: { title: string; href: string }[];
+  albums: { title: string; href: string; cover?: Img }[];
   galleryLink: Link;
 }
 

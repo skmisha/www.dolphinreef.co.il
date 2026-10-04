@@ -1,0 +1,237 @@
+[
+  {
+    "route": "/accessibility-statement",
+    "performance": 94,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3020,
+    "cls": 0.02,
+    "tbtMs": 51,
+    "fcpMs": 1368,
+    "lcpElement": "<img alt=\"צלילת היכרות בנוף התת-מימי של ריף הדולפינים\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"pos",
+    "failedA11y": []
+  },
+  {
+    "route": "/accessibility",
+    "performance": 97,
+    "accessibility": 96,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 2513,
+    "cls": 0,
+    "tbtMs": 55,
+    "fcpMs": 1517,
+    "lcpElement": "<img alt=\"תמונה של החוף בריף הדולפינים בשקיעה.\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: ",
+    "failedA11y": [
+      "link-in-text-block"
+    ]
+  },
+  {
+    "route": "/dining-at-thereef",
+    "performance": 93,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3090,
+    "cls": 0.002,
+    "tbtMs": 47,
+    "fcpMs": 1521,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  },
+  {
+    "route": "/diving",
+    "performance": 94,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 2992,
+    "cls": 0,
+    "tbtMs": 43,
+    "fcpMs": 1507,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": [
+      "label-content-name-mismatch"
+    ]
+  },
+  {
+    "route": "/events",
+    "performance": 93,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3149,
+    "cls": 0,
+    "tbtMs": 81,
+    "fcpMs": 1520,
+    "lcpElement": "<img alt=\"תמונה של הכנת אירוע בריף הדולפינים תמונה יפהיפיה\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style",
+    "failedA11y": []
+  },
+  {
+    "route": "/experience-thereef",
+    "performance": 99,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 2194,
+    "cls": 0,
+    "tbtMs": 54,
+    "fcpMs": 943,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  },
+  {
+    "route": "/",
+    "performance": 93,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3158,
+    "cls": 0,
+    "tbtMs": 48,
+    "fcpMs": 1512,
+    "lcpElement": "<img alt=\"הנוף מתחת למים\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%",
+    "failedA11y": [
+      "label-content-name-mismatch"
+    ]
+  },
+  {
+    "route": "/map",
+    "performance": 98,
+    "accessibility": 96,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 2267,
+    "cls": 0,
+    "tbtMs": 44,
+    "fcpMs": 1367,
+    "lcpElement": "<img alt=\"מפת התמצאות בריף הדולפינים\" width=\"1140\" height=\"700\" decoding=\"async\" data-nimg=\"1\" style=\"color:transparent\"",
+    "failedA11y": [
+      "link-in-text-block"
+    ]
+  },
+  {
+    "route": "/dining-at-thereef/menu-bar",
+    "performance": 93,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3170,
+    "cls": 0,
+    "tbtMs": 48,
+    "fcpMs": 1522,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  },
+  {
+    "route": "/dining-at-thereef/menu-stalbet",
+    "performance": 94,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3083,
+    "cls": 0,
+    "tbtMs": 46,
+    "fcpMs": 1517,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  },
+  {
+    "route": "/our-vision",
+    "performance": 94,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 2960,
+    "cls": 0,
+    "tbtMs": 94,
+    "fcpMs": 1519,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  },
+  {
+    "route": "/privacypolicy",
+    "performance": 93,
+    "accessibility": 96,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3160,
+    "cls": 0.011,
+    "tbtMs": 47,
+    "fcpMs": 1516,
+    "lcpElement": "<img alt=\"צלילת היכרות בנוף התת-מימי של ריף הדולפינים\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"pos",
+    "failedA11y": [
+      "link-in-text-block"
+    ]
+  },
+  {
+    "route": "/shop",
+    "performance": 94,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3004,
+    "cls": 0,
+    "tbtMs": 46,
+    "fcpMs": 1363,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  },
+  {
+    "route": "/stalbet",
+    "performance": 83,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 4595,
+    "cls": 0.001,
+    "tbtMs": 92,
+    "fcpMs": 1515,
+    "lcpElement": "<video class=\"hero__video\" src=\"/assets/video/166e60_0bc21fdafe1b42669e2329ef0a293f01.mp4\" poster=\"/assets/images/166e60",
+    "failedA11y": [
+      "label-content-name-mismatch"
+    ]
+  },
+  {
+    "route": "/stalbetcoffe",
+    "performance": 94,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3081,
+    "cls": 0,
+    "tbtMs": 46,
+    "fcpMs": 1365,
+    "lcpElement": "<img alt=\"תמונה של קפה סתלבט על המים\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; ",
+    "failedA11y": []
+  },
+  {
+    "route": "/supportive-experience",
+    "performance": 94,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3005,
+    "cls": 0,
+    "tbtMs": 45,
+    "fcpMs": 1516,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": []
+  },
+  {
+    "route": "/swimming",
+    "performance": 94,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 69,
+    "lcpMs": 3004,
+    "cls": 0.032,
+    "tbtMs": 46,
+    "fcpMs": 1512,
+    "lcpElement": "<img alt=\"\" fetchpriority=\"high\" decoding=\"async\" data-nimg=\"fill\" style=\"position: absolute; height: 100%; width: 100%;",
+    "failedA11y": [
+      "label-content-name-mismatch"
+    ]
+  }
+]

@@ -280,6 +280,6 @@
         }
       }
     ],
-    "note": "Hotspot positions are % of the map image. Titles are the Hebrew line transcribed from each live popup image (popup text is baked into images) - verify with client."
+    "note": "Hotspot positions are % of the map image. Titles transcribed from the live popup images - verify with client."
   }
 }

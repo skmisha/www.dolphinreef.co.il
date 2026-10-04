@@ -89,39 +89,93 @@
   "albums": [
     {
       "title": "סתלבט דרומי",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661347015180/"
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661347015180/",
+      "cover": {
+        "src": "/assets/images/166e60_7357127c647741d092df32e574f506f0.jpg",
+        "alt": "סתלבט דרומי תמונה",
+        "width": 266,
+        "height": 400
+      }
     },
     {
       "title": "music סתלבט",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589781764/"
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589781764/",
+      "cover": {
+        "src": "/assets/images/166e60_8844858223324f4db6d75ed6516d5753.jpg",
+        "alt": "סתלבט music",
+        "width": 448,
+        "height": 426
+      }
     },
     {
       "title": "יום כייף",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589714574/"
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589714574/",
+      "cover": {
+        "src": "/assets/images/166e60_5968cf8a4a274399804a041cdbdc58b2.jpg",
+        "alt": "תמונה של יום כייף",
+        "width": 416,
+        "height": 425
+      }
     },
     {
       "title": "חוף והופעות",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227379689/"
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227379689/",
+      "cover": {
+        "src": "/assets/images/166e60_f39783e14c8f429fbb1aa9c7429f7a25.jpg",
+        "alt": "תמונה חוף והופעות",
+        "width": 640,
+        "height": 406
+      }
     },
     {
       "title": "סתלבט על המים",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661869533796/"
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661869533796/",
+      "cover": {
+        "src": "/assets/images/166e60_114182ca6ee34de6a7115b9e5db7a149.jpg",
+        "alt": "תמונה סתלבט על המים",
+        "width": 640,
+        "height": 425
+      }
     },
     {
       "title": "בר וסביבו",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661791473621/"
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661791473621/",
+      "cover": {
+        "src": "/assets/images/166e60_74c974de2b32484c8956a2e682a53bae.jpg",
+        "alt": "תמונה של הבר וסביבו",
+        "width": 799,
+        "height": 534
+      }
     },
     {
       "title": "מפלס עליון",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157696009627144/"
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157696009627144/",
+      "cover": {
+        "src": "/assets/images/166e60_fb771bef1f304364af217adad96b3424.jpg",
+        "alt": "תמונה של מפלס עליון",
+        "width": 799,
+        "height": 534
+      }
     },
     {
       "title": "המרפסת",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227238529/"
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227238529/",
+      "cover": {
+        "src": "/assets/images/166e60_34f9a0a696214136be97f21b24954034.jpg",
+        "alt": "תמונה של המרפסת",
+        "width": 640,
+        "height": 428
+      }
     },
     {
       "title": "חתונה אחרת",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589748044/"
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589748044/",
+      "cover": {
+        "src": "/assets/images/166e60_50c6d1054ef8490cbd0f068c6dda2304.jpg",
+        "alt": "תמונה של חתונה אחרת",
+        "width": 640,
+        "height": 426
+      }
     }
   ],
   "galleryLink": {

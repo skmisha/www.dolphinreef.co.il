@@ -11,7 +11,10 @@
     "check:logical-css": "node scripts/check-logical-css.mjs",
     "test:fixtures": "node scripts/make-test-locale.mjs",
     "test:e2e": "playwright test",
-    "audit:crawl": "node scripts/audit/crawl.mjs"
+    "audit:crawl": "node scripts/audit/crawl.mjs",
+    "qa:build": "PRICE_RENDERING=dynamic next build && node scripts/make-test-locale.mjs && PRICE_RENDERING=dynamic I18N_TEST_LOCALES=en NEXT_DIST_DIR=.next-ltr next build",
+    "qa:lighthouse": "node scripts/qa/lighthouse.mjs",
+    "qa:visual": "node scripts/qa/visual.mjs"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.13.0",
@@ -21,6 +24,7 @@
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "axe-core": "^4.13.0",
+    "lighthouse": "^12.8.2",
     "playwright": "^1.56.0",
     "postcss": "^8.5.28",
     "tailwindcss": "^4.3.3",

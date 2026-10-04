@@ -2,6 +2,7 @@ import Image from 'next/image';
 import { getLocale } from 'next-intl/server';
 import { getSite } from '@/lib/content';
 import { Link } from '@/i18n/navigation';
+import { locales } from '@/config/i18n';
 import { bookingTarget, bookingUrl, contact } from '@/config/links';
 import { HeaderClient } from '@/components/client/HeaderClient';
 
@@ -25,6 +26,7 @@ export async function SiteHeader() {
       bookHref={bookingUrl('default')}
       bookNewTab={bookingTarget === '_blank'}
       phone={contact.phone}
+      locales={[...locales]}
     />
   );
 }

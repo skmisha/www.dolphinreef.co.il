@@ -1,5 +1,6 @@
 import { Suspense } from 'react';
 import { connection } from 'next/server';
+import { env } from '@/config/env';
 import { getLocale, getTranslations } from 'next-intl/server';
 import { getPricesByIds, formatPrice, lowestPrice } from '@/lib/prices';
 import { intlLocale } from '@/config/i18n';
@@ -12,7 +13,7 @@ async function fmt() {
 
 /* ---------- "from X" badge on cards ---------- */
 async function FromPriceInner({ ids }: { ids: string[] }) {
-  await connection(); // request-time data: streamed into the Suspense hole, like a future price API
+  if (env.priceRendering === 'dynamic') await connection(); // request-time: streamed into the Suspense hole
   const t = await getTranslations('price');
   try {
     const low = lowestPrice(await getPricesByIds(ids));
@@ -42,7 +43,7 @@ export async function FromPrice({ ids, className = 'xcard__price' }: { ids: stri
 
 /* ---------- inline "adult X · child Y" (home facts) ---------- */
 async function InlinePricesInner({ ids }: { ids: string[] }) {
-  await connection(); // request-time data: streamed into the Suspense hole, like a future price API
+  if (env.priceRendering === 'dynamic') await connection(); // request-time: streamed into the Suspense hole
   const t = await getTranslations();
   try {
     const prices = await getPricesByIds(ids);
@@ -80,7 +81,7 @@ function PriceRowsSkeleton({ rows, label }: { rows: number; label: string }) {
 }
 
 async function PriceRowsInner({ ids }: { ids: string[] }) {
-  await connection(); // request-time data: streamed into the Suspense hole, like a future price API
+  if (env.priceRendering === 'dynamic') await connection(); // request-time: streamed into the Suspense hole
   const t = await getTranslations();
   try {
     const prices = await getPricesByIds(ids);

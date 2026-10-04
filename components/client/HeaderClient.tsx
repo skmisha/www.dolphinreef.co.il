@@ -14,11 +14,12 @@ interface Props {
   bookHref: string;
   bookNewTab: boolean;
   phone: { href: string; display: string };
+  locales: string[];
 }
 
 const isExternal = (href: string) => /^https?:/.test(href);
 
-export function HeaderClient({ nav, primary, brand, bookHref, bookNewTab, phone }: Props) {
+export function HeaderClient({ nav, primary, brand, bookHref, bookNewTab, phone, locales }: Props) {
   const t = useTranslations();
   const pathname = usePathname();
   const [solid, setSolid] = useState(false);
@@ -89,7 +90,7 @@ export function HeaderClient({ nav, primary, brand, bookHref, bookNewTab, phone 
           </ul>
         </nav>
         <div className="header-actions">
-          <LanguageSwitcher />
+          <LanguageSwitcher locales={locales} />
           <a className="btn btn--book header-book" href={bookHref} {...(bookNewTab ? { target: '_blank', rel: 'noopener' } : {})}>
             {t('cta.book')}
           </a>

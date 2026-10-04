@@ -52,26 +52,57 @@ def rich(text, links):
     return {'text': text, 'links': own} if own else {'text': text}
 
 
-def sections_of(d, skip_h1=True):
+def rich_seq(paragraphs, links):
+    """Assign links to paragraphs in document order, so repeated link texts ("לחצו כאן") each keep their own href."""
+    queue = [l for l in links if l['text']]
     out = []
-    for s in d['sections']:
-        if skip_h1 and s['level'] == 1:
-            continue
-        sec = {'heading': s['heading'], 'paragraphs': [rich(p, s['links']) for p in s['paragraphs']]}
-        imgs = [i for i in (img(x['src'], x['alt']) for x in s['images']) if i]
+    for i, text in enumerate(paragraphs):
+        own, pos = [], 0
+        while queue:
+            l = queue[0]
+            idx = text.find(l['text'], pos)
+            if idx >= 0:
+                own.append({'text': l['text'], 'href': href(l['href'])})
+                pos = idx + len(l['text'])
+                queue.pop(0)
+            elif any(l['text'] in later for later in paragraphs[i + 1:]):
+                break  # belongs to a later paragraph
+            else:
+                queue.pop(0)  # link not in any paragraph (e.g. on a heading/image)
+        out.append({'text': text, 'links': own} if own else {'text': text})
+    return out
+
+
+def dom_links(name):
+    """Main-region links of the live page in DOM order (audit/raw), the reliable order for rich_seq."""
+    raw = json.load(open(f"audit/raw/{name.replace('/', '__')}.json", encoding='utf-8'))
+    return [{'text': re.sub(r'\s+', ' ', l['text']).strip(), 'href': l['href']} for l in raw['links'] if l['region'] == 'main' and l['text'].strip()]
+
+
+def sections_of(d, skip_h1=True, name=None):
+    src = [s for s in d['sections'] if not (skip_h1 and s['level'] == 1)]
+    flat = [p for s in src for p in s['paragraphs']]
+    links = dom_links(name) if name else [l for s in src for l in s['links']]
+    rich_all = rich_seq(flat, links)
+    out, i = [], 0
+    for s in src:
+        n = len(s['paragraphs'])
+        sec = {'heading': s['heading'], 'paragraphs': rich_all[i:i + n]}
+        i += n
+        imgs = [im for im in (img(x['src'], x['alt']) for x in s['images']) if im]
         if imgs: sec['images'] = imgs
         out.append(sec)
     return out
 
 
 def faq_of(d):
-    return [{'question': f['question'], 'answer': [rich(a, f['links']) for a in f['answer']]} for f in d['faq']]
+    return [{'question': f['question'], 'answer': rich_seq(f['answer'], f['links'])} for f in d['faq']]
 
 
 def hero_of(d, lead=None):
     h1 = d['sections'][0] if d['sections'] and d['sections'][0]['level'] == 1 else None
     hero = {'title': d['h1'][0] if d['h1'] else (h1['heading'] if h1 else '')}
-    intro = [rich(p, h1['links']) for p in h1['paragraphs']] if h1 and h1['paragraphs'] else []
+    intro = rich_seq(h1['paragraphs'], h1['links']) if h1 and h1['paragraphs'] else []
     if intro: hero['intro'] = intro
     if lead: hero['lead'] = lead
     vids = [v for v in d.get('videos', []) if 'video.wixstatic.com' in v['src']]
@@ -109,7 +140,7 @@ TEMPLATES = {
 }
 for name, tpl in TEMPLATES.items():
     d = load(name)
-    page = {'slug': name, 'template': tpl, 'seo': seo_of(d), 'hero': hero_of(d), 'sections': sections_of(d)}
+    page = {'slug': name, 'template': tpl, 'seo': seo_of(d), 'hero': hero_of(d), 'sections': sections_of(d, name=name)}
     if d['faq']: page['faq'] = faq_of(d)
     if name == 'experience-thereef':
         # first section holds a 26-image gallery from the live page
@@ -206,7 +237,7 @@ EXPERIENCES = {
 }
 for name, x in EXPERIENCES.items():
     d = load(name)
-    secs = [s for s in sections_of(d) if s['heading'] != 'להזמנה']
+    secs = [s for s in sections_of(d, name=name) if s['heading'] != 'להזמנה']
     hero = hero_of(d, lead=x.pop('lead'))
     page = {'slug': name, 'template': 'experience', 'seo': seo_of(d), 'hero': hero, 'sections': secs,
             'faq': faq_of(d), 'experience': {'youtube': x.pop('youtube'), **x}}

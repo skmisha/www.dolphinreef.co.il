@@ -8,7 +8,7 @@ import { mediaUrl } from '@/lib/media';
 
 interface Props {
   hero: HeroT;
-  variant?: 'home' | 'page';
+  variant?: 'home' | 'page' | 'compact';
   crumbs?: ReactNode;
   actions?: ReactNode;
 }
@@ -16,7 +16,7 @@ interface Props {
 /** Full-bleed hero. The still image is the LCP element; video (if any) layers in after load. */
 export function Hero({ hero, variant = 'page', crumbs, actions }: Props) {
   const image = hero.image ?? hero.video?.poster ?? undefined;
-  const cls = ['hero', variant === 'page' ? 'hero--page' : '', image ? '' : 'hero--plain'].join(' ');
+  const cls = ['hero', variant === 'page' ? 'hero--page' : '', variant === 'compact' ? 'hero--page hero--compact' : '', image ? '' : 'hero--plain'].join(' ');
   return (
     <section className={cls} aria-labelledby="page-title">
       {image && (
@@ -36,7 +36,7 @@ export function Hero({ hero, variant = 'page', crumbs, actions }: Props) {
         <h1 id="page-title">{hero.title}</h1>
         {hero.lead && <p className="lead">{hero.lead}</p>}
         {hero.intro?.map((p, i) => <RichText key={i} value={p} className="lead" />)}
-        {actions && <div className="hero__ctas" style={variant === 'page' ? { paddingBlockEnd: 'var(--space-7)' } : undefined}>{actions}</div>}
+        {actions && <div className="hero__ctas">{actions}</div>}
       </div>
     </section>
   );
