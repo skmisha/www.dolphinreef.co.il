@@ -49,8 +49,8 @@
   --overlay-card: linear-gradient(180deg, rgb(4 33 47 / 0) 35%, rgb(4 33 47 / 0.88) 100%);
 
   /* ---------- Typography ---------- */
-  --font-display: "Frank Ruhl Libre", "David Libre", "David", "Times New Roman", serif;
-  --font-body: "Assistant", "Heebo", "Arial Hebrew", "Segoe UI", Arial, sans-serif;
+  --font-display: "Frank Ruhl Libre", "Frank Ruhl Libre Fallback", "David Libre", "David", "Times New Roman", serif;
+  --font-body: "Assistant", "Assistant Fallback", "Heebo", "Arial Hebrew", "Segoe UI", Arial, sans-serif;
   /* fluid scale (360 → 1440 px). Hebrew gets generous line height. */
   --fs-display: clamp(2.5rem, 1.83rem + 2.96vw, 4.5rem);   /* 40 → 72 */
   --fs-h1: clamp(2.125rem, 1.75rem + 1.67vw, 3.25rem);     /* 34 → 52 */

@@ -1,0 +1,638 @@
+{
+  "source": {
+    "page": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
+    "embed": "https://www-dolphinreef-co-il.filesusr.com/html/166e60_a67a88e49014d4e3235557f26428e176.html"
+  },
+  "title": "התפריט & המשקאות",
+  "subtitle": "בר מסעדה על החוף · ריף הדולפינים אילת",
+  "sections": [
+    {
+      "id": "breakfast",
+      "title": "ארוחת בוקר",
+      "note": "מוגש עד 11:00",
+      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=1200&h=400&fit=crop&crop=center",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "ישראלית",
+              "description": "2 ביצים לבחירה / גבינת שמנת, טחינה, סלמון מעושן, סלט, חמאה וריבה, לחם ושתיה אחת · אפשרות לחביתה טבעונית (מעדשים)",
+              "price": "₪ 72"
+            },
+            {
+              "name": "שקשוקה",
+              "description": "מוגש עם טחינה ולחם",
+              "price": "₪ 54"
+            },
+            {
+              "name": "ג'חנון",
+              "description": "רק בשבת · מוגש עם ביצה קשה רסק וחריף",
+              "price": "₪ 42"
+            }
+          ],
+          "notes": [
+            "תוספות: בולגרית / זיתי קלמטה / פטריות / חציל — ₪ 5 · ארטישוק — ₪ 12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "toasts",
+      "title": "טוסטים",
+      "note": "מוגש עם סלט ירוק או ירקות חתוכים",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=1200&h=400&fit=crop&crop=center",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "טוסט צהובה",
+              "description": "",
+              "price": "₪ 42"
+            },
+            {
+              "name": "טוסט משולב",
+              "description": "צהובה עם ממרח בולגרית",
+              "price": "₪ 45"
+            }
+          ],
+          "notes": [
+            "תוספות: ממרח עגבניות / ממרח פסטו / טפנד זיתים / עגבנייה / בצל / פטריות — ₪ 3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "title": "סלטים",
+      "note": "מוגש עם לחם ורוטב",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&h=400&fit=crop&crop=center",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "סלט הבית",
+              "description": "",
+              "price": "₪ 54"
+            },
+            {
+              "name": "סלט עוף",
+              "description": "",
+              "price": "₪ 58"
+            },
+            {
+              "name": "סלט יווני",
+              "description": "",
+              "price": "₪ 52"
+            },
+            {
+              "name": "סלט חלומי",
+              "description": "",
+              "price": "₪ 52"
+            },
+            {
+              "name": "סלט קצוץ",
+              "description": "גדול / קטן",
+              "price": "₪ 40 / 25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sea",
+      "title": "מן הים",
+      "note": "",
+      "image": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=1200&h=400&fit=crop&crop=center",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "שרימפס",
+              "description": "ברוטב עשבי תיבול ושמנת / חמאה, שום ויין",
+              "price": "₪ 95"
+            },
+            {
+              "name": "פיש & צ'יפס",
+              "description": "",
+              "price": "₪ 58"
+            },
+            {
+              "name": "פילה דניס",
+              "description": "",
+              "price": "₪ 105"
+            },
+            {
+              "name": "פילה סלמון",
+              "description": "",
+              "price": "₪ 96"
+            },
+            {
+              "name": "טבעות קלמרי מטוגנות",
+              "description": "",
+              "price": "₪ 68"
+            },
+            {
+              "name": "דואט מטוגן",
+              "description": "שרימפס וקלמרי",
+              "price": "₪ 95"
+            },
+            {
+              "name": "חריימה של יעל",
+              "description": "רק בשישי · מוגש עם סלט כרוב, עגבניות חריפות ולחם",
+              "price": "₪ 64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grill",
+      "title": "על הגריל",
+      "note": "העיקריות מוגשות עם תוספת לבחירה: אורז / צ'יפס / סלט ירוק",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1200&h=400&fit=crop&crop=center",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "המבורגר",
+              "description": "240 גרם בקר בלחמנית פרצ'ל · מוגש עם חסה, עגבנייה, מלפפון חומץ ובצל",
+              "price": "₪ 72"
+            },
+            {
+              "name": "חזה עוף",
+              "description": "ברוטב צ'ילי / שמנת-פטריות / עשבי תיבול / שמנת עשבי תיבול",
+              "price": "₪ 68"
+            },
+            {
+              "name": "סטייק פרגית",
+              "description": "",
+              "price": "₪ 75"
+            },
+            {
+              "name": "כנפיים BBQ",
+              "description": "ללא תוספת",
+              "price": "₪ 54"
+            }
+          ],
+          "notes": [
+            "המבורגר: אפשרות לקציצה טבעונית — ₪ 5 / או חזה עוף ריבת בצל / גבינה צהובה — ₪ 3 · פלפל חריף / צ'דר / ביצת עין / הפוכה — ₪ 6 לחמנייה ללא גלוטן — ₪ 3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kids",
+      "title": "מנות ילדים",
+      "note": "",
+      "image": null,
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "המבורגר ילדים",
+              "description": "בלחמנייה עם עגבנייה, חסה ומלפפון חמוץ (120 גר')",
+              "price": "₪ 48"
+            },
+            {
+              "name": "שניצלונים וצ'יפס",
+              "description": "",
+              "price": "₪ 58"
+            },
+            {
+              "name": "נקניקיות וצ'יפס בצלחת",
+              "description": "",
+              "price": "₪ 32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pasta",
+      "title": "פסטה",
+      "note": "מוגש בליווי פרמזן",
+      "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=1200&h=400&fit=crop&crop=center",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "פסטה פנה / ספגטי / ללא גלוטן",
+              "description": "ברוטב עגבניות · שדרוג לרוזה / שמנת פטריות / בולונז",
+              "price": "₪ 52"
+            }
+          ],
+          "notes": [
+            "שדרוג רוטב — ₪ 5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "center",
+      "title": "למרכז השולחן",
+      "note": "",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&h=400&fit=crop&crop=center",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "פלטת מזטים",
+              "description": "שאל את המלצר",
+              "price": "₪ 58"
+            },
+            {
+              "name": "מזט לבחירה",
+              "description": "",
+              "price": "₪ 16"
+            },
+            {
+              "name": "בטטה בתנור",
+              "description": "מוגש עם טחינה וסלט קצוץ",
+              "price": "₪ 48"
+            },
+            {
+              "name": "שעועית ירוקה",
+              "description": "",
+              "price": "₪ 18"
+            },
+            {
+              "name": "צ'יפס",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "צלחת חריף",
+              "description": "",
+              "price": "₪ 22"
+            },
+            {
+              "name": "חומוס / טחינה / לבנה",
+              "description": "מוגש עם פיתה | 2 פיתות · גדול / קטן",
+              "price": "₪ 24 / 14"
+            },
+            {
+              "name": "פוקצ'ה מחמצת",
+              "description": "קמח מלא",
+              "price": "₪ 18"
+            }
+          ],
+          "notes": [
+            "תוספת פיתה / לחמנייה — ₪ 4 · לחמנייה ללא גלוטן — ₪ 6 סביבת העבודה אינה סטרילית ועלולה להכיל רכיבים אלרגניים"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "title": "משקאות",
+      "note": "",
+      "image": null,
+      "groups": [
+        {
+          "title": "משקאות קלים",
+          "items": [
+            {
+              "name": "סודה 250 מ\"ל",
+              "description": "",
+              "price": "₪ 8"
+            },
+            {
+              "name": "מים קטן",
+              "description": "",
+              "price": "₪ 8"
+            },
+            {
+              "name": "מים גדול",
+              "description": "",
+              "price": "₪ 10"
+            },
+            {
+              "name": "קוקה קולה / זירו",
+              "description": "",
+              "price": "₪ 15"
+            },
+            {
+              "name": "ספרייט / ספרייט זירו",
+              "description": "",
+              "price": "₪ 15"
+            },
+            {
+              "name": "תפוזים סחוט",
+              "description": "",
+              "price": "₪ 24"
+            },
+            {
+              "name": "תפוזים פריגת",
+              "description": "",
+              "price": "₪ 15"
+            },
+            {
+              "name": "אשכוליות פריגת",
+              "description": "",
+              "price": "₪ 15"
+            },
+            {
+              "name": "תפוחים צלול בקבוק",
+              "description": "",
+              "price": "₪ 15"
+            },
+            {
+              "name": "ענבים בקבוק",
+              "description": "",
+              "price": "₪ 15"
+            },
+            {
+              "name": "מים בטעמים (אפרסק / ענבים / תפוח)",
+              "description": "",
+              "price": "₪ 15"
+            },
+            {
+              "name": "אייס-טי אפרסק ביתי",
+              "description": "",
+              "price": "₪ 20"
+            },
+            {
+              "name": "פרללה מינרלים מוגז עדין 750 מ\"ל",
+              "description": "",
+              "price": "₪ 25"
+            }
+          ]
+        },
+        {
+          "title": "משקאות חמים",
+          "items": [
+            {
+              "name": "קפה שחור",
+              "description": "",
+              "price": "₪ 8"
+            },
+            {
+              "name": "נס קפה",
+              "description": "",
+              "price": "₪ 11"
+            },
+            {
+              "name": "אספרסו / כפול",
+              "description": "",
+              "price": "₪ 9 / 14"
+            },
+            {
+              "name": "תה / תה בריאות",
+              "description": "",
+              "price": "₪ 10 / 14"
+            },
+            {
+              "name": "מקיאטו / כפול",
+              "description": "",
+              "price": "₪ 12 / 14"
+            },
+            {
+              "name": "הפוך קטן / גדול",
+              "description": "",
+              "price": "₪ 14 / 16"
+            },
+            {
+              "name": "אמריקנו",
+              "description": "",
+              "price": "₪ 16"
+            },
+            {
+              "name": "אפוגטו",
+              "description": "",
+              "price": "₪ 16"
+            },
+            {
+              "name": "שוקו חם / קר",
+              "description": "",
+              "price": "₪ 16"
+            },
+            {
+              "name": "נס קפה קר",
+              "description": "",
+              "price": "₪ 18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alcohol",
+      "title": "שייקים, ברדים & אלכוהול",
+      "note": "",
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&h=400&fit=crop&crop=center",
+      "groups": [
+        {
+          "title": "שייקים & ברדים",
+          "items": [
+            {
+              "name": "אייס קפה",
+              "description": "",
+              "price": "₪ 21"
+            },
+            {
+              "name": "לימונענע גרוס",
+              "description": "",
+              "price": "₪ 22"
+            },
+            {
+              "name": "ענבים / אבטיח",
+              "description": "",
+              "price": "₪ 18"
+            },
+            {
+              "name": "פרישייק — טבעוני",
+              "description": "",
+              "price": "₪ 38"
+            }
+          ],
+          "notes": [
+            "ניתן להוסיף אלכוהול לשייקים והברדים · שאל את המלצר"
+          ]
+        },
+        {
+          "title": "קוקטיילים",
+          "items": [],
+          "notes": [
+            "שאל את המלצר"
+          ]
+        },
+        {
+          "title": "ברד ערק",
+          "items": [
+            {
+              "name": "רגיל / גדול",
+              "description": "",
+              "price": "₪ 36"
+            },
+            {
+              "name": "חיזוק ערק: צ'ייסר",
+              "description": "",
+              "price": "₪ 9"
+            },
+            {
+              "name": "חיזוק ערק: מנה",
+              "description": "",
+              "price": "₪ 12"
+            }
+          ]
+        },
+        {
+          "title": "יין בכוס",
+          "items": [
+            {
+              "name": "אביב לבן",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "אביב רוזה",
+              "description": "",
+              "price": "₪ 32"
+            },
+            {
+              "name": "אביב אדום",
+              "description": "",
+              "price": "₪ 34"
+            },
+            {
+              "name": "גמלא גוורצטרמינר (חצי יבש)",
+              "description": "",
+              "price": "₪ 32"
+            }
+          ],
+          "notes": [
+            "תפריט יין מלא · שאל את המלצר"
+          ]
+        },
+        {
+          "title": "בירות",
+          "items": [
+            {
+              "name": "מהחבית",
+              "description": "",
+              "price": "½ / ⅓"
+            },
+            {
+              "name": "קרלסברג",
+              "description": "",
+              "price": "₪ 26 / 30"
+            },
+            {
+              "name": "טובורג",
+              "description": "",
+              "price": "₪ 26 / 30"
+            },
+            {
+              "name": "ויינשטפן",
+              "description": "",
+              "price": "₪ 28 / 34"
+            },
+            {
+              "name": "בלאנק 1664",
+              "description": "",
+              "price": "₪ 28 / 34"
+            },
+            {
+              "name": "שיקמה בלונד",
+              "description": "",
+              "price": "₪ 28 / 34"
+            }
+          ]
+        },
+        {
+          "title": "בקבוק / פחית",
+          "items": [
+            {
+              "name": "קרלסברג אלומיניום",
+              "description": "",
+              "price": "₪ 26"
+            },
+            {
+              "name": "בלאנק 1664 פחית",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "שיקמה IPA",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "סאן מיגל פרסקה",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "אסטרייה דאם",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "סיידר אלכוהולי (ללא גלוטן)",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "אדורה דאם (ללא גלוטן)",
+              "description": "",
+              "price": "₪ 28"
+            }
+          ]
+        },
+        {
+          "title": "באקטים",
+          "items": [
+            {
+              "name": "בלאנק 1664 — 3+1 (פחית)",
+              "description": "",
+              "price": "₪ 78"
+            },
+            {
+              "name": "מיקס 4+1 (קרלסברג, אסטרייה, בלאנק)",
+              "description": "",
+              "price": "₪ 105"
+            },
+            {
+              "name": "סומרסבי סיידר תפוחים 2+1",
+              "description": "",
+              "price": "₪ 74"
+            },
+            {
+              "name": "באקט סאן מיגל 5 בקבוקים 250 מ\"ל",
+              "description": "",
+              "price": "₪ 76"
+            }
+          ],
+          "notes": [
+            "עוד אלכוהול שלא בתפריט · שאל את המלצר"
+          ]
+        }
+      ]
+    }
+  ],
+  "unparsed": [],
+  "footer": [
+    "בעלי כרטיס חבר ריף או תושב אילת, נא להציגו בעת ההזמנה",
+    "ריף הדולפינים אילת · 08-6300111 · info@dolphinreef.co.il",
+    "המחירים כוללים מע\"מ · התפריט עשוי להשתנות",
+    "מקווים שנהניתם, נשמח לראותכם שוב"
+  ],
+  "seo": {
+    "title": "ריף הדולפינים תפריט בר חוף | Dolphin Reef Bar menu",
+    "description": "",
+    "ogTitle": "ריף הדולפינים תפריט בר חוף | Dolphin Reef Bar menu",
+    "ogDescription": "",
+    "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
+    "canonical": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar"
+  },
+  "h1": [],
+  "slug": "dining-at-thereef/menu-bar"
+}

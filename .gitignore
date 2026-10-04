@@ -4,3 +4,9 @@ out/
 .env
 .env.local
 *.log
+.next/
+next-env.d.ts
+test-results/
+playwright-report/
+tests/fixtures/content/
+*.tsbuildinfo

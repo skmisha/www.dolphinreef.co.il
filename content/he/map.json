@@ -1,45 +1,285 @@
 {
   "slug": "map",
-  "source": "https://www.dolphinreef.co.il/map",
+  "template": "map",
   "seo": {
     "title": "מפה להתמצאות בריף הדולפינים אילת",
     "description": "מפה דינמית להתמצאות בריף הדולפינים אילת – אתרו את הבריכות, מועדון הצלילה, המסעדה, הקפה, חנות המזכרות ושאר נקודות העניין באתר לקראת הביקור.",
-    "ogTitle": "מפה להתמצאות בריף הדולפינים אילת",
-    "ogDescription": "מפה דינמית להתמצאות בריף הדולפינים אילת – אתרו את הבריכות, מועדון הצלילה, המסעדה, הקפה, חנות המזכרות ושאר נקודות העניין באתר לקראת הביקור.",
-    "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
-    "canonical": "https://www.dolphinreef.co.il/map"
+    "ogImage": "/assets/images/166e60_9d788e16ab49497eb1834ea156162169.jpg"
   },
-  "h1": [
-    "מפת התמצאות בריף הדולפינים"
-  ],
-  "sections": [
-    {
-      "heading": "מפת התמצאות בריף הדולפינים",
-      "level": 1,
-      "paragraphs": [],
-      "links": [],
-      "images": [
-        {
-          "src": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
-          "alt": "Dolphin Reef Logo"
-        }
-      ]
+  "hero": {
+    "title": "מפת התמצאות בריף הדולפינים"
+  },
+  "sections": [],
+  "map": {
+    "image": {
+      "src": "/assets/images/166e60_7a720a93da5444df87e38a94a752ee54.jpg",
+      "alt": "מפת התמצאות בריף הדולפינים",
+      "width": 1140,
+      "height": 700
     },
-    {
-      "heading": "לחיצה על המספר המופיע במפה תפתח תיאור והסבר קצר על האזור שנבחר.",
-      "level": 2,
-      "paragraphs": [],
-      "links": [],
-      "images": [
-        {
-          "src": "https://static.wixstatic.com/media/166e60_7a720a93da5444df87e38a94a752ee54~mv2.jpg/v1/fill/w_1139,h_700,al_c,q_85,enc_avif,quality_auto/map.jpg",
-          "alt": "מפת התמצאות בריף הדולפינים"
+    "instructions": "לחיצה על המספר המופיע במפה תפתח תיאור והסבר קצר על האזור שנבחר.",
+    "hotspots": [
+      {
+        "id": 10,
+        "label": "1",
+        "title": "כניסה, קופות ומידע",
+        "xPct": 96.9,
+        "yPct": 69.48,
+        "popup": {
+          "src": "/assets/images/166e60_6852b0a881d14078a0d63d2a68e87f17.jpg",
+          "alt": "כניסה, קופות ומידע",
+          "width": 500,
+          "height": 164
         }
-      ]
-    }
-  ],
-  "faq": [],
-  "ctas": [],
-  "videos": [],
-  "embeds": []
+      },
+      {
+        "id": 14,
+        "label": "2",
+        "title": "חנות מזכרות",
+        "xPct": 68.79,
+        "yPct": 96.06,
+        "popup": {
+          "src": "/assets/images/166e60_34710052edcc4fdfa0af8aa15eee24d1.jpg",
+          "alt": "חנות מזכרות",
+          "width": 500,
+          "height": 162
+        }
+      },
+      {
+        "id": 15,
+        "label": "3",
+        "title": "אודיטוריום: סרטי דולפינים",
+        "xPct": 64.38,
+        "yPct": 96.2,
+        "popup": {
+          "src": "/assets/images/166e60_adf43544fc9b42c3aa66213dfd3614c2.jpg",
+          "alt": "אודיטוריום: סרטי דולפינים",
+          "width": 500,
+          "height": 162
+        }
+      },
+      {
+        "id": 16,
+        "label": "4",
+        "title": "מרכז יצירה לילדים",
+        "xPct": 59.96,
+        "yPct": 96.2,
+        "popup": {
+          "src": "/assets/images/166e60_ae20014a72b148b590c80f2aa6dd8bc1.jpg",
+          "alt": "מרכז יצירה לילדים",
+          "width": 500,
+          "height": 165
+        }
+      },
+      {
+        "id": 0,
+        "label": "5",
+        "title": "גונדולה - סירת זכוכית",
+        "xPct": 79.79,
+        "yPct": 7.86,
+        "popup": {
+          "src": "/assets/images/166e60_a92a9eba177948d996f6d533516dda05.jpg",
+          "alt": "גונדולה - סירת זכוכית",
+          "width": 500,
+          "height": 168
+        }
+      },
+      {
+        "id": 1,
+        "label": "6",
+        "title": "בר/מסעדה על החוף",
+        "xPct": 68.79,
+        "yPct": 7.86,
+        "popup": {
+          "src": "/assets/images/166e60_058e06f5e1b14b55ad14fe733ae7e789.jpg",
+          "alt": "בר/מסעדה על החוף",
+          "width": 500,
+          "height": 165
+        }
+      },
+      {
+        "id": 2,
+        "label": "7",
+        "title": "ירידה לחוף",
+        "xPct": 63.85,
+        "yPct": 7.86,
+        "popup": {
+          "src": "/assets/images/166e60_7366d940823c482fbb17f3079fedcf80.jpg",
+          "alt": "ירידה לחוף",
+          "width": 500,
+          "height": 164
+        }
+      },
+      {
+        "id": 3,
+        "label": "7",
+        "title": "ירידה לחוף",
+        "xPct": 35.57,
+        "yPct": 7.87,
+        "popup": {
+          "src": "/assets/images/166e60_7366d940823c482fbb17f3079fedcf80.jpg",
+          "alt": "ירידה לחוף",
+          "width": 500,
+          "height": 164
+        }
+      },
+      {
+        "id": 5,
+        "label": "7",
+        "title": "ירידה לחוף",
+        "xPct": 3.85,
+        "yPct": 32.15,
+        "popup": {
+          "src": "/assets/images/166e60_7366d940823c482fbb17f3079fedcf80.jpg",
+          "alt": "ירידה לחוף",
+          "width": 500,
+          "height": 164
+        }
+      },
+      {
+        "id": 4,
+        "label": "8",
+        "title": "צפייה בדולפינים",
+        "xPct": 30.5,
+        "yPct": 7.87,
+        "popup": {
+          "src": "/assets/images/166e60_84a67926591b4aaa8fbbed95f2f0fb3a.jpg",
+          "alt": "צפייה בדולפינים",
+          "width": 500,
+          "height": 165
+        }
+      },
+      {
+        "id": 11,
+        "label": "9",
+        "title": "שחייה וצלילה עם דולפינים.",
+        "xPct": 3.85,
+        "yPct": 64.83,
+        "popup": {
+          "src": "/assets/images/166e60_91bc53eb59b64e4cbbfdab1620a31d72.jpg",
+          "alt": "שחייה וצלילה עם דולפינים.",
+          "width": 500,
+          "height": 353
+        }
+      },
+      {
+        "id": 9,
+        "label": "10",
+        "title": "מסעדה בהגשה עצמית.",
+        "xPct": 3.85,
+        "yPct": 57.08,
+        "popup": {
+          "src": "/assets/images/166e60_bf064874526d4388b0f166f1b770ea0a.jpg",
+          "alt": "מסעדה בהגשה עצמית.",
+          "width": 500,
+          "height": 170
+        }
+      },
+      {
+        "id": 7,
+        "label": "11",
+        "title": "מרכז צילום",
+        "xPct": 3.85,
+        "yPct": 49.6,
+        "popup": {
+          "src": "/assets/images/166e60_c69a5e0dd6174c37825736b1afd4f9bb.jpg",
+          "alt": "מרכז צילום",
+          "width": 500,
+          "height": 169
+        }
+      },
+      {
+        "id": 6,
+        "label": "12",
+        "title": "\"סתלבט על המים\".",
+        "xPct": 3.85,
+        "yPct": 39.32,
+        "popup": {
+          "src": "/assets/images/166e60_c58a2cb2312e4adabd0d98e7c23078c5.jpg",
+          "alt": "\"סתלבט על המים\".",
+          "width": 500,
+          "height": 304
+        }
+      },
+      {
+        "id": 13,
+        "label": "A",
+        "title": "דרכים נגישות",
+        "xPct": 82.06,
+        "yPct": 95.93,
+        "popup": {
+          "src": "/assets/images/166e60_4c109b35996f464996ae0ecd347c6cf3.jpg",
+          "alt": "דרכים נגישות",
+          "width": 500,
+          "height": 212
+        }
+      },
+      {
+        "id": 12,
+        "label": "B",
+        "title": "דרכים נגישות",
+        "xPct": 97.15,
+        "yPct": 86.84,
+        "popup": {
+          "src": "/assets/images/166e60_4c109b35996f464996ae0ecd347c6cf3.jpg",
+          "alt": "דרכים נגישות",
+          "width": 500,
+          "height": 212
+        }
+      },
+      {
+        "id": 8,
+        "label": "C",
+        "title": "דרכים נגישות",
+        "xPct": 97.15,
+        "yPct": 57.08,
+        "popup": {
+          "src": "/assets/images/166e60_4c109b35996f464996ae0ecd347c6cf3.jpg",
+          "alt": "דרכים נגישות",
+          "width": 500,
+          "height": 212
+        }
+      },
+      {
+        "id": 19,
+        "label": "D",
+        "title": "דרכים נגישות",
+        "xPct": 16.4,
+        "yPct": 96.19,
+        "popup": {
+          "src": "/assets/images/166e60_4c109b35996f464996ae0ecd347c6cf3.jpg",
+          "alt": "דרכים נגישות",
+          "width": 500,
+          "height": 212
+        }
+      },
+      {
+        "id": 18,
+        "label": "E",
+        "title": "דרכים נגישות",
+        "xPct": 22.71,
+        "yPct": 96.06,
+        "popup": {
+          "src": "/assets/images/166e60_4c109b35996f464996ae0ecd347c6cf3.jpg",
+          "alt": "דרכים נגישות",
+          "width": 500,
+          "height": 212
+        }
+      },
+      {
+        "id": 17,
+        "label": "F",
+        "title": "דרכים נגישות",
+        "xPct": 29.68,
+        "yPct": 95.93,
+        "popup": {
+          "src": "/assets/images/166e60_4c109b35996f464996ae0ecd347c6cf3.jpg",
+          "alt": "דרכים נגישות",
+          "width": 500,
+          "height": 212
+        }
+      }
+    ],
+    "note": "Hotspot positions are % of the map image. Titles are the Hebrew line transcribed from each live popup image (popup text is baked into images) - verify with client."
+  }
 }

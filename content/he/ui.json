@@ -1,0 +1,147 @@
+{
+  "a11y": {
+    "skipToContent": "דילוג לתוכן הראשי",
+    "toolbar": "תפריט נגישות",
+    "toolbarTitle": "התאמות נגישות",
+    "fontSize": "גודל טקסט",
+    "fontDecrease": "הקטנת טקסט",
+    "fontIncrease": "הגדלת טקסט",
+    "fontReset": "איפוס גודל טקסט",
+    "contrast": "ניגודיות גבוהה",
+    "highlightLinks": "הדגשת קישורים",
+    "stopAnimations": "עצירת אנימציות",
+    "resetAll": "איפוס כל ההתאמות",
+    "close": "סגירה",
+    "statementLink": "הצהרת נגישות",
+    "opensNewWindow": "(נפתח בחלון חדש)",
+    "pdf": "(PDF)"
+  },
+  "nav": {
+    "main": "ניווט ראשי",
+    "menu": "תפריט",
+    "closeMenu": "סגירת התפריט",
+    "home": "דף הבית",
+    "breadcrumbs": "פירורי לחם",
+    "language": "שפה"
+  },
+  "cta": {
+    "book": "להזמנה",
+    "details": "לפרטים",
+    "call": "התקשרו",
+    "whatsapp": "WhatsApp",
+    "email": "דוא\"ל",
+    "start": "בואו נתחיל"
+  },
+  "price": {
+    "from": "החל מ-",
+    "title": "מחירים",
+    "loading": "טוען מחירים…",
+    "error": "המחירים אינם זמינים כרגע. ניתן לברר במרכז ההזמנות.",
+    "empty": "לא נמצאו מחירים לפעילות זו. ניתן לברר במרכז ההזמנות.",
+    "retry": "נסו שוב",
+    "audience": {
+      "adult": "מבוגר",
+      "child": "ילד",
+      "infant": "פעוט"
+    },
+    "ageFrom": "מגיל {age}",
+    "ageRange": "גיל {from} - {to}",
+    "ageUnder": "עד גיל {age}",
+    "free": "חינם"
+  },
+  "prices": {
+    "entry": {
+      "adult": "מבוגר (מעל גיל 15)",
+      "child": "ילד (גיל 3 - 15)",
+      "infant": "ילדים עד גיל 3"
+    },
+    "snorkeling": {
+      "adult": "מבוגר (מגיל 15)",
+      "child": "ילד (מגיל 10)"
+    },
+    "introDive": {
+      "adult": "מבוגר (מגיל 15)",
+      "child": "ילד (מגיל 8)"
+    },
+    "stalbet": {
+      "oneOnOne": "טיפול חוויתי \"ספיישל אחד על אחד\"",
+      "session": "בילוי בסתלבט (ללא טיפול חוויתי)",
+      "chillOut": "\" Chill out\" בסתלבט"
+    }
+  },
+  "facts": {
+    "age": "גיל",
+    "duration": "משך",
+    "depth": "עומק מרבי",
+    "hours": "שעות",
+    "group": "קבוצה",
+    "pools": "בריכות",
+    "days": "ימי פעילות",
+    "region": "פרטי הפעילות"
+  },
+  "home": {
+    "visitFacts": "מידע לביקור",
+    "planVisit": "מתכננים ביקור",
+    "siteMap": "מפה להתמצאות באתר",
+    "openMaps": "ניווט לריף",
+    "openMapsLabel": "פתיחת המיקום במפות Google",
+    "more": "עוד בריף"
+  },
+  "experience": {
+    "goodToKnow": "חשוב לדעת",
+    "documents": "טפסים",
+    "bringId": "תעודה מזהה",
+    "more": "חוויות נוספות בריף",
+    "bookByPhone": "הזמנה טלפונית"
+  },
+  "faq": {
+    "title": "שאלות נפוצות"
+  },
+  "video": {
+    "watchOnYoutube": "צפייה ב-YouTube",
+    "watchLabel": "צפייה בסרטון ב-YouTube",
+    "pause": "עצירת הווידאו",
+    "play": "הפעלת הווידאו"
+  },
+  "gallery": {
+    "albums": "אלבומי תמונות",
+    "openAlbum": "לאלבום"
+  },
+  "map": {
+    "spot": "אזור {n}",
+    "close": "סגירה",
+    "imageAlt": "פרטי אזור {n} במפת האתר"
+  },
+  "menu": {
+    "sections": "קטגוריות בתפריט"
+  },
+  "bookBar": {
+    "region": "הזמנה",
+    "label": "שנירקול · צלילה · סתלבט"
+  },
+  "footer": {
+    "experiences": "חוויות",
+    "onSite": "בריף",
+    "info": "מידע",
+    "contact": "יצירת קשר",
+    "social": "רשתות חברתיות",
+    "copyright": "© ריף הדולפינים אילת"
+  },
+  "cookies": {
+    "title": "עוגיות (Cookies)",
+    "text": "אנו משתמשים בעוגיות כדי לשפר את חוויית הגלישה. עוגיות סטטיסטיקה ושיווק נטענות רק לאחר אישורכם.",
+    "accept": "אישור",
+    "reject": "דחיית הכל",
+    "policy": "מדיניות הפרטיות"
+  },
+  "error": {
+    "notFoundTitle": "העמוד לא נמצא",
+    "notFoundText": "ייתכן שהעמוד הועבר או שהכתובת שגויה.",
+    "backHome": "חזרה לדף הבית",
+    "generic": "משהו השתבש. נסו לרענן את העמוד."
+  },
+  "language": {
+    "he": "עברית",
+    "en": "English"
+  }
+}

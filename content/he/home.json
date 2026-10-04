@@ -1,204 +1,208 @@
 {
   "slug": "",
-  "source": "https://www.dolphinreef.co.il/",
+  "template": "home",
   "seo": {
     "title": "ריף הדולפינים אילת – שחייה, צלילה ובריכות סתלבט",
     "description": "ריף הדולפינים באילת – אתר ייחודי על חוף ים סוף, לצפות בדולפינים בבית גידולם הטבעי, לשחות ולצלול לצידם, ולבלות בבריכות הסתלבט, במסעדת החוף ובאחד החופים היפים בישראל.",
-    "ogTitle": "ריף הדולפינים אילת – שחייה, צלילה ובריכות סתלבט",
-    "ogDescription": "ריף הדולפינים באילת – אתר ייחודי על חוף ים סוף, לצפות בדולפינים בבית גידולם הטבעי, לשחות ולצלול לצידם, ולבלות בבריכות הסתלבט, במסעדת החוף ובאחד החופים היפים בישראל.",
-    "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169~mv2.jpg/v1/fill/w_1200,h_630,al_c/166e60_9d788e16ab49497eb1834ea156162169~mv2.jpg",
-    "canonical": "https://www.dolphinreef.co.il/"
+    "ogImage": "/assets/images/166e60_9d788e16ab49497eb1834ea156162169.jpg"
   },
-  "h1": [
-    "ריף הדולפינים - חלום של מציאות"
-  ],
-  "sections": [
+  "hero": {
+    "title": "ריף הדולפינים - חלום של מציאות",
+    "eyebrow": "ריף הדולפינים באילת",
+    "lead": "ריף הדולפינים באילת – אתר ייחודי על חוף ים סוף, לצפות בדולפינים בבית גידולם הטבעי, לשחות ולצלול לצידם, ולבלות בבריכות הסתלבט, במסעדת החוף ובאחד החופים היפים בישראל.",
+    "cta": {
+      "text": "בואו נתחיל",
+      "href": "#experiences"
+    },
+    "image": {
+      "src": "/assets/images/62bd3d_79e6f92bc1584eafaa455a35c2d963f4.jpg",
+      "alt": "הנוף מתחת למים",
+      "width": 4000,
+      "height": 3000
+    },
+    "video": {
+      "src": "/assets/video/166e60_0ffd61ae82db425ea673ca004fc2f9a7.mp4",
+      "poster": {
+        "src": "/assets/images/166e60_0ffd61ae82db425ea673ca004fc2f9a7f000.jpg",
+        "alt": "",
+        "width": 1920,
+        "height": 1080
+      }
+    }
+  },
+  "facts": [
     {
-      "heading": "ריף הדולפינים - חלום של מציאות",
-      "level": 1,
-      "paragraphs": [],
-      "links": [],
-      "images": [
-        {
-          "src": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
-          "alt": "Dolphin Reef Logo"
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_9464caf34955478b8e60f0041d0ddff9f000.jpg/v1/fill/w_1440,h_837,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/166e60_9464caf34955478b8e60f0041d0ddff9f000.jpg",
-          "alt": ""
-        }
-      ]
+      "label": "שני - חמישי",
+      "value": "09:00-16:30",
+      "note": "בימי ראשון סגור, למעט חופשות החגים וחלק מחופשת הקיץ."
     },
     {
-      "heading": "בואו נתחיל",
-      "level": 2,
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "בואו נתחיל",
-          "href": "https://www.dolphinreef.co.il/"
-        }
-      ],
-      "images": []
+      "label": "שישי ושבת",
+      "value": "09:00-17:00",
+      "note": "מאחר שייתכנו שינויים בעקבות המצב ובהתאם לעונות השנה מומלץ להתעדכן לפני ההגעה."
     },
     {
-      "heading": "מי אנחנו",
-      "level": 2,
-      "paragraphs": [
-        "ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, נופים קסומים, פינות \"סתלבט\" על חוף הים ולצפות בדולפינים בבית גידולם הטבעי (בים) והכל, תוך התחשבות מרבית בטבע ובסביבה עוד...",
-        "להתחלת החוויה"
+      "label": "מחירי כניסה",
+      "priceIds": [
+        "entry-adult",
+        "entry-child"
       ],
-      "links": [
-        {
-          "text": "עוד...",
-          "href": "https://www.dolphinreef.co.il/experience-thereef"
-        },
-        {
-          "text": "להתחלת החוויה",
-          "href": "https://www.dolphinreef.co.il/"
-        }
-      ],
-      "images": [
-        {
-          "src": "https://static.wixstatic.com/media/166e60_0ffd61ae82db425ea673ca004fc2f9a7f000.jpg/v1/fill/w_1440,h_646,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/166e60_0ffd61ae82db425ea673ca004fc2f9a7f000.jpg",
-          "alt": ""
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_a0ca83ad97d6436f9d28d661f03bb7bb~mv2.jpg/v1/fill/w_190,h_370,al_c,lg_1,q_80,enc_avif,quality_auto/dolphin2.jpg",
-          "alt": "דולפינים"
-        }
-      ]
-    },
-    {
-      "heading": "החוויות בריף הדולפינים",
-      "level": 2,
-      "paragraphs": [],
-      "links": [],
-      "images": [
-        {
-          "src": "https://static.wixstatic.com/media/166e60_77ff107a5086477b9e450940faaaac5e~mv2.jpg/v1/fill/w_350,h_456,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/51261147126_c1c6052697_o_edited.jpg",
-          "alt": "חווית הביקור בריף הדולפינים, תמונה יפהיפיה של ריף הדולפינים מלמעלה לכיוון הים."
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_d82618a7b55f41e7ba25793070ecfb55~mv2.jpg/v1/crop/x_26,y_0,w_328,h_428/fill/w_350,h_456,fp_0.50_0.50,lg_1,q_80,enc_avif,quality_auto/diving.jpg",
-          "alt": "צלילה בריף הדולפינים, תמונה של צלילת הכרות שני אנשים צוללים במים מחזיקים ידיים ודולפין מאחור"
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_0d61301c2fd2421a9eff24df7f096a13~mv2.jpg/v1/fill/w_350,h_456,fp_0.68_0.29,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/_DSC6091_edited.jpg",
-          "alt": "שנירקול בריף הדולפינים, תמונה של שלושה אנשים מחזיקים ידיים וצפים על פני המים."
-        }
-      ]
-    },
-    {
-      "heading": "חווית הביקור בריף",
-      "level": 2,
-      "paragraphs": [
-        "ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם, המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, ואפשרות לצפות בדולפינים בבית גידולם הטבעי ..."
-      ],
-      "links": [
-        {
-          "text": "חווית הביקור בריף",
-          "href": "https://www.dolphinreef.co.il/experience-thereef"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "צלילה בריף הדולפינים",
-      "level": 2,
-      "paragraphs": [
-        "אם חלמתם לבקר בעולם קסום, מנותק \"מרעשי היום יום\", מרחפים חסרי משקל, מוקפים בעושר של דגים ואלמוגים, בסביבתם הטבעית של הדולפינים..."
-      ],
-      "links": [
-        {
-          "text": "צלילה בריף הדולפינים",
-          "href": "https://www.dolphinreef.co.il/diving"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "שנירקול בריף הדולפינים",
-      "level": 2,
-      "paragraphs": [
-        "לשנרקל בסביבתם הטבעית של הדולפינים הוא חלום שרבים נושאים בליבם, ובריף הדולפינים הוא יכול להפוך למציאות…"
-      ],
-      "links": [
-        {
-          "text": "שנירקול בריף הדולפינים",
-          "href": "https://www.dolphinreef.co.il/swimming"
-        }
-      ],
-      "images": [
-        {
-          "src": "https://static.wixstatic.com/media/166e60_86bc60dfc89844a3aed848c134ed243d~mv2.jpg/v1/fill/w_350,h_456,fp_0.48_0.01,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Roni_balahsan.jpg",
-          "alt": "סתלבט על המים, תמונה יפה של בחורה צפה על פני המים בסתלבט על המים בריף הדולפינים"
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_b9ea212268c0418da64548943420389f~mv2.jpg/v1/fill/w_350,h_456,fp_0.53_0.37,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSCF2055.jpg",
-          "alt": "לאכול בריף תמונה של בחורה יושבת על החוף קורה בספר מחכה לארוחת צהריים בריף הדולפינים"
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_dee21300b4074dad908e6d0a11198d21~mv2.jpg/v1/fill/w_350,h_456,al_c,lg_1,q_80,enc_avif,quality_auto/events.jpg",
-          "alt": "אירועים בריף דולפינים, תמונה של נרות ספים על פני המים"
-        }
-      ]
-    },
-    {
-      "heading": "סתלבט על המים",
-      "level": 2,
-      "paragraphs": [
-        "מחפשים \"אי של שלווה בים של סערות\"? ניקוי ראש, התרגעות, הנאה ו\"טעינה מחדש של המצברים\"? תמצאו את כולם בברכות סתלבט על המים..."
-      ],
-      "links": [
-        {
-          "text": "סתלבט על המים",
-          "href": "https://www.dolphinreef.co.il/stalbet"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "לאכול בריף",
-      "level": 2,
-      "paragraphs": [
-        "בילוי בריף ואוויר הים פותחים את התאבון. בר החוף, קפה סתלבט והמזנון ישלימו את חווית הביקור שלכם ולא תצאו רעבים ..."
-      ],
-      "links": [
-        {
-          "text": "לאכול בריף",
-          "href": "https://www.dolphinreef.co.il/dining-at-thereef"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "אירועים בריף הדולפינים",
-      "level": 2,
-      "paragraphs": [
-        "כל מה שרציתם ולא העזתם לחלום…",
-        "אירועים לחברות ולפרטיים בריף הדולפינים"
-      ],
-      "links": [
-        {
-          "text": "אירועים בריף הדולפינים",
-          "href": "https://www.dolphinreef.co.il/events"
-        }
-      ],
-      "images": []
+      "note": "ילדים עד גיל 3 כניסה חינם. ילדים עד גיל 15 חייבים בליווי מבוגר בכל מהלך הביקור."
     }
   ],
-  "faq": [],
-  "ctas": [],
-  "videos": [
+  "experiences": {
+    "heading": "החוויות בריף הדולפינים",
+    "cards": [
+      {
+        "slug": "swimming",
+        "title": "שנירקול בריף הדולפינים",
+        "text": "לשנרקל בסביבתם הטבעית של הדולפינים הוא חלום שרבים נושאים בליבם, ובריף הדולפינים הוא יכול להפוך למציאות…",
+        "image": {
+          "src": "/assets/images/166e60_0d61301c2fd2421a9eff24df7f096a13.jpg",
+          "alt": "שנירקול בריף הדולפינים, תמונה של שלושה אנשים מחזיקים ידיים וצפים על פני המים.",
+          "width": 1809,
+          "height": 2175
+        },
+        "chips": [
+          {
+            "icon": "age",
+            "text": "מגיל 10"
+          },
+          {
+            "icon": "clock",
+            "text": "כ-25 דקות במים"
+          }
+        ],
+        "priceIds": [
+          "snorkel-adult",
+          "snorkel-child"
+        ],
+        "booking": "snorkeling"
+      },
+      {
+        "slug": "diving",
+        "title": "צלילה בריף הדולפינים",
+        "text": "אם חלמתם לבקר בעולם קסום, מנותק \"מרעשי היום יום\", מרחפים חסרי משקל, מוקפים בעושר של דגים ואלמוגים, בסביבתם הטבעית של הדולפינים...",
+        "image": {
+          "src": "/assets/images/166e60_0ffd61ae82db425ea673ca004fc2f9a7f000.jpg",
+          "alt": "צלילה בריף הדולפינים",
+          "width": 1920,
+          "height": 1080
+        },
+        "chips": [
+          {
+            "icon": "age",
+            "text": "מגיל 8"
+          },
+          {
+            "icon": "clock",
+            "text": "כ-25 דקות במים"
+          }
+        ],
+        "priceIds": [
+          "dive-adult",
+          "dive-child"
+        ],
+        "booking": "diving"
+      },
+      {
+        "slug": "stalbet",
+        "title": "סתלבט על המים",
+        "text": "מחפשים \"אי של שלווה בים של סערות\"? ניקוי ראש, התרגעות, הנאה ו\"טעינה מחדש של המצברים\"? תמצאו את כולם בברכות סתלבט על המים...",
+        "image": {
+          "src": "/assets/images/166e60_86bc60dfc89844a3aed848c134ed243d.jpg",
+          "alt": "סתלבט על המים, תמונה יפה של בחורה צפה על פני המים בסתלבט על המים בריף הדולפינים",
+          "width": 640,
+          "height": 971
+        },
+        "chips": [
+          {
+            "icon": "age",
+            "text": "מגיל 18"
+          },
+          {
+            "icon": "clock",
+            "text": "שעה של בילוי"
+          }
+        ],
+        "priceIds": [
+          "stalbet-session",
+          "stalbet-one-on-one"
+        ],
+        "booking": "stalbetPools"
+      },
+      {
+        "slug": "experience-thereef",
+        "title": "חווית הביקור בריף",
+        "text": "ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם, המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, ואפשרות לצפות בדולפינים בבית גידולם הטבעי ...",
+        "image": {
+          "src": "/assets/images/166e60_1ee3cd38d7d04552acf65eda3416007f.jpg",
+          "alt": "A beautiful aerial picture of Dolphin Reef",
+          "width": 961,
+          "height": 720
+        },
+        "chips": [
+          {
+            "icon": "age",
+            "text": "ילדים עד גיל 3 כניסה חינם"
+          },
+          {
+            "icon": "clock",
+            "text": "בילוי של יום שלם באתר"
+          }
+        ],
+        "priceIds": [
+          "entry-adult",
+          "entry-child"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "heading": "מי אנחנו",
+    "text": "ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, נופים קסומים, פינות \"סתלבט\" על חוף הים ולצפות בדולפינים בבית גידולם הטבעי (בים) והכל, תוך התחשבות מרבית בטבע ובסביבה",
+    "link": {
+      "text": "עוד...",
+      "href": "/experience-thereef"
+    },
+    "image": {
+      "src": "/assets/images/166e60_9464caf34955478b8e60f0041d0ddff9f000.jpg",
+      "alt": "",
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "more": [
     {
-      "src": "https://video.wixstatic.com/video/166e60_9464caf34955478b8e60f0041d0ddff9/1080p/mp4/file.mp4",
-      "poster": ""
+      "slug": "dining-at-thereef",
+      "title": "לאכול בריף",
+      "text": "בילוי בריף ואוויר הים פותחים את התאבון. בר החוף, קפה סתלבט והמזנון ישלימו את חווית הביקור שלכם ולא תצאו רעבים ...",
+      "image": {
+        "src": "/assets/images/166e60_57df473dadab4a6cadcab16a257c42d7.jpg",
+        "alt": "תמונה של הכנת אירוע בריף הדולפינים תמונה יפהיפיה",
+        "width": 1920,
+        "height": 1280
+      }
     },
     {
-      "src": "https://video.wixstatic.com/video/166e60_0ffd61ae82db425ea673ca004fc2f9a7/1080p/mp4/file.mp4",
-      "poster": ""
+      "slug": "events",
+      "title": "אירועים בריף הדולפינים",
+      "text": "כל מה שרציתם ולא העזתם לחלום… אירועים לחברות ולפרטיים בריף הדולפינים",
+      "image": {
+        "src": "/assets/images/166e60_6fecf2aa885b4339b80ec9ce26c44024.jpg",
+        "alt": "תמונה של החוף בריף הדולפינים בשקיעה.",
+        "width": 4032,
+        "height": 2264
+      }
     }
   ],
-  "embeds": []
+  "visit": {
+    "notice": "לתשומת לבכם: לטובת חווית הביקור שלכם ורווחת השוהים באתר, אנו מגבילים את כמות המבקרים וייתכנו ימים שבהם הכניסה תעצר (לרוב למשך שעה- שעתיים) עד לירידה בכמות השוהים באתר.",
+    "image": {
+      "src": "/assets/images/166e60_1ee3cd38d7d04552acf65eda3416007f.jpg",
+      "alt": "",
+      "width": 961,
+      "height": 720
+    }
+  }
 }

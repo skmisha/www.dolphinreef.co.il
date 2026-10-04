@@ -1,5 +1,5 @@
 /* Phase 2 mockup component styles. Logical properties only, so the same CSS works for LTR. */
-@import url("../tokens.css");
+@import url("../../styles/tokens.css");
 
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }

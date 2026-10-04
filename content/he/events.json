@@ -1,277 +1,131 @@
 {
   "slug": "events",
-  "source": "https://www.dolphinreef.co.il/events",
+  "template": "events",
   "seo": {
     "title": "אירועים לקבוצות ובודדים בריף הדולפינים אילת",
     "description": "אירועים בריף הדולפינים אילת: ימי כיף, אירועי חברה, אירועים פרטיים, הופעות ומסיבות – ביום ובערב. אפשר לבחור חוויה אחת או לשלב כמה מתוך המגוון הייחודי של הריף.",
-    "ogTitle": "אירועים לקבוצות ובודדים בריף הדולפינים אילת",
-    "ogDescription": "אירועים בריף הדולפינים אילת: ימי כיף, אירועי חברה, אירועים פרטיים, הופעות ומסיבות – ביום ובערב. אפשר לבחור חוויה אחת או לשלב כמה מתוך המגוון הייחודי של הריף.",
-    "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
-    "canonical": "https://www.dolphinreef.co.il/events"
+    "ogImage": "/assets/images/166e60_9d788e16ab49497eb1834ea156162169.jpg"
   },
-  "h1": [
-    "כל מה שרציתם ולא העזתם לחלום"
-  ],
+  "hero": {
+    "title": "כל מה שרציתם ולא העזתם לחלום",
+    "image": {
+      "src": "/assets/images/166e60_57df473dadab4a6cadcab16a257c42d7.jpg",
+      "alt": "תמונה של הכנת אירוע בריף הדולפינים תמונה יפהיפיה",
+      "width": 1920,
+      "height": 1280
+    }
+  },
   "sections": [
     {
-      "heading": "כל מה שרציתם ולא העזתם לחלום",
-      "level": 1,
-      "paragraphs": [],
-      "links": [],
-      "images": [
+      "heading": "למה איתנו?",
+      "paragraphs": [
         {
-          "src": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
-          "alt": "Dolphin Reef Logo"
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_57df473dadab4a6cadcab16a257c42d7~mv2.jpg/v1/fill/w_1440,h_449,fp_0.50_0.57,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/events.jpg",
-          "alt": "תמונה של הכנת אירוע בריף הדולפינים תמונה יפהיפיה"
+          "text": "ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם ,המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, המשלבת ים, נופים קסומים, צמחייה עשירה, ופינות נסתרות, ואפשרות לצפות בדולפינים בבית גידולם הטבעי (הים) והכל, תוך התחשבות מרבית בטבע ובסביבה. כל אלו מהווים תפאורה טבעית מושלמת שעליה אנו יודעים להציע ולבנות את כל מה שרציתם ולא העזתם לחלום..."
         }
       ]
-    },
-    {
-      "heading": "למה איתנו?",
-      "level": 2,
-      "paragraphs": [
-        "ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם ,המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, המשלבת ים, נופים קסומים, צמחייה עשירה, ופינות נסתרות, ואפשרות לצפות בדולפינים בבית גידולם הטבעי (הים) והכל, תוך התחשבות מרבית בטבע ובסביבה. כל אלו מהווים תפאורה טבעית מושלמת שעליה אנו יודעים להציע ולבנות את כל מה שרציתם ולא העזתם לחלום..."
-      ],
-      "links": [],
-      "images": []
     },
     {
       "heading": "ההפקות ושיתופי הפעולה שלנו",
-      "level": 2,
       "paragraphs": [
-        "משרד ההפקות והצוות שלנו עומד לרשותכם בימים א – ה בין השעות 09:00 – 15:00. לאחר יצירת קשר ראשוני עמנו נשתף אתכם ברעיונות למימוש בתאם לבקשתכם ורצונכם. למפרט שהוצע נצרף גם הצעת מחיר תואמת ותאריכים זמינים."
-      ],
-      "links": [],
-      "images": []
+        {
+          "text": "משרד ההפקות והצוות שלנו עומד לרשותכם בימים א – ה בין השעות 09:00 – 15:00. לאחר יצירת קשר ראשוני עמנו נשתף אתכם ברעיונות למימוש בתאם לבקשתכם ורצונכם. למפרט שהוצע נצרף גם הצעת מחיר תואמת ותאריכים זמינים."
+        }
+      ]
     },
     {
       "heading": "איך ליצור איתנו קשר",
-      "level": 2,
       "paragraphs": [
-        "אנו ממליצים ליצור את הקשר הראשוני במייל ל: hafakot@dolphinreef.co.il לציין באופן כללי את בקשתכם ואפשרויות ליצירת קשר חוזר עמכם. תוכלו ליצור עמנו קשר גם במהלך הימים ושעות הפעילות שלנו בטל: 📞 086300116, או 086300129, מעוניינים לשמוע עוד? צרו עמנו קשר. אנו אוהבים את הקשר האישי..."
-      ],
-      "links": [
         {
-          "text": "hafakot@dolphinreef.co.il",
-          "href": "mailto:hafakot@dolphinreef.co.il?subject=%D7%90%D7%A0%D7%90%20%D7%97%D7%96%D7%A8%D7%95%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%94%D7%9E%D7%A6%D7%95%D7%99%D7%99%D7%9F%20%D7%91%D7%92%D7%95%D7%A3%20%D7%94%D7%9E%D7%99%D7%99%D7%9C"
-        },
-        {
-          "text": "086300116",
-          "href": "tel:086300116"
-        },
-        {
-          "text": "086300129",
-          "href": "tel:086300129"
+          "text": "אנו ממליצים ליצור את הקשר הראשוני במייל ל: hafakot@dolphinreef.co.il לציין באופן כללי את בקשתכם ואפשרויות ליצירת קשר חוזר עמכם. תוכלו ליצור עמנו קשר גם במהלך הימים ושעות הפעילות שלנו בטל: 📞 086300116, או 086300129, מעוניינים לשמוע עוד? צרו עמנו קשר. אנו אוהבים את הקשר האישי...",
+          "links": [
+            {
+              "text": "hafakot@dolphinreef.co.il",
+              "href": "mailto:hafakot@dolphinreef.co.il?subject=%D7%90%D7%A0%D7%90%20%D7%97%D7%96%D7%A8%D7%95%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%94%D7%9E%D7%A6%D7%95%D7%99%D7%99%D7%9F%20%D7%91%D7%92%D7%95%D7%A3%20%D7%94%D7%9E%D7%99%D7%99%D7%9C"
+            },
+            {
+              "text": "086300116",
+              "href": "tel:086300116"
+            },
+            {
+              "text": "086300129",
+              "href": "tel:086300129"
+            }
+          ]
         }
-      ],
-      "images": []
+      ]
     },
     {
       "heading": "המומחיות שלנו",
-      "level": 2,
       "paragraphs": [
-        "אנו מתמחים בשיתופי פעולה, בימי כיף, אירועי חברה, אירועים פרטיים, הופעות ומסיבות במהלך היום ובשעות הערב. באפשרותכם לבחור בחוויה בודדת או שילוב של מספר חוויות מתוך המגוון הייחודי לריף הדולפינים.",
-        "התמונות שוות אלף מילים..."
-      ],
-      "links": [],
-      "images": [
         {
-          "src": "https://static.wixstatic.com/media/166e60_7357127c647741d092df32e574f506f0~mv2.jpg/v1/fill/w_372,h_495,al_c,lg_1,q_80,enc_avif,quality_auto/51614946936_8ebe175c5a_w.jpg",
-          "alt": "סתלבט דרומי תמונה"
+          "text": "אנו מתמחים בשיתופי פעולה, בימי כיף, אירועי חברה, אירועים פרטיים, הופעות ומסיבות במהלך היום ובשעות הערב. באפשרותכם לבחור בחוויה בודדת או שילוב של מספר חוויות מתוך המגוון הייחודי לריף הדולפינים."
         },
         {
-          "src": "https://static.wixstatic.com/media/166e60_8844858223324f4db6d75ed6516d5753~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23360062562_4cd6684d2d_z.jpg",
-          "alt": "סתלבט music"
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_5968cf8a4a274399804a041cdbdc58b2~mv2.jpg/v1/fill/w_384,h_510,fp_0.68_0.47,lg_1,q_80,enc_avif,quality_auto/23442372176_eddbb5b0e9_z.jpg",
-          "alt": "תמונה של יום כייף"
-        }
-      ]
-    },
-    {
-      "heading": "סתלבט דרומי",
-      "level": 2,
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "סתלבט דרומי",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661347015180/"
+          "text": "התמונות שוות אלף מילים..."
         }
       ],
       "images": [
         {
-          "src": "https://static.wixstatic.com/media/166e60_f39783e14c8f429fbb1aa9c7429f7a25~mv2.jpg/v1/fill/w_367,h_487,al_c,lg_1,q_80,enc_avif,quality_auto/22840252354_e257a36c9c_z.jpg",
-          "alt": "תמונה חוף והופעות"
+          "src": "/assets/images/166e60_7357127c647741d092df32e574f506f0.jpg",
+          "alt": "סתלבט דרומי תמונה",
+          "width": 266,
+          "height": 400
         },
         {
-          "src": "https://static.wixstatic.com/media/166e60_114182ca6ee34de6a7115b9e5db7a149~mv2.jpg/v1/fill/w_384,h_510,al_c,lg_1,q_80,enc_avif,quality_auto/23442448016_f134f8a922_z.jpg",
-          "alt": "תמונה סתלבט על המים"
+          "src": "/assets/images/166e60_8844858223324f4db6d75ed6516d5753.jpg",
+          "alt": "סתלבט music",
+          "width": 448,
+          "height": 426
         },
         {
-          "src": "https://static.wixstatic.com/media/166e60_74c974de2b32484c8956a2e682a53bae~mv2.jpg/v1/fill/w_402,h_534,fp_0.62_0.49,q_80,enc_avif,quality_auto/40309122745_aaac3ecb71_c.jpg",
-          "alt": "תמונה של הבר וסביבו"
+          "src": "/assets/images/166e60_5968cf8a4a274399804a041cdbdc58b2.jpg",
+          "alt": "תמונה של יום כייף",
+          "width": 416,
+          "height": 425
         }
       ]
-    },
-    {
-      "heading": "music סתלבט",
-      "level": 2,
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "music סתלבט",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589781764/"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "יום כייף",
-      "level": 2,
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "יום כייף",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589714574/"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "חוף והופעות",
-      "level": 2,
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "חוף והופעות",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227379689/"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "סתלבט על המים",
-      "level": 2,
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "סתלבט על המים",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661869533796/"
-        }
-      ],
-      "images": [
-        {
-          "src": "https://static.wixstatic.com/media/166e60_fb771bef1f304364af217adad96b3424~mv2.jpg/v1/fill/w_402,h_534,al_c,q_80,enc_avif,quality_auto/27330940658_3dfe948596_c.jpg",
-          "alt": "תמונה של מפלס עליון"
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_34f9a0a696214136be97f21b24954034~mv2.jpg/v1/fill/w_387,h_514,al_c,lg_1,q_80,enc_avif,quality_auto/23172713920_19e5f92861_z.jpg",
-          "alt": "תמונה של המרפסת"
-        },
-        {
-          "src": "https://static.wixstatic.com/media/166e60_50c6d1054ef8490cbd0f068c6dda2304~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23442393646_a3ee6ab08e_z.jpg",
-          "alt": "תמונה של חתונה אחרת"
-        }
-      ]
-    },
-    {
-      "heading": "בר וסביבו",
-      "level": 2,
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "בר וסביבו",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661791473621/"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "מפלס עליון",
-      "level": 2,
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "מפלס עליון",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/72157696009627144/"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "המרפסת",
-      "level": 2,
-      "paragraphs": [],
-      "links": [
-        {
-          "text": "המרפסת",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227238529/"
-        }
-      ],
-      "images": []
-    },
-    {
-      "heading": "חתונה אחרת",
-      "level": 2,
-      "paragraphs": [
-        "לגלריה"
-      ],
-      "links": [
-        {
-          "text": "חתונה אחרת",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589748044/"
-        },
-        {
-          "text": "לגלריה",
-          "href": "https://www.flickr.com/photos/dolphinreef/albums/"
-        }
-      ],
-      "images": []
     }
   ],
-  "faq": [],
-  "ctas": [
+  "albums": [
     {
-      "text": "",
+      "title": "סתלבט דרומי",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661347015180/"
     },
     {
-      "text": "",
+      "title": "music סתלבט",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589781764/"
     },
     {
-      "text": "",
+      "title": "יום כייף",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589714574/"
     },
     {
-      "text": "",
+      "title": "חוף והופעות",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227379689/"
     },
     {
-      "text": "",
+      "title": "סתלבט על המים",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661869533796/"
     },
     {
-      "text": "",
+      "title": "בר וסביבו",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661791473621/"
     },
     {
-      "text": "",
+      "title": "מפלס עליון",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157696009627144/"
     },
     {
-      "text": "",
+      "title": "המרפסת",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227238529/"
     },
     {
-      "text": "",
+      "title": "חתונה אחרת",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589748044/"
     }
   ],
-  "videos": [],
-  "embeds": []
+  "galleryLink": {
+    "text": "לגלריה",
+    "href": "https://www.flickr.com/photos/dolphinreef/albums/"
+  }
 }
