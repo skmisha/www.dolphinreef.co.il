@@ -3,12 +3,11 @@ import AxeBuilder from '@axe-core/playwright';
 import { routes, dismissConsent } from './helpers';
 
 test.beforeEach(async ({ page }) => dismissConsent(page));
-// measure the settled page: scroll-reveal fades are mid-animation (semi-transparent) otherwise
-test.use({ reducedMotion: 'reduce' });
 
 for (const route of routes) {
   test(`axe WCAG 2.2 AA: ${route}`, async ({ page }, info) => {
     test.skip(info.project.name === 'pixel', 'covered by iphone (same breakpoint)');
+    // measure the settled page: scroll-reveal fades are mid-animation (semi-transparent) otherwise
     await page.emulateMedia({ reducedMotion: 'reduce' });
     await page.goto(route);
     await page.waitForLoadState('networkidle');

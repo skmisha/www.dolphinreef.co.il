@@ -11,3 +11,4 @@ playwright-report/
 tests/fixtures/content/
 *.tsbuildinfo
 .next-ltr/
+.next-lh/
