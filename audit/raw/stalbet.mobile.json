@@ -1,61 +1,212 @@
 {
-  "url": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
-  "title": "ריף הדולפינים תפריט בר חוף | Dolphin Reef Bar menu",
-  "description": "",
-  "ogTitle": "ריף הדולפינים תפריט בר חוף | Dolphin Reef Bar menu",
-  "ogDescription": "",
+  "url": "https://www.dolphinreef.co.il/stalbet",
+  "title": "בריכות סתלבט על המים בריף הדולפינים אילת",
+  "description": "בריכות סתלבט על המים בריף הדולפינים אילת – לצוף ולהירגע בבריכות בגן בוטני לחוף הים, בטיפול אישי או בכניסה עצמאית. מגיל 18. פרטים והזמנה באתר.",
+  "ogTitle": "בריכות סתלבט על המים בריף הדולפינים אילת",
+  "ogDescription": "בריכות סתלבט על המים בריף הדולפינים אילת – לצוף ולהירגע בבריכות בגן בוטני לחוף הים, בטיפול אישי או בכניסה עצמאית. מגיל 18. פרטים והזמנה באתר.",
   "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
-  "canonical": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
+  "canonical": "https://www.dolphinreef.co.il/stalbet",
   "hreflang": [
     {
       "lang": "x-default",
-      "href": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar"
+      "href": "https://www.dolphinreef.co.il/stalbet"
     },
     {
       "lang": "en-us",
-      "href": "https://www.dolphinreef.co.il/en/dining-at-thereef/menu-bar"
+      "href": "https://www.dolphinreef.co.il/en/stalbet"
     },
     {
       "lang": "he-il",
-      "href": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar"
+      "href": "https://www.dolphinreef.co.il/stalbet"
     }
   ],
   "lang": "he",
   "dir": "",
-  "h1": [],
+  "h1": [
+    "בריכות סתלבט על המים"
+  ],
   "blocks": [
     {
       "tag": "button",
       "text": "לדלג לתוכן הראשי",
       "y": 60,
-      "x": 626,
+      "x": 101,
+      "region": "main",
+      "fontSize": "14px"
+    },
+    {
+      "tag": "h1",
+      "text": "בריכות סתלבט על המים",
+      "y": 258,
+      "x": 10,
+      "region": "main",
+      "fontSize": "35px"
+    },
+    {
+      "tag": "p",
+      "text": "מחפשים \"אי של שלווה בים של סערות\"? ניקוי ראש, התרגעות, הנאה ו\"טעינה מחדש של המצברים\"? תמצאו את כולם בברכות סתלבט על המים. בבריכות אפשר לנוח, לקבל פינוק מצוות אנשי המים, להקשיב לפכפוך מפלי מים וכל אלו, בליבו של גן בוטני ירוק ומדהים ביופיו ולבלות בפינות ישיבה המשקיפות אל הים. בנוסף, תוכלו להמשיך את החוויה בקפה סתלבט שנמצא ברחבת הברכות העליונה, ובו ניתן לשבת ולבלות לפני ואחרי הפעילות ולהנות ממבחר משקאות ונישנושים. כל אלו יעניקו לכם חוויה רב חושית של רוגע ושלווה... הכניסה למתחם הבריכות הינה מגיל 18",
+      "y": 316,
+      "x": 10,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "span",
+      "text": "בקפה סתלבט",
+      "y": 430,
+      "x": 14,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "a",
+      "text": "בקפה סתלבט",
+      "href": "https://www.dolphinreef.co.il/stalbet",
+      "y": 430,
+      "x": 14,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "a",
+      "text": "מדיניות הפרטיות",
+      "href": "https://www.dolphinreef.co.il/privacypolicy",
+      "y": 520,
+      "x": 20,
       "region": "main",
       "fontSize": "14px"
     },
     {
       "tag": "button",
       "text": "אישור",
-      "y": 916,
-      "x": 1324,
+      "y": 582,
+      "x": 201,
       "region": "main",
       "fontSize": "14px"
     },
     {
       "tag": "button",
       "text": "דחיית הכל",
-      "y": 916,
-      "x": 1218,
+      "y": 582,
+      "x": 20,
       "region": "main",
       "fontSize": "14px"
     },
     {
-      "tag": "a",
-      "text": "מדיניות הפרטיות",
-      "href": "https://www.dolphinreef.co.il/privacypolicy",
-      "y": 924,
-      "x": 24,
+      "tag": "h2",
+      "text": "להזמנה",
+      "y": 638,
+      "x": 145,
       "region": "main",
-      "fontSize": "14px"
+      "fontSize": "16.7292px"
+    },
+    {
+      "tag": "span",
+      "text": "להזמנה",
+      "y": 640,
+      "x": 167,
+      "region": "main",
+      "fontSize": "16.7292px"
+    },
+    {
+      "tag": "a",
+      "text": "להזמנה",
+      "href": "https://reefbooking.dolphinreef.co.il/pools.aspx",
+      "y": 640,
+      "x": 167,
+      "region": "main",
+      "fontSize": "16.7292px"
+    },
+    {
+      "tag": "button",
+      "text": "מה במתחם?",
+      "y": 824,
+      "x": 10,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "קיימות מספר אפשרויות בילוי בבריכות ה\"סתלבט\":",
+      "y": 862,
+      "x": 10,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "ימים ושעות פעילות",
+      "y": 923,
+      "x": 10,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "האם צריך להזמין מראש?",
+      "y": 962,
+      "x": 10,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "מחירים וביצוע הזמנה מקוונת",
+      "y": 1000,
+      "x": 10,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "אפשרויות הזמנה נוספות",
+      "y": 1039,
+      "x": 10,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "חשוב לדעת",
+      "y": 1077,
+      "x": 10,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "מדיניות שינויים, ביטולים והחזרים",
+      "y": 1116,
+      "x": 10,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "a",
+      "text": "טל: 08-6300111",
+      "href": "tel:+97286300111",
+      "y": 1264,
+      "x": 140,
+      "region": "footer",
+      "fontSize": "10px"
+    },
+    {
+      "tag": "a",
+      "text": "info@dolphinreef.co.il",
+      "href": "mailto:info@dolphinreef.co.il",
+      "y": 1265,
+      "x": 8,
+      "region": "footer",
+      "fontSize": "10px"
+    },
+    {
+      "tag": "a",
+      "text": "מדיניות פרטיות",
+      "href": "https://www.dolphinreef.co.il/privacypolicy",
+      "y": 1268,
+      "x": 260,
+      "region": "footer",
+      "fontSize": "10px"
     }
   ],
   "links": [
@@ -64,6 +215,96 @@
       "text": "",
       "target": "_self",
       "region": "header"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/stalbet",
+      "text": "בקפה סתלבט",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/stalbetcoffe",
+      "text": "קפה סתלבט",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://reefbooking.dolphinreef.co.il/pools.aspx",
+      "text": "להזמנת \"ספיישל אחד על אחד\"",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://reefbooking.dolphinreef.co.il/stalbet.aspx",
+      "text": "להזמנת בילוי בסתלבט",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/",
+      "text": "הכניסה ליום בילוי מלא",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/stalbetcoffe",
+      "text": "בקפה סתלבט",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://reefbooking.dolphinreef.co.il/pools.aspx",
+      "text": "",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://reefbooking.dolphinreef.co.il/pools.aspx",
+      "text": "להזמנה",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://api.whatsapp.com/send/?phone=972526021017&text&type=phone_number&app_absent=0",
+      "text": "WhatsApp",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.instagram.com/dolphin_reef_eilat/",
+      "text": "Instagram",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.facebook.com/dolphinreefeilat",
+      "text": "Facebook",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.tiktok.com/@dolphin_reef_eilat",
+      "text": "TikTok",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/privacypolicy",
+      "text": "מדיניות פרטיות",
+      "target": "_self",
+      "region": "footer"
+    },
+    {
+      "href": "tel:+97286300111",
+      "text": "טל: 08-6300111",
+      "target": "",
+      "region": "footer"
+    },
+    {
+      "href": "mailto:info@dolphinreef.co.il",
+      "text": "info@dolphinreef.co.il",
+      "target": "_self",
+      "region": "footer"
     },
     {
       "href": "https://www.dolphinreef.co.il/",
@@ -115,7 +356,7 @@
     },
     {
       "href": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
-      "text": "",
+      "text": "תפריט בר חוף",
       "target": "_self",
       "region": "main"
     },
@@ -170,31 +411,76 @@
   ],
   "images": [
     {
-      "src": "https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/round/ISR.png",
+      "src": "https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/round/ISR_2x.png",
       "alt": "Hebrew",
       "naturalWidth": 32,
       "naturalHeight": 32,
       "renderedWidth": 30,
       "renderedHeight": 30,
-      "y": 20
+      "y": 22
     },
     {
-      "src": "https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/round/USA.png",
+      "src": "https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/round/USA_2x.png",
       "alt": "English",
       "naturalWidth": 32,
       "naturalHeight": 32,
       "renderedWidth": 30,
       "renderedHeight": 30,
-      "y": 20
+      "y": 22
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
+      "src": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_140,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
       "alt": "Dolphin Reef Logo",
       "naturalWidth": 70,
       "naturalHeight": 60,
       "renderedWidth": 69,
       "renderedHeight": 59,
-      "y": 5
+      "y": 7
+    },
+    {
+      "src": "https://static.wixstatic.com/media/166e60_0bc21fdafe1b42669e2329ef0a293f01f000.jpg/v1/fill/w_390,h_177,al_c,q_80,usm_0.33_1.00_0.00,enc_avif,quality_auto/166e60_0bc21fdafe1b42669e2329ef0a293f01f000.jpg",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 177,
+      "renderedWidth": 390,
+      "renderedHeight": 177,
+      "y": 74
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
+      "alt": "WhatsApp",
+      "naturalWidth": 86,
+      "naturalHeight": 86,
+      "renderedWidth": 43,
+      "renderedHeight": 43,
+      "y": 1210
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+      "alt": "Instagram",
+      "naturalWidth": 86,
+      "naturalHeight": 86,
+      "renderedWidth": 43,
+      "renderedHeight": 43,
+      "y": 1210
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
+      "alt": "Facebook",
+      "naturalWidth": 86,
+      "naturalHeight": 86,
+      "renderedWidth": 43,
+      "renderedHeight": 43,
+      "y": 1210
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
+      "alt": "TikTok",
+      "naturalWidth": 86,
+      "naturalHeight": 86,
+      "renderedWidth": 43,
+      "renderedHeight": 43,
+      "y": 1210
     },
     {
       "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Zz48Zz48Zz48cGF0aCBmaWxsPSIiIGlkPSJjbG9zZS1zdmctcGF0aCIgZD0iTTE3LjI5NCA2bC43MDYuNzA2TDEyLjcwNSAxMiAxOCAxNy4yOTRsLS43MDYuNzA2TDEyIDEyLjcwNSA2LjcwNiAxOCA2IDE3LjI5NCAxMS4yOTUgMTIgNiA2LjcwNiA2LjcwNiA2IDEyIDExLjI5NSAxNy4yOTQgNnoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00NzEuMDAwMDAwLCAtNjQ2LjAwMDAwMCkgdHJhbnNsYXRlKDQ3MS4wMDAwMDAsIDY0Ni4wMDAwMDApIi8+PC9nPjwvZz48L2c+PC9zdmc+",
@@ -203,22 +489,102 @@
       "naturalHeight": 24,
       "renderedWidth": 24,
       "renderedHeight": 24,
-      "y": 919
+      "y": 460
     }
   ],
-  "bgImages": [],
-  "videos": [],
+  "bgImages": [
+    {
+      "containerId": "comp-lzs55pk11",
+      "alignType": "center",
+      "displayMode": "fill",
+      "targetWidth": 160,
+      "targetHeight": 90,
+      "isLQIP": true,
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 1536,
+        "height": 864,
+        "uri": "166e60_0bc21fdafe1b42669e2329ef0a293f01f000.jpg",
+        "name": "",
+        "displayMode": "fill",
+        "quality": {
+          "unsharpMask": {
+            "radius": 0.33,
+            "amount": 1,
+            "threshold": 0
+          }
+        },
+        "devicePixelRatio": 1
+      }
+    },
+    {
+      "containerId": "dataItem-mn1qpu9a-comp-lzs55pm26_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 201,
+        "uri": "11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    },
+    {
+      "containerId": "dataItem-m4h5de1p1-comp-lzs55pm26_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 201,
+        "uri": "11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    },
+    {
+      "containerId": "dataItem-m4h5de1q-comp-lzs55pm26_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 201,
+        "uri": "11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    },
+    {
+      "containerId": "dataItem-m4h5l5qq-comp-lzs55pm26_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 200,
+        "uri": "11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://video.wixstatic.com/video/166e60_0bc21fdafe1b42669e2329ef0a293f01/360p/mp4/file.mp4",
+      "poster": "",
+      "width": 0,
+      "height": 0
+    }
+  ],
   "iframes": [
     {
-      "src": "https://www-dolphinreef-co-il.filesusr.com/html/166e60_a67a88e49014d4e3235557f26428e176.html",
-      "title": "Embedded Content"
+      "src": "https://www.youtube.com/embed/rpQdIL44CEw?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fwww.dolphinreef.co.il&playsinline=1&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fwww.dolphinreef.co.il%2Fstalbet&aoriginsup=1&vf=1",
+      "title": "סתלבט על המים ריף הדולפינים 2022"
     }
   ],
   "scripts": [
+    "https://www.youtube.com/s/player/8ab5c328/www-widgetapi.vflset/www-widgetapi.js",
     "https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js",
     "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
     "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
-    "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
@@ -227,13 +593,25 @@
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].8c8a6cb8.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ImageX].65541ada.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PageSections].66f3b3d5.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HtmlComponent].0451e486.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_ResponsiveBox].55b37fe0.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MultiStateBox].a0b281c9.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AccordionContainer].43a75925.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AccordionItem_Responsive].895c945e.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SiteButton_WrappingButton].46e316e6.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MenuContainer_Responsive].23316a4c.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VideoPlayer].4c6fa245.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LinkBar_Responsive].2661e0e4.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HeaderSection].f13d21d9.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].8a9c12f1.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaPlayer_videoBoxResponsive].a5dffe40.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaOverlayControls].2d0d5a54.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaControls].fc7f888f.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterSection].3bd26d28.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_mobile.2658b124.bundle.min.js",
+    "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
+    "https://www.youtube.com/iframe_api",
     "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
     "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
     "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
@@ -245,7 +623,7 @@
     "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js"
   ],
   "inlineScripts": [
-    "{\"fleetConfig\":{\"fleetName\":\"thunderbolt-renderer\",\"type\":\"Rollout\",\"code\":1},\"mode\":{\"qa\":false,\"enableTestApi\":false,\"addAllServices\":false,\"debug\":false,\"ssrIndicator\":false,\"ssrOnly\":false,\"siteAssetsFallback\":\"enable\",\"versionIndicator\":false},\"componentsLibrariesTopology\":[{\"artifactId\":\"editor-elements\",\"namespace\":\"wixui\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15535.0\"},{\"artifactId\":\"editor-elements\",\"namespace\":\"dsgnsys\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15535.0\"}],\"siteFeaturesConfigs\":{\"sessionManager\":{\"isRunningInDifferentSiteContext\":false}},\"language\":{\"userLanguage\":\"he\"},\"siteAssets\":{\"clientTopology\":{\"mediaRootUrl\":\"https:\\/\\/static.wixstatic.com\",\"scriptsUrl\":\"static.parastorage.com\",\"staticMediaUrl\":\"https:\\/\\/static.wixstatic.com\\/media\",\"staticAudioUrl\":\"https:\\/\\/music.wixstatic.com\\/mp3\",\"moduleRepoUrl\":\"https:\\/\\/static.parastorage.com\\/unpkg\",\"fileRepoUrl\":\"https:\\/\\/static.parastorage.com\\/services\",\"viewerAppsUrl\":\"https:\\/\\/viewer-apps.parastorage.com\",\"viewerAssetsUrl\":\"https:\\/\\/viewer-assets.parastorage.com\",\"siteAssetsUrl\":\"https:\\/\\/siteassets.parastorage.com\",\"pageJsonServerUrls\":[\"https:\\/\\/pages.parastorage.com\",\"https:\\/\\/staticorigin.wixstatic.com\",\"https:\\/\\/www.dolphinreef.co.il\",\"https:\\/\\/fallback.wix.com\\/wix-html-editor-pages-webapp\\/page\"],\"pathOfTBModulesInFileRepoForFallback\":\"wix-thunderbolt\\/dist\\/\"}},\"siteFeatures\":[\"accessibilityBrowserZoom\",\"appMonitoring\"",
+    "{\"fleetConfig\":{\"fleetName\":\"thunderbolt-isolated-renderer\",\"type\":\"GA\",\"code\":0},\"mode\":{\"qa\":false,\"enableTestApi\":false,\"addAllServices\":false,\"debug\":false,\"ssrIndicator\":false,\"ssrOnly\":false,\"siteAssetsFallback\":\"enable\",\"versionIndicator\":false},\"componentsLibrariesTopology\":[{\"artifactId\":\"editor-elements\",\"namespace\":\"wixui\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15542.0\"},{\"artifactId\":\"editor-elements\",\"namespace\":\"dsgnsys\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15542.0\"}],\"siteFeaturesConfigs\":{\"sessionManager\":{\"isRunningInDifferentSiteContext\":false}},\"language\":{\"userLanguage\":\"he\"},\"siteAssets\":{\"clientTopology\":{\"mediaRootUrl\":\"https:\\/\\/static.wixstatic.com\",\"scriptsUrl\":\"static.parastorage.com\",\"staticMediaUrl\":\"https:\\/\\/static.wixstatic.com\\/media\",\"staticAudioUrl\":\"https:\\/\\/music.wixstatic.com\\/mp3\",\"moduleRepoUrl\":\"https:\\/\\/static.parastorage.com\\/unpkg\",\"fileRepoUrl\":\"https:\\/\\/static.parastorage.com\\/services\",\"viewerAppsUrl\":\"https:\\/\\/viewer-apps.parastorage.com\",\"viewerAssetsUrl\":\"https:\\/\\/viewer-assets.parastorage.com\",\"siteAssetsUrl\":\"https:\\/\\/siteassets.parastorage.com\",\"pageJsonServerUrls\":[\"https:\\/\\/pages.parastorage.com\",\"https:\\/\\/staticorigin.wixstatic.com\",\"https:\\/\\/www.dolphinreef.co.il\",\"https:\\/\\/fallback.wix.com\\/wix-html-editor-pages-webapp\\/page\"],\"pathOfTBModulesInFileRepoForFallback\":\"wix-thunderbolt\\/dist\\/\"}},\"siteFeatures\":[\"accessibilityBrowserZoom\",\"appMonitor",
     "(()=>{\"use strict\";let e,t,r,o;var n={},i={};function l(e){var t=i[e];if(void 0!==t)return t.exports;var r=i[e]={exports:{}};return n[e](r,r.exports,l),r.exports}function a(e){let{context:t,property:r,value:o,enumerable:n=!0}=e,i=e.get,l=e.set;if(!r||void 0===o&&!i&&!l)return Error(\"property and value are required\");let a=t||globalThis,s=a?.[r],u={};if(void 0!==o)u.value=o;else{if(i){let e=c(i);e&&(u.get=e)}if(l){let e=c(l);e&&(u.set=e)}}let p={...u,enumerable:n||!1,configurable:!1};void 0!==o&&(p.writable=!1);try{Object.defineProperty(a,r,p)}catch(e){return e instanceof TypeError?s:e}return s}function c(e,t){return\"function\"==typeof e?e:e?.async===!0&&\"function\"==typeof e.func?t?async function(t){return e.func(t)}:async function(){return e.func()}:\"function\"==typeof e?.func?e.func:void 0}l.rv=()=>\"1.6.8\",l.ruid=\"bundler=rspack@1.6.8\";try{a({property:\"strictDefine\",value:a})}catch{}try{a({property:\"defineStrictObject\",value:function e(t){let{context:r,property:o,propertiesToExclude:n=[],skipPrototype:i=!1,hardenPrototypePropertiesToExclude:l=[]}=t;if(!o)return Error(\"property is required\");let c=(r||globalThis)[o],p={},f=u(r,o);c&&(\"object\"==typeof c||\"function\"==typeof c)&&Reflect.ownKeys(c).forEach(e=>{if(!n.includes(e)&&!s.includes(e)){let t=u(c,e);if(t&&(t.writable||t.configurable)){let{value:r,get:o,set:n,enumerable:i=!1}=t,l={};void 0!==r?l.value=r:o?l.get=o:n&&(l.set=n);try{let t=a({context:c,property:e,...l,enumerable:i});p[e]=t}catch(r){if(r instanceof TypeError)try{",
     "(()=>{\"use strict\";var e={},t={};function r(o){var n=t[o];if(void 0!==n)return n.exports;var i=t[o]={exports:{}};return e[o](i,i.exports,r),i.exports}function o(e){let{context:t,property:r,value:o,enumerable:i=!0}=e,c=e.get,a=e.set;if(!r||void 0===o&&!c&&!a)return Error(\"property and value are required\");let l=t||globalThis,s=l?.[r],u={};if(void 0!==o)u.value=o;else{if(c){let e=n(c);e&&(u.get=e)}if(a){let e=n(a);e&&(u.set=e)}}let p={...u,enumerable:i||!1,configurable:!1};void 0!==o&&(p.writable=!1);try{Object.defineProperty(l,r,p)}catch(e){return e instanceof TypeError?s:e}return s}function n(e,t){return\"function\"==typeof e?e:e?.async===!0&&\"function\"==typeof e.func?t?async function(t){return e.func(t)}:async function(){return e.func()}:\"function\"==typeof e?.func?e.func:void 0}r.rv=()=>\"1.6.8\",r.ruid=\"bundler=rspack@1.6.8\";try{o({property:\"strictDefine\",value:o})}catch{}try{o({property:\"defineStrictObject\",value:c})}catch{}try{o({property:\"defineStrictMethod\",value:a})}catch{}var i=[\"toString\",\"toLocaleString\",\"valueOf\",\"constructor\",\"prototype\"];function c(e){let{context:t,property:r,propertiesToExclude:n=[],skipPrototype:a=!1,hardenPrototypePropertiesToExclude:s=[]}=e;if(!r)return Error(\"property is required\");let u=(t||globalThis)[r],p={},f=l(t,r);u&&(\"object\"==typeof u||\"function\"==typeof u)&&Reflect.ownKeys(u).forEach(e=>{if(!n.includes(e)&&!i.includes(e)){let t=l(u,e);if(t&&(t.writable||t.configurable)){let{value:r,get:n,set:i,enumerable:c=!1}=t,a={};void 0!==r?a.value=",
     "(()=>{\"use strict\";var e,r,o,a,t,i,c,n={},d={};function f(e){var r=d[e];if(void 0!==r)return r.exports;var o=d[e]={id:e,loaded:!1,exports:{}};return n[e].call(o.exports,o,o.exports,f),o.loaded=!0,o.exports}if(f.m=n,f.n=e=>{var r=e&&e.__esModule?()=>e.default:()=>e;return f.d(r,{a:r}),r},r=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__,f.t=function(o,a){if(1&a&&(o=this(o)),8&a||\"object\"==typeof o&&o&&(4&a&&o.__esModule||16&a&&\"function\"==typeof o.then))return o;var t=Object.create(null);f.r(t);var i={};e=e||[null,r({}),r([]),r(r)];for(var c=2&a&&o;(\"object\"==typeof c||\"function\"==typeof c)&&!~e.indexOf(c);c=r(c))Object.getOwnPropertyNames(c).forEach(e=>{i[e]=()=>o[e]});return i.default=()=>o,f.d(t,i),t},f.d=(e,r)=>{for(var o in r)f.o(r,o)&&!f.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:r[o]})},f.f={},f.e=e=>Promise.all(Object.keys(f.f).reduce((r,o)=>(f.f[o](e,r),r),[])),f.u=e=>\"6948\"===e?\"thunderbolt-commons.96193e9a.bundle.min.js\":\"3033\"===e?\"fastdom.inline.48a8bd4b.bundle.min.js\":\"1619\"===e?\"custom-element-utils.inline.43befd9d.bundle.min.js\":\"5205\"===e?\"render-indicator.inline.df41a0e9.bundle.min.js\":\"7151\"===e?\"version-indicator.inline.704acef2.bundle.min.js\":\"6008\"===e?\"bi-common.inline.17f83560.bundle.min.js\":\"\"+(({1059:\"santa-platform-utils\",1090:\"speculationRules\",1116:\"passwordProtectedPage\",1122:\"group_19\",1211:\"siteUrlService\",1278:\"group_24\",1308:\"global-css-engine\",131:\"siteThemeService\",1374:\"editorWixCodeSdk\",1438:\"sdkStateService\",152",
@@ -257,376 +635,5 @@
   ],
   "forms": [],
   "ld": [],
-  "height": 900,
-  "status": 200,
-  "requests": [
-    {
-      "url": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
-      "type": "document"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
-      "type": "image"
-    },
-    {
-      "url": "https://www.dolphinreef.co.il/_partials/wix-thunderbolt/dist/clientWorker.f99f6b73.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.96193e9a.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.15d8f476.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.32731c34.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-components-registry.d1d3cd39.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.69a60358.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/assetsLoader.edcf8f51.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_3.63637ded.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/businessLogger.b3c0de71.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/consentPolicy.a987db6a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domSelectors.1772351a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.d0c56cb1.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ooi.35dd0965.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.686e2c1a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/renderer.320eeef1.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_4.51314163.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/router.32a795c0.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/stores.271cca5b.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/usedPlatformApis.2fac58dc.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/warmupData.780ab490.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/componentsLoader.037bc6b5.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibilityBrowserZoom.f43a588a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/appMonitoring.3ef68f2c.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_5.723ae6e4.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_44.32da439a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_42.4a4809aa.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/customCss.98f49336.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/cyclicTabbing.a0ad2cb2.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domStore.ece10f59.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentWixCodeSdk.566c4d0f.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environment.7ac3f543.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/externalServices.a9aa058b.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_20.d976ca4c.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/popups.2b704839.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/tslib.inline.cdbfecc7.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/mpaNavigation.bd7e02b4.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/multilingual.9d540a42.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/panorama.a27650b3.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/routerFetch.c9420889.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_6.bb82e4a9.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembersWixCodeSdk.2e2a7330.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_9.753b7ca1.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembers.578a09c3.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteScrollBlocker.d7ac0282.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/speculationRules.851746fd.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ssrCache.f7fb72e6.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_22.e636f159.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.91dad11c.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.d310df41.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_0.b58e75e0.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibility.e4888b8e.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_14.a7e0cdf0.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animations.d94f0463.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animationsWixCodeSdk.9f05a568.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platformPubsub.d41c28b7.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/navigation.eba89c08.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/scrollToAnchor.bd63e157.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/windowScroll.94e57fc8.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/motion.9bec0027.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentService.676d132e.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_11.eeaeabf5.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_41.8cc46024.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/imagePlaceholder.3c11dd4b.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/svgLoader.eaac3f9d.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_28.517aa7aa.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[RefComponent].33152207.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].8c8a6cb8.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ImageX].65541ada.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PageSections].66f3b3d5.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HtmlComponent].0451e486.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MenuContainer_Responsive].23316a4c.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HeaderSection].f13d21d9.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].8a9c12f1.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_mobile.2658b124.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://www-dolphinreef-co-il.filesusr.com/html/166e60_a67a88e49014d4e3235557f26428e176.html",
-      "type": "document"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_b9ea212268c0418da64548943420389f~mv2.jpg",
-      "type": "image"
-    }
-  ]
+  "height": 1307
 }

@@ -1,29 +1,29 @@
 {
-  "url": "https://www.dolphinreef.co.il/events",
-  "title": "אירועים לקבוצות ובודדים בריף הדולפינים אילת",
-  "description": "אירועים בריף הדולפינים אילת: ימי כיף, אירועי חברה, אירועים פרטיים, הופעות ומסיבות – ביום ובערב. אפשר לבחור חוויה אחת או לשלב כמה מתוך המגוון הייחודי של הריף.",
-  "ogTitle": "אירועים לקבוצות ובודדים בריף הדולפינים אילת",
-  "ogDescription": "אירועים בריף הדולפינים אילת: ימי כיף, אירועי חברה, אירועים פרטיים, הופעות ומסיבות – ביום ובערב. אפשר לבחור חוויה אחת או לשלב כמה מתוך המגוון הייחודי של הריף.",
+  "url": "https://www.dolphinreef.co.il/stalbetcoffe",
+  "title": "קפה סתלבט בריף הדולפינים אילת – בית קפה ובר מול הים",
+  "description": "קפה סתלבט בריף הדולפינים אילת – בית קפה ובר במרפסת העליונה של מתחם הבריכות, מול מפרץ אילת והרי אדום. ארוחות קלות, שתייה, יין וקוקטלים. הכניסה מגיל 18.",
+  "ogTitle": "קפה סתלבט בריף הדולפינים אילת – בית קפה ובר מול הים",
+  "ogDescription": "קפה סתלבט בריף הדולפינים אילת – בית קפה ובר במרפסת העליונה של מתחם הבריכות, מול מפרץ אילת והרי אדום. ארוחות קלות, שתייה, יין וקוקטלים. הכניסה מגיל 18.",
   "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
-  "canonical": "https://www.dolphinreef.co.il/events",
+  "canonical": "https://www.dolphinreef.co.il/stalbetcoffe",
   "hreflang": [
     {
       "lang": "x-default",
-      "href": "https://www.dolphinreef.co.il/events"
+      "href": "https://www.dolphinreef.co.il/stalbetcoffe"
     },
     {
       "lang": "en-us",
-      "href": "https://www.dolphinreef.co.il/en/events"
+      "href": "https://www.dolphinreef.co.il/en/stalbetcoffe"
     },
     {
       "lang": "he-il",
-      "href": "https://www.dolphinreef.co.il/events"
+      "href": "https://www.dolphinreef.co.il/stalbetcoffe"
     }
   ],
   "lang": "he",
   "dir": "",
   "h1": [
-    "כל מה שרציתם ולא העזתם לחלום"
+    "קפה סתלבט"
   ],
   "blocks": [
     {
@@ -36,74 +36,92 @@
     },
     {
       "tag": "h1",
-      "text": "כל מה שרציתם ולא העזתם לחלום",
-      "y": 543,
+      "text": "קפה סתלבט",
+      "y": 542,
       "x": 180,
       "region": "main",
       "fontSize": "55px"
     },
     {
       "tag": "h2",
-      "text": "למה איתנו?",
-      "y": 620,
-      "x": 190,
+      "text": "קפה בסתלבט",
+      "y": 622,
+      "x": 180,
       "region": "main",
       "fontSize": "22.4262px"
     },
     {
       "tag": "p",
-      "text": "ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם ,המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, המשלבת ים, נופים קסומים, צמחייה עשירה, ופינות נסתרות, ואפשרות לצפות בדולפינים בבית גידולם הטבעי (הים) והכל, תוך התחשבות מרבית בטבע ובסביבה. כל אלו מהווים תפאורה טבעית מושלמת שעליה אנו יודעים להציע ולבנות את כל מה שרציתם ולא העזתם לחלום...",
-      "y": 651,
-      "x": 190,
-      "region": "main",
-      "fontSize": "16.5246px"
-    },
-    {
-      "tag": "h2",
-      "text": "ההפקות ושיתופי הפעולה שלנו",
-      "y": 725,
-      "x": 190,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "p",
-      "text": "משרד ההפקות והצוות שלנו עומד לרשותכם בימים א – ה בין השעות 09:00 – 15:00. לאחר יצירת קשר ראשוני עמנו נשתף אתכם ברעיונות למימוש בתאם לבקשתכם ורצונכם. למפרט שהוצע נצרף גם הצעת מחיר תואמת ותאריכים זמינים.",
-      "y": 757,
-      "x": 190,
-      "region": "main",
-      "fontSize": "16.5246px"
-    },
-    {
-      "tag": "h2",
-      "text": "איך ליצור איתנו קשר",
-      "y": 806,
-      "x": 190,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "p",
-      "text": "אנו ממליצים ליצור את הקשר הראשוני במייל ל: hafakot@dolphinreef.co.il לציין באופן כללי את בקשתכם ואפשרויות ליצירת קשר חוזר עמכם. תוכלו ליצור עמנו קשר גם במהלך הימים ושעות הפעילות שלנו בטל: 📞 086300116, או 086300129, מעוניינים לשמוע עוד? צרו עמנו קשר. אנו אוהבים את הקשר האישי...",
-      "y": 838,
-      "x": 190,
+      "text": "ממוקם ברחבה העליונה של מתחם הברכות ומשקיף על מימי המפרץ הרי אדום והמפגש של ערב הסעודית, ירדן ומצריים. הוא מעניק חוויה משלימה למשתתפים בפעילות בברכות סתלבט ולמבקרים באתר. תוכלו לבלות בסתלבט לפני הפעילות או לאחריה בפינות ישיבה הפזורות במקום, ולהנות מארוחות קלות, שתייה קלה וחמה, יין איכותי, וקוקטלים. נשמח לארח אתכם ב\"קפה בסתלבט\" גם אם לא רכשתם פעילות בברכות עצמן. נדגיש רק שהכניסה הינה מגיל 18. לתפריט מזון, שתיה וקוקטיילים לחצו כאן לתפריט יינות לחצו כאן",
+      "y": 655,
+      "x": 180,
       "region": "main",
       "fontSize": "16.5246px"
     },
     {
       "tag": "span",
-      "text": "hafakot@dolphinreef.co.il",
-      "y": 840,
-      "x": 738,
+      "text": "בברכות סתלבט",
+      "y": 682,
+      "x": 1089,
       "region": "main",
       "fontSize": "16.5246px"
     },
     {
       "tag": "a",
-      "text": "hafakot@dolphinreef.co.il",
-      "href": "mailto:hafakot@dolphinreef.co.il?subject=%D7%90%D7%A0%D7%90%20%D7%97%D7%96%D7%A8%D7%95%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%94%D7%9E%D7%A6%D7%95%D7%99%D7%99%D7%9F%20%D7%91%D7%92%D7%95%D7%A3%20%D7%94%D7%9E%D7%99%D7%99%D7%9C",
+      "text": "בברכות סתלבט",
+      "href": "https://www.dolphinreef.co.il/stalbet",
+      "y": 682,
+      "x": 1089,
+      "region": "main",
+      "fontSize": "16.5246px"
+    },
+    {
+      "tag": "span",
+      "text": "נדגיש רק שהכניסה הינה מגיל 18.",
+      "y": 732,
+      "x": 477,
+      "region": "main",
+      "fontSize": "16.5246px"
+    },
+    {
+      "tag": "span",
+      "text": "לחצו כאן",
+      "y": 756,
+      "x": 984,
+      "region": "main",
+      "fontSize": "16.5246px"
+    },
+    {
+      "tag": "a",
+      "text": "לחצו כאן",
+      "href": "https://www.dolphinreef.co.il/_files/ugd/62bd3d_23822734e13c486782c626e4afec0322.pdf",
+      "y": 756,
+      "x": 984,
+      "region": "main",
+      "fontSize": "16.5246px"
+    },
+    {
+      "tag": "a",
+      "text": "לחצו כאן",
+      "href": "https://62bd3d49-644c-43fc-9a86-44e652c89743.usrfiles.com/ugd/62bd3d_be66dc8948304002a8407159dbfab499.pdf",
+      "y": 781,
+      "x": 1106,
+      "region": "main",
+      "fontSize": "16.5246px"
+    },
+    {
+      "tag": "h2",
+      "text": "ימים ושעות פתיחה",
+      "y": 806,
+      "x": 180,
+      "region": "main",
+      "fontSize": "22.4262px"
+    },
+    {
+      "tag": "p",
+      "text": "פתוח בימים שני עד שבת בין השעות 11:00 בבוקר ועד שעה לאחר סיום הפעילות האחרונה בברכות. סגור בימי ראשון. לתשומת ליבכם - ייתכנו שעות שבהם \"קפה בסתלבט\" יהיה סגור לקהל למספר שעות עקב קיום אירוע סגור. משעת סגירת הריף לפעילות מבקרים הכניסה לקפה סתלבט הינה ללא עלות. אנו ממליצים בחום להתעדכן בשעות הפעילות ועדכונים גם בפייסבוק ובאינסטגרם של הריף",
       "y": 840,
-      "x": 738,
+      "x": 180,
       "region": "main",
       "fontSize": "16.5246px"
     },
@@ -134,293 +152,59 @@
     },
     {
       "tag": "span",
-      "text": "086300116",
-      "y": 865,
-      "x": 762,
+      "text": "בפייסבוק",
+      "y": 916,
+      "x": 801,
       "region": "main",
       "fontSize": "16.5246px"
     },
     {
       "tag": "a",
-      "text": "086300116",
-      "href": "tel:086300116",
-      "y": 865,
-      "x": 762,
+      "text": "בפייסבוק",
+      "href": "https://www.facebook.com/dolphinreefeilat",
+      "y": 916,
+      "x": 801,
       "region": "main",
       "fontSize": "16.5246px"
     },
     {
       "tag": "span",
-      "text": "086300129",
-      "y": 865,
-      "x": 651,
+      "text": "באינסטגרם",
+      "y": 916,
+      "x": 713,
       "region": "main",
       "fontSize": "16.5246px"
     },
     {
       "tag": "a",
-      "text": "086300129",
-      "href": "tel:086300129",
-      "y": 865,
-      "x": 651,
+      "text": "באינסטגרם",
+      "href": "https://www.instagram.com/dolphin_reef_eilat/",
+      "y": 916,
+      "x": 713,
       "region": "main",
       "fontSize": "16.5246px"
     },
     {
       "tag": "h2",
-      "text": "המומחיות שלנו",
-      "y": 912,
-      "x": 190,
+      "text": "נגישות",
+      "y": 941,
+      "x": 180,
       "region": "main",
       "fontSize": "22.4262px"
     },
     {
       "tag": "p",
-      "text": "אנו מתמחים בשיתופי פעולה, בימי כיף, אירועי חברה, אירועים פרטיים, הופעות ומסיבות במהלך היום ובשעות הערב. באפשרותכם לבחור בחוויה בודדת או שילוב של מספר חוויות מתוך המגוון הייחודי לריף הדולפינים. התמונות שוות אלף מילים...",
-      "y": 943,
-      "x": 190,
+      "text": "לקפה סתלבט כניסה ושרותים נגישים",
+      "y": 975,
+      "x": 180,
       "region": "main",
       "fontSize": "16.5246px"
-    },
-    {
-      "tag": "h2",
-      "text": "יום כייף",
-      "y": 1710,
-      "x": 1031,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "h2",
-      "text": "music סתלבט",
-      "y": 1710,
-      "x": 569,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "h2",
-      "text": "סתלבט דרומי",
-      "y": 1710,
-      "x": 107,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "יום כייף",
-      "y": 1713,
-      "x": 1144,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "יום כייף",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589714574/",
-      "y": 1713,
-      "x": 1144,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "music סתלבט",
-      "y": 1713,
-      "x": 648,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "music סתלבט",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589781764/",
-      "y": 1713,
-      "x": 648,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "סתלבט דרומי",
-      "y": 1713,
-      "x": 191,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "סתלבט דרומי",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661347015180/",
-      "y": 1713,
-      "x": 191,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "h2",
-      "text": "בר וסביבו",
-      "y": 2402,
-      "x": 1031,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "h2",
-      "text": "סתלבט על המים",
-      "y": 2402,
-      "x": 569,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "h2",
-      "text": "חוף והופעות",
-      "y": 2402,
-      "x": 107,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "בר וסביבו",
-      "y": 2405,
-      "x": 1134,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "בר וסביבו",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661791473621/",
-      "y": 2405,
-      "x": 1134,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "סתלבט על המים",
-      "y": 2405,
-      "x": 637,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "סתלבט על המים",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661869533796/",
-      "y": 2405,
-      "x": 637,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "חוף והופעות",
-      "y": 2405,
-      "x": 197,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "חוף והופעות",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227379689/",
-      "y": 2405,
-      "x": 197,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "h2",
-      "text": "חתונה אחרת",
-      "y": 3093,
-      "x": 1031,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "h2",
-      "text": "המרפסת",
-      "y": 3093,
-      "x": 569,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "h2",
-      "text": "מפלס עליון",
-      "y": 3093,
-      "x": 107,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "חתונה אחרת",
-      "y": 3096,
-      "x": 1118,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "חתונה אחרת",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589748044/",
-      "y": 3096,
-      "x": 1118,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "המרפסת",
-      "y": 3096,
-      "x": 676,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "המרפסת",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227238529/",
-      "y": 3096,
-      "x": 676,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "מפלס עליון",
-      "y": 3096,
-      "x": 202,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "מפלס עליון",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157696009627144/",
-      "y": 3096,
-      "x": 202,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "לגלריה",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/",
-      "y": 3192,
-      "x": 645,
-      "region": "main",
-      "fontSize": "10px"
     },
     {
       "tag": "a",
       "text": "מדיניות פרטיות",
       "href": "https://www.dolphinreef.co.il/privacypolicy",
-      "y": 3368,
+      "y": 1378,
       "x": 1080,
       "region": "footer",
       "fontSize": "10px"
@@ -429,7 +213,7 @@
       "tag": "a",
       "text": "טל: 08-6300111",
       "href": "tel:+97286300111",
-      "y": 3373,
+      "y": 1383,
       "x": 600,
       "region": "footer",
       "fontSize": "10px"
@@ -438,7 +222,7 @@
       "tag": "a",
       "text": "info@dolphinreef.co.il",
       "href": "mailto:info@dolphinreef.co.il",
-      "y": 3373,
+      "y": 1383,
       "x": 120,
       "region": "footer",
       "fontSize": "10px"
@@ -452,134 +236,32 @@
       "region": "header"
     },
     {
-      "href": "mailto:hafakot@dolphinreef.co.il?subject=%D7%90%D7%A0%D7%90%20%D7%97%D7%96%D7%A8%D7%95%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%94%D7%9E%D7%A6%D7%95%D7%99%D7%99%D7%9F%20%D7%91%D7%92%D7%95%D7%A3%20%D7%94%D7%9E%D7%99%D7%99%D7%9C",
-      "text": "hafakot@dolphinreef.co.il",
+      "href": "https://www.dolphinreef.co.il/stalbet",
+      "text": "בברכות סתלבט",
       "target": "_self",
       "region": "main"
     },
     {
-      "href": "tel:086300116",
-      "text": "086300116",
-      "target": "",
-      "region": "main"
-    },
-    {
-      "href": "tel:086300129",
-      "text": "086300129",
-      "target": "",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661347015180/",
-      "text": "",
+      "href": "https://www.dolphinreef.co.il/_files/ugd/62bd3d_23822734e13c486782c626e4afec0322.pdf",
+      "text": "לחצו כאן",
       "target": "_blank",
       "region": "main"
     },
     {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661347015180/",
-      "text": "סתלבט דרומי",
+      "href": "https://62bd3d49-644c-43fc-9a86-44e652c89743.usrfiles.com/ugd/62bd3d_be66dc8948304002a8407159dbfab499.pdf",
+      "text": "לחצו כאן",
       "target": "_blank",
       "region": "main"
     },
     {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589781764/",
-      "text": "",
+      "href": "https://www.facebook.com/dolphinreefeilat",
+      "text": "בפייסבוק",
       "target": "_blank",
       "region": "main"
     },
     {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589781764/",
-      "text": "music סתלבט",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589714574/",
-      "text": "",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589714574/",
-      "text": "יום כייף",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227379689/",
-      "text": "",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227379689/",
-      "text": "חוף והופעות",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661869533796/",
-      "text": "",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661869533796/",
-      "text": "סתלבט על המים",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661791473621/",
-      "text": "",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661791473621/",
-      "text": "בר וסביבו",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157696009627144/",
-      "text": "",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157696009627144/",
-      "text": "מפלס עליון",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227238529/",
-      "text": "",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227238529/",
-      "text": "המרפסת",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589748044/",
-      "text": "",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589748044/",
-      "text": "חתונה אחרת",
-      "target": "_blank",
-      "region": "main"
-    },
-    {
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/",
-      "text": "לגלריה",
+      "href": "https://www.instagram.com/dolphin_reef_eilat/",
+      "text": "באינסטגרם",
       "target": "_blank",
       "region": "main"
     },
@@ -757,8 +439,8 @@
       "y": 5
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_57df473dadab4a6cadcab16a257c42d7~mv2.jpg/v1/fill/w_1440,h_449,fp_0.50_0.57,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/events.jpg",
-      "alt": "תמונה של הכנת אירוע בריף הדולפינים תמונה יפהיפיה",
+      "src": "https://static.wixstatic.com/media/62bd3d_d9cc9b978d824b758ecad78c381fec60~mv2.jpg/v1/fill/w_1440,h_449,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9020.jpg",
+      "alt": "תמונה של קפה סתלבט על המים",
       "naturalWidth": 1440,
       "naturalHeight": 449,
       "renderedWidth": 1440,
@@ -766,85 +448,13 @@
       "y": 70
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_7357127c647741d092df32e574f506f0~mv2.jpg/v1/fill/w_372,h_495,al_c,lg_1,q_80,enc_avif,quality_auto/51614946936_8ebe175c5a_w.jpg",
-      "alt": "סתלבט דרומי תמונה",
-      "naturalWidth": 372,
-      "naturalHeight": 494,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1115
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_8844858223324f4db6d75ed6516d5753~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23360062562_4cd6684d2d_z.jpg",
-      "alt": "סתלבט music",
-      "naturalWidth": 384,
-      "naturalHeight": 511,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1115
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_5968cf8a4a274399804a041cdbdc58b2~mv2.jpg/v1/fill/w_384,h_510,fp_0.68_0.47,lg_1,q_80,enc_avif,quality_auto/23442372176_eddbb5b0e9_z.jpg",
-      "alt": "תמונה של יום כייף",
-      "naturalWidth": 383,
-      "naturalHeight": 510,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1115
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_f39783e14c8f429fbb1aa9c7429f7a25~mv2.jpg/v1/fill/w_367,h_487,al_c,lg_1,q_80,enc_avif,quality_auto/22840252354_e257a36c9c_z.jpg",
-      "alt": "תמונה חוף והופעות",
-      "naturalWidth": 367,
-      "naturalHeight": 487,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1806
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_114182ca6ee34de6a7115b9e5db7a149~mv2.jpg/v1/fill/w_384,h_510,al_c,lg_1,q_80,enc_avif,quality_auto/23442448016_f134f8a922_z.jpg",
-      "alt": "תמונה סתלבט על המים",
-      "naturalWidth": 384,
-      "naturalHeight": 510,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1806
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_74c974de2b32484c8956a2e682a53bae~mv2.jpg/v1/fill/w_402,h_534,fp_0.62_0.49,q_80,enc_avif,quality_auto/40309122745_aaac3ecb71_c.jpg",
-      "alt": "תמונה של הבר וסביבו",
-      "naturalWidth": 402,
-      "naturalHeight": 534,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1806
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_fb771bef1f304364af217adad96b3424~mv2.jpg/v1/fill/w_402,h_534,al_c,q_80,enc_avif,quality_auto/27330940658_3dfe948596_c.jpg",
-      "alt": "תמונה של מפלס עליון",
-      "naturalWidth": 402,
-      "naturalHeight": 534,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 2498
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_34f9a0a696214136be97f21b24954034~mv2.jpg/v1/fill/w_387,h_514,al_c,lg_1,q_80,enc_avif,quality_auto/23172713920_19e5f92861_z.jpg",
-      "alt": "תמונה של המרפסת",
-      "naturalWidth": 387,
-      "naturalHeight": 514,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 2498
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_50c6d1054ef8490cbd0f068c6dda2304~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23442393646_a3ee6ab08e_z.jpg",
-      "alt": "תמונה של חתונה אחרת",
-      "naturalWidth": 385,
-      "naturalHeight": 511,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 2498
+      "src": "https://static.wixstatic.com/media/62bd3d_d82bf80247f442d09a13b6ea8a63f31b~mv2.jpg/v1/fill/w_1000,h_256,al_c,q_80,enc_avif,quality_auto/Stalber_Coffe_2.jpg",
+      "alt": "תמונה של קפה סתלבט על המים",
+      "naturalWidth": 1000,
+      "naturalHeight": 256,
+      "renderedWidth": 1080,
+      "renderedHeight": 276,
+      "y": 1022
     },
     {
       "src": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
@@ -853,7 +463,7 @@
       "naturalHeight": 34,
       "renderedWidth": 34,
       "renderedHeight": 34,
-      "y": 3319
+      "y": 1329
     },
     {
       "src": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
@@ -862,7 +472,7 @@
       "naturalHeight": 34,
       "renderedWidth": 34,
       "renderedHeight": 34,
-      "y": 3319
+      "y": 1329
     },
     {
       "src": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
@@ -871,7 +481,7 @@
       "naturalHeight": 34,
       "renderedWidth": 34,
       "renderedHeight": 34,
-      "y": 3319
+      "y": 1329
     },
     {
       "src": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
@@ -880,7 +490,7 @@
       "naturalHeight": 34,
       "renderedWidth": 34,
       "renderedHeight": 34,
-      "y": 3319
+      "y": 1329
     },
     {
       "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Zz48Zz48Zz48cGF0aCBmaWxsPSIiIGlkPSJjbG9zZS1zdmctcGF0aCIgZD0iTTE3LjI5NCA2bC43MDYuNzA2TDEyLjcwNSAxMiAxOCAxNy4yOTRsLS43MDYuNzA2TDEyIDEyLjcwNSA2LjcwNiAxOCA2IDE3LjI5NCAxMS4yOTUgMTIgNiA2LjcwNiA2LjcwNiA2IDEyIDExLjI5NSAxNy4yOTQgNnoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00NzEuMDAwMDAwLCAtNjQ2LjAwMDAwMCkgdHJhbnNsYXRlKDQ3MS4wMDAwMDAsIDY0Ni4wMDAwMDApIi8+PC9nPjwvZz48L2c+PC9zdmc+",
@@ -894,98 +504,16 @@
   ],
   "bgImages": [
     {
-      "containerId": "comp-m46wmuzs",
+      "containerId": "comp-m5l5kdf6",
       "alignType": "center",
       "parallaxSpeed": 1.5,
       "sourceSets": [],
       "imageData": {
-        "uri": "166e60_57df473dadab4a6cadcab16a257c42d7~mv2.jpg",
-        "width": 1920,
-        "height": 1280,
-        "alt": "תמונה של הכנת אירוע בריף הדולפינים תמונה יפהיפיה",
-        "name": "events.jpg",
-        "decorative": false,
-        "displayMode": "fill",
-        "focalPoint": {
-          "x": 50,
-          "y": 57
-        },
-        "scrollEffect": "none"
-      },
-      "hasAnimation": false,
-      "encoding": "AVIF",
-      "allowFullGIFTransformation": false
-    },
-    {
-      "containerId": "comp-m5120j365__item1",
-      "alignType": "center",
-      "parallaxSpeed": 1.5,
-      "sourceSets": [],
-      "imageData": {
-        "uri": "166e60_7357127c647741d092df32e574f506f0~mv2.jpg",
-        "width": 266,
-        "height": 400,
-        "alt": "סתלבט דרומי תמונה",
-        "name": "51614946936_8ebe175c5a_w.jpg",
-        "decorative": false,
-        "focalPoint": null
-      },
-      "hasAnimation": false,
-      "encoding": "AVIF",
-      "allowFullGIFTransformation": false
-    },
-    {
-      "containerId": "comp-m5120j365__item-j9ples3e",
-      "alignType": "center",
-      "parallaxSpeed": 1.5,
-      "sourceSets": [],
-      "imageData": {
-        "uri": "166e60_8844858223324f4db6d75ed6516d5753~mv2.jpg",
-        "width": 448,
-        "height": 426,
-        "alt": "סתלבט music",
-        "name": "23360062562_4cd6684d2d_z.jpg",
-        "decorative": false,
-        "focalPoint": null
-      },
-      "hasAnimation": false,
-      "encoding": "AVIF",
-      "allowFullGIFTransformation": false
-    },
-    {
-      "containerId": "comp-m5120j365__item-j9plerjk",
-      "alignType": "center",
-      "parallaxSpeed": 1.5,
-      "sourceSets": [],
-      "imageData": {
-        "uri": "166e60_5968cf8a4a274399804a041cdbdc58b2~mv2.jpg",
-        "width": 416,
-        "height": 425,
-        "alt": "תמונה של יום כייף",
-        "name": "23442372176_eddbb5b0e9_z.jpg",
-        "decorative": false,
-        "displayMode": "fill",
-        "focalPoint": {
-          "x": 68,
-          "y": 47
-        },
-        "scrollEffect": "none"
-      },
-      "hasAnimation": false,
-      "encoding": "AVIF",
-      "allowFullGIFTransformation": false
-    },
-    {
-      "containerId": "comp-m5120j365__item-m512lc22",
-      "alignType": "center",
-      "parallaxSpeed": 1.5,
-      "sourceSets": [],
-      "imageData": {
-        "uri": "166e60_f39783e14c8f429fbb1aa9c7429f7a25~mv2.jpg",
-        "width": 640,
-        "height": 406,
-        "alt": "תמונה חוף והופעות",
-        "name": "22840252354_e257a36c9c_z.jpg",
+        "uri": "62bd3d_d9cc9b978d824b758ecad78c381fec60~mv2.jpg",
+        "width": 7464,
+        "height": 3884,
+        "alt": "תמונה של קפה סתלבט על המים",
+        "name": "IMG_9020.jpg",
         "decorative": false,
         "displayMode": "fill",
         "scrollEffect": "none",
@@ -996,16 +524,16 @@
       "allowFullGIFTransformation": false
     },
     {
-      "containerId": "comp-m5120j365__item-m512le89",
+      "containerId": "comp-m5ledx1s3",
       "alignType": "center",
       "parallaxSpeed": 1.5,
       "sourceSets": [],
       "imageData": {
-        "uri": "166e60_114182ca6ee34de6a7115b9e5db7a149~mv2.jpg",
-        "width": 640,
-        "height": 425,
-        "alt": "תמונה סתלבט על המים",
-        "name": "23442448016_f134f8a922_z.jpg",
+        "uri": "62bd3d_d82bf80247f442d09a13b6ea8a63f31b~mv2.jpg",
+        "width": 1000,
+        "height": 1333,
+        "alt": "תמונה של קפה סתלבט על המים",
+        "name": "Stalber_Coffe_2.jpg",
         "decorative": false,
         "displayMode": "fill",
         "scrollEffect": "none",
@@ -1016,90 +544,7 @@
       "allowFullGIFTransformation": false
     },
     {
-      "containerId": "comp-m5120j365__item-m512lgc9",
-      "alignType": "center",
-      "parallaxSpeed": 1.5,
-      "sourceSets": [],
-      "imageData": {
-        "uri": "166e60_74c974de2b32484c8956a2e682a53bae~mv2.jpg",
-        "width": 799,
-        "height": 534,
-        "alt": "תמונה של הבר וסביבו",
-        "name": "40309122745_aaac3ecb71_c.jpg",
-        "decorative": false,
-        "displayMode": "fill",
-        "focalPoint": {
-          "x": 62,
-          "y": 49
-        },
-        "scrollEffect": "none"
-      },
-      "hasAnimation": false,
-      "encoding": "AVIF",
-      "allowFullGIFTransformation": false
-    },
-    {
-      "containerId": "comp-m5120j365__item-m512liki",
-      "alignType": "center",
-      "parallaxSpeed": 1.5,
-      "sourceSets": [],
-      "imageData": {
-        "uri": "166e60_fb771bef1f304364af217adad96b3424~mv2.jpg",
-        "width": 799,
-        "height": 534,
-        "alt": "תמונה של מפלס עליון",
-        "name": "27330940658_3dfe948596_c.jpg",
-        "decorative": false,
-        "displayMode": "fill",
-        "scrollEffect": "none",
-        "focalPoint": null
-      },
-      "hasAnimation": false,
-      "encoding": "AVIF",
-      "allowFullGIFTransformation": false
-    },
-    {
-      "containerId": "comp-m5120j365__item-m512ljwy",
-      "alignType": "center",
-      "parallaxSpeed": 1.5,
-      "sourceSets": [],
-      "imageData": {
-        "uri": "166e60_34f9a0a696214136be97f21b24954034~mv2.jpg",
-        "width": 640,
-        "height": 428,
-        "alt": "תמונה של המרפסת",
-        "name": "23172713920_19e5f92861_z.jpg",
-        "decorative": false,
-        "displayMode": "fill",
-        "scrollEffect": "none",
-        "focalPoint": null
-      },
-      "hasAnimation": false,
-      "encoding": "AVIF",
-      "allowFullGIFTransformation": false
-    },
-    {
-      "containerId": "comp-m5120j365__item-m512lkw2",
-      "alignType": "center",
-      "parallaxSpeed": 1.5,
-      "sourceSets": [],
-      "imageData": {
-        "uri": "166e60_50c6d1054ef8490cbd0f068c6dda2304~mv2.jpg",
-        "width": 640,
-        "height": 426,
-        "alt": "תמונה של חתונה אחרת",
-        "name": "23442393646_a3ee6ab08e_z.jpg",
-        "decorative": false,
-        "displayMode": "fill",
-        "scrollEffect": "none",
-        "focalPoint": null
-      },
-      "hasAnimation": false,
-      "encoding": "AVIF",
-      "allowFullGIFTransformation": false
-    },
-    {
-      "containerId": "dataItem-mn1qpu9a-comp-m0xmka7u4_r_comp-m4h5de1l",
+      "containerId": "dataItem-mn1qpu9a-comp-m5l5kdfw6_r_comp-m4h5de1l",
       "displayMode": "fit",
       "encoding": "AVIF",
       "imageData": {
@@ -1111,7 +556,7 @@
       }
     },
     {
-      "containerId": "dataItem-m4h5de1p1-comp-m0xmka7u4_r_comp-m4h5de1l",
+      "containerId": "dataItem-m4h5de1p1-comp-m5l5kdfw6_r_comp-m4h5de1l",
       "displayMode": "fit",
       "encoding": "AVIF",
       "imageData": {
@@ -1123,7 +568,7 @@
       }
     },
     {
-      "containerId": "dataItem-m4h5de1q-comp-m0xmka7u4_r_comp-m4h5de1l",
+      "containerId": "dataItem-m4h5de1q-comp-m5l5kdfw6_r_comp-m4h5de1l",
       "displayMode": "fit",
       "encoding": "AVIF",
       "imageData": {
@@ -1135,7 +580,7 @@
       }
     },
     {
-      "containerId": "dataItem-m4h5l5qq-comp-m0xmka7u4_r_comp-m4h5de1l",
+      "containerId": "dataItem-m4h5l5qq-comp-m5l5kdfw6_r_comp-m4h5de1l",
       "displayMode": "fit",
       "encoding": "AVIF",
       "imageData": {
@@ -1163,16 +608,14 @@
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PageSections].66f3b3d5.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_ResponsiveBox].55b37fe0.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MultiStateBox].a0b281c9.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Repeater_Responsive].1f9bf17b.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SiteButton_WrappingButton].46e316e6.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MenuContainer_Responsive].23316a4c.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LinkBar_Responsive].2661e0e4.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HeaderSection].f13d21d9.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].8a9c12f1.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StylableButton_StylableButton].22ab8bd5.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterSection].3bd26d28.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LinkBar_Responsive].2661e0e4.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_mobile.2658b124.bundle.min.js",
     "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
     "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
@@ -1198,11 +641,11 @@
   ],
   "forms": [],
   "ld": [],
-  "height": 3412,
+  "height": 1421,
   "status": 200,
   "requests": [
     {
-      "url": "https://www.dolphinreef.co.il/events",
+      "url": "https://www.dolphinreef.co.il/stalbetcoffe",
       "type": "document"
     },
     {
@@ -1210,7 +653,7 @@
       "type": "image"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_57df473dadab4a6cadcab16a257c42d7~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/events.jpg",
+      "url": "https://static.wixstatic.com/media/62bd3d_d9cc9b978d824b758ecad78c381fec60~mv2.jpg/v1/fill/w_147,h_76,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/IMG_9020.jpg",
       "type": "image"
     },
     {
@@ -1250,39 +693,7 @@
       "type": "script"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_7357127c647741d092df32e574f506f0~mv2.jpg/v1/fill/w_67,h_100,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/51614946936_8ebe175c5a_w.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_8844858223324f4db6d75ed6516d5753~mv2.jpg/v1/fill/w_112,h_107,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23360062562_4cd6684d2d_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_5968cf8a4a274399804a041cdbdc58b2~mv2.jpg/v1/fill/w_104,h_106,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23442372176_eddbb5b0e9_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_f39783e14c8f429fbb1aa9c7429f7a25~mv2.jpg/v1/fill/w_115,h_73,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/22840252354_e257a36c9c_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_114182ca6ee34de6a7115b9e5db7a149~mv2.jpg/v1/fill/w_115,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23442448016_f134f8a922_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_74c974de2b32484c8956a2e682a53bae~mv2.jpg/v1/fill/w_144,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40309122745_aaac3ecb71_c.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_fb771bef1f304364af217adad96b3424~mv2.jpg/v1/fill/w_144,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/27330940658_3dfe948596_c.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_34f9a0a696214136be97f21b24954034~mv2.jpg/v1/fill/w_115,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23172713920_19e5f92861_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_50c6d1054ef8490cbd0f068c6dda2304~mv2.jpg/v1/fill/w_115,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23442393646_a3ee6ab08e_z.jpg",
+      "url": "https://static.wixstatic.com/media/62bd3d_d82bf80247f442d09a13b6ea8a63f31b~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Stalber_Coffe_2.jpg",
       "type": "image"
     },
     {
@@ -1290,31 +701,27 @@
       "type": "script"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_57df473dadab4a6cadcab16a257c42d7~mv2.jpg/v1/fill/w_1440,h_449,fp_0.50_0.57,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/events.jpg",
+      "url": "https://static.wixstatic.com/media/62bd3d_d9cc9b978d824b758ecad78c381fec60~mv2.jpg/v1/fill/w_1440,h_449,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9020.jpg",
       "type": "image"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_7357127c647741d092df32e574f506f0~mv2.jpg/v1/fill/w_372,h_495,al_c,lg_1,q_80,enc_avif,quality_auto/51614946936_8ebe175c5a_w.jpg",
+      "url": "https://static.wixstatic.com/media/62bd3d_d82bf80247f442d09a13b6ea8a63f31b~mv2.jpg/v1/fill/w_1000,h_256,al_c,q_80,enc_avif,quality_auto/Stalber_Coffe_2.jpg",
       "type": "image"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_8844858223324f4db6d75ed6516d5753~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23360062562_4cd6684d2d_z.jpg",
+      "url": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
       "type": "image"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_5968cf8a4a274399804a041cdbdc58b2~mv2.jpg/v1/fill/w_384,h_510,fp_0.68_0.47,lg_1,q_80,enc_avif,quality_auto/23442372176_eddbb5b0e9_z.jpg",
+      "url": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
       "type": "image"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_f39783e14c8f429fbb1aa9c7429f7a25~mv2.jpg/v1/fill/w_367,h_487,al_c,lg_1,q_80,enc_avif,quality_auto/22840252354_e257a36c9c_z.jpg",
+      "url": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
       "type": "image"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_114182ca6ee34de6a7115b9e5db7a149~mv2.jpg/v1/fill/w_384,h_510,al_c,lg_1,q_80,enc_avif,quality_auto/23442448016_f134f8a922_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_74c974de2b32484c8956a2e682a53bae~mv2.jpg/v1/fill/w_402,h_534,fp_0.62_0.49,q_80,enc_avif,quality_auto/40309122745_aaac3ecb71_c.jpg",
+      "url": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
       "type": "image"
     },
     {
@@ -1542,15 +949,23 @@
       "type": "script"
     },
     {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
+      "type": "script"
+    },
+    {
       "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_11.eeaeabf5.chunk.min.js",
       "type": "script"
     },
     {
       "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_41.8cc46024.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_31.820e7611.chunk.min.js",
       "type": "script"
     },
     {
@@ -1571,18 +986,6 @@
     },
     {
       "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/triggersAndReactions.2c5caf8e.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
       "type": "script"
     },
     {
@@ -1614,10 +1017,6 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Repeater_Responsive].1f9bf17b.bundle.min.js",
-      "type": "script"
-    },
-    {
       "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SiteButton_WrappingButton].46e316e6.bundle.min.js",
       "type": "script"
     },
@@ -1626,7 +1025,7 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LinkBar_Responsive].2661e0e4.bundle.min.js",
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
       "type": "script"
     },
     {
@@ -1638,19 +1037,15 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
-      "type": "script"
-    },
-    {
       "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].8a9c12f1.bundle.min.js",
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StylableButton_StylableButton].22ab8bd5.bundle.min.js",
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterSection].3bd26d28.bundle.min.js",
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterSection].3bd26d28.bundle.min.js",
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LinkBar_Responsive].2661e0e4.bundle.min.js",
       "type": "script"
     },
     {
@@ -1666,32 +1061,8 @@
       "type": "script"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_fb771bef1f304364af217adad96b3424~mv2.jpg/v1/fill/w_402,h_534,al_c,q_80,enc_avif,quality_auto/27330940658_3dfe948596_c.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_34f9a0a696214136be97f21b24954034~mv2.jpg/v1/fill/w_387,h_514,al_c,lg_1,q_80,enc_avif,quality_auto/23172713920_19e5f92861_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_50c6d1054ef8490cbd0f068c6dda2304~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23442393646_a3ee6ab08e_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
-      "type": "image"
+      "url": "https://www.dolphinreef.co.il/_files/ugd/62bd3d_23822734e13c486782c626e4afec0322.pdf",
+      "type": "prefetch"
     }
   ]
 }

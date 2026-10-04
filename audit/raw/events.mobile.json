@@ -30,407 +30,398 @@
       "tag": "button",
       "text": "לדלג לתוכן הראשי",
       "y": 60,
-      "x": 626,
+      "x": 101,
       "region": "main",
       "fontSize": "14px"
     },
     {
       "tag": "h1",
       "text": "כל מה שרציתם ולא העזתם לחלום",
-      "y": 543,
-      "x": 180,
+      "y": 258,
+      "x": 10,
       "region": "main",
-      "fontSize": "55px"
+      "fontSize": "35px"
     },
     {
       "tag": "h2",
       "text": "למה איתנו?",
-      "y": 620,
-      "x": 190,
+      "y": 307,
+      "x": 13,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "p",
       "text": "ריף הדולפינים באילת הינו אתר ייחודי מסוגו בארץ ובעולם ,המאפשר לקהל המבקרים ליהנות מסביבה ואווירה טבעית, המשלבת ים, נופים קסומים, צמחייה עשירה, ופינות נסתרות, ואפשרות לצפות בדולפינים בבית גידולם הטבעי (הים) והכל, תוך התחשבות מרבית בטבע ובסביבה. כל אלו מהווים תפאורה טבעית מושלמת שעליה אנו יודעים להציע ולבנות את כל מה שרציתם ולא העזתם לחלום...",
-      "y": 651,
-      "x": 190,
+      "y": 335,
+      "x": 13,
       "region": "main",
-      "fontSize": "16.5246px"
+      "fontSize": "15px"
     },
     {
       "tag": "h2",
       "text": "ההפקות ושיתופי הפעולה שלנו",
-      "y": 725,
-      "x": 190,
+      "y": 492,
+      "x": 13,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
+    },
+    {
+      "tag": "a",
+      "text": "מדיניות הפרטיות",
+      "href": "https://www.dolphinreef.co.il/privacypolicy",
+      "y": 520,
+      "x": 20,
+      "region": "main",
+      "fontSize": "14px"
     },
     {
       "tag": "p",
       "text": "משרד ההפקות והצוות שלנו עומד לרשותכם בימים א – ה בין השעות 09:00 – 15:00. לאחר יצירת קשר ראשוני עמנו נשתף אתכם ברעיונות למימוש בתאם לבקשתכם ורצונכם. למפרט שהוצע נצרף גם הצעת מחיר תואמת ותאריכים זמינים.",
-      "y": 757,
-      "x": 190,
+      "y": 520,
+      "x": 19,
       "region": "main",
-      "fontSize": "16.5246px"
-    },
-    {
-      "tag": "h2",
-      "text": "איך ליצור איתנו קשר",
-      "y": 806,
-      "x": 190,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "p",
-      "text": "אנו ממליצים ליצור את הקשר הראשוני במייל ל: hafakot@dolphinreef.co.il לציין באופן כללי את בקשתכם ואפשרויות ליצירת קשר חוזר עמכם. תוכלו ליצור עמנו קשר גם במהלך הימים ושעות הפעילות שלנו בטל: 📞 086300116, או 086300129, מעוניינים לשמוע עוד? צרו עמנו קשר. אנו אוהבים את הקשר האישי...",
-      "y": 838,
-      "x": 190,
-      "region": "main",
-      "fontSize": "16.5246px"
-    },
-    {
-      "tag": "span",
-      "text": "hafakot@dolphinreef.co.il",
-      "y": 840,
-      "x": 738,
-      "region": "main",
-      "fontSize": "16.5246px"
-    },
-    {
-      "tag": "a",
-      "text": "hafakot@dolphinreef.co.il",
-      "href": "mailto:hafakot@dolphinreef.co.il?subject=%D7%90%D7%A0%D7%90%20%D7%97%D7%96%D7%A8%D7%95%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%94%D7%9E%D7%A6%D7%95%D7%99%D7%99%D7%9F%20%D7%91%D7%92%D7%95%D7%A3%20%D7%94%D7%9E%D7%99%D7%99%D7%9C",
-      "y": 840,
-      "x": 738,
-      "region": "main",
-      "fontSize": "16.5246px"
+      "fontSize": "15px"
     },
     {
       "tag": "button",
       "text": "אישור",
-      "y": 852,
-      "x": 1324,
+      "y": 582,
+      "x": 201,
       "region": "main",
       "fontSize": "14px"
     },
     {
       "tag": "button",
       "text": "דחיית הכל",
-      "y": 852,
-      "x": 1218,
+      "y": 582,
+      "x": 20,
       "region": "main",
       "fontSize": "14px"
     },
     {
-      "tag": "a",
-      "text": "מדיניות הפרטיות",
-      "href": "https://www.dolphinreef.co.il/privacypolicy",
-      "y": 860,
-      "x": 24,
+      "tag": "h2",
+      "text": "איך ליצור איתנו קשר",
+      "y": 633,
+      "x": 13,
       "region": "main",
-      "fontSize": "14px"
+      "fontSize": "20px"
+    },
+    {
+      "tag": "p",
+      "text": "אנו ממליצים ליצור את הקשר הראשוני במייל ל: hafakot@dolphinreef.co.il לציין באופן כללי את בקשתכם ואפשרויות ליצירת קשר חוזר עמכם. תוכלו ליצור עמנו קשר גם במהלך הימים ושעות הפעילות שלנו בטל: 📞 086300116, או 086300129, מעוניינים לשמוע עוד? צרו עמנו קשר. אנו אוהבים את הקשר האישי...",
+      "y": 661,
+      "x": 13,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "span",
+      "text": "hafakot@dolphinreef.co.il",
+      "y": 685,
+      "x": 207,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "a",
+      "text": "hafakot@dolphinreef.co.il",
+      "href": "mailto:hafakot@dolphinreef.co.il?subject=%D7%90%D7%A0%D7%90%20%D7%97%D7%96%D7%A8%D7%95%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%94%D7%9E%D7%A6%D7%95%D7%99%D7%99%D7%9F%20%D7%91%D7%92%D7%95%D7%A3%20%D7%94%D7%9E%D7%99%D7%99%D7%9C",
+      "y": 685,
+      "x": 207,
+      "region": "main",
+      "fontSize": "15px"
     },
     {
       "tag": "span",
       "text": "086300116",
-      "y": 865,
-      "x": 762,
+      "y": 753,
+      "x": 301,
       "region": "main",
-      "fontSize": "16.5246px"
+      "fontSize": "15px"
     },
     {
       "tag": "a",
       "text": "086300116",
       "href": "tel:086300116",
-      "y": 865,
-      "x": 762,
+      "y": 753,
+      "x": 301,
       "region": "main",
-      "fontSize": "16.5246px"
+      "fontSize": "15px"
     },
     {
       "tag": "span",
       "text": "086300129",
-      "y": 865,
-      "x": 651,
+      "y": 753,
+      "x": 201,
       "region": "main",
-      "fontSize": "16.5246px"
+      "fontSize": "15px"
     },
     {
       "tag": "a",
       "text": "086300129",
       "href": "tel:086300129",
-      "y": 865,
-      "x": 651,
+      "y": 753,
+      "x": 201,
       "region": "main",
-      "fontSize": "16.5246px"
+      "fontSize": "15px"
     },
     {
       "tag": "h2",
       "text": "המומחיות שלנו",
-      "y": 912,
-      "x": 190,
+      "y": 796,
+      "x": 13,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "p",
       "text": "אנו מתמחים בשיתופי פעולה, בימי כיף, אירועי חברה, אירועים פרטיים, הופעות ומסיבות במהלך היום ובשעות הערב. באפשרותכם לבחור בחוויה בודדת או שילוב של מספר חוויות מתוך המגוון הייחודי לריף הדולפינים. התמונות שוות אלף מילים...",
-      "y": 943,
-      "x": 190,
+      "y": 824,
+      "x": 13,
       "region": "main",
-      "fontSize": "16.5246px"
-    },
-    {
-      "tag": "h2",
-      "text": "יום כייף",
-      "y": 1710,
-      "x": 1031,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "h2",
-      "text": "music סתלבט",
-      "y": 1710,
-      "x": 569,
-      "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "15px"
     },
     {
       "tag": "h2",
       "text": "סתלבט דרומי",
-      "y": 1710,
-      "x": 107,
+      "y": 1428,
+      "x": 71,
       "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "יום כייף",
-      "y": 1713,
-      "x": 1144,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "יום כייף",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589714574/",
-      "y": 1713,
-      "x": 1144,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "music סתלבט",
-      "y": 1713,
-      "x": 648,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "music סתלבט",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589781764/",
-      "y": 1713,
-      "x": 648,
-      "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "span",
       "text": "סתלבט דרומי",
-      "y": 1713,
-      "x": 191,
+      "y": 1431,
+      "x": 135,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "a",
       "text": "סתלבט דרומי",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661347015180/",
-      "y": 1713,
-      "x": 191,
+      "y": 1431,
+      "x": 135,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "h2",
-      "text": "בר וסביבו",
-      "y": 2402,
-      "x": 1031,
+      "text": "music סתלבט",
+      "y": 2004,
+      "x": 71,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
+    },
+    {
+      "tag": "span",
+      "text": "music סתלבט",
+      "y": 2007,
+      "x": 131,
+      "region": "main",
+      "fontSize": "20px"
+    },
+    {
+      "tag": "a",
+      "text": "music סתלבט",
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589781764/",
+      "y": 2007,
+      "x": 131,
+      "region": "main",
+      "fontSize": "20px"
     },
     {
       "tag": "h2",
-      "text": "סתלבט על המים",
-      "y": 2402,
-      "x": 569,
+      "text": "יום כייף",
+      "y": 2581,
+      "x": 71,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
+    },
+    {
+      "tag": "span",
+      "text": "יום כייף",
+      "y": 2584,
+      "x": 161,
+      "region": "main",
+      "fontSize": "20px"
+    },
+    {
+      "tag": "a",
+      "text": "יום כייף",
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589714574/",
+      "y": 2584,
+      "x": 161,
+      "region": "main",
+      "fontSize": "20px"
     },
     {
       "tag": "h2",
       "text": "חוף והופעות",
-      "y": 2402,
-      "x": 107,
+      "y": 3157,
+      "x": 71,
       "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "בר וסביבו",
-      "y": 2405,
-      "x": 1134,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "בר וסביבו",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661791473621/",
-      "y": 2405,
-      "x": 1134,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "סתלבט על המים",
-      "y": 2405,
-      "x": 637,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "סתלבט על המים",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661869533796/",
-      "y": 2405,
-      "x": 637,
-      "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "span",
       "text": "חוף והופעות",
-      "y": 2405,
-      "x": 197,
+      "y": 3160,
+      "x": 140,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "a",
       "text": "חוף והופעות",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227379689/",
-      "y": 2405,
-      "x": 197,
+      "y": 3160,
+      "x": 140,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "h2",
-      "text": "חתונה אחרת",
-      "y": 3093,
-      "x": 1031,
+      "text": "סתלבט על המים",
+      "y": 3734,
+      "x": 71,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
+    },
+    {
+      "tag": "span",
+      "text": "סתלבט על המים",
+      "y": 3737,
+      "x": 121,
+      "region": "main",
+      "fontSize": "20px"
+    },
+    {
+      "tag": "a",
+      "text": "סתלבט על המים",
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661869533796/",
+      "y": 3737,
+      "x": 121,
+      "region": "main",
+      "fontSize": "20px"
     },
     {
       "tag": "h2",
-      "text": "המרפסת",
-      "y": 3093,
-      "x": 569,
+      "text": "בר וסביבו",
+      "y": 4310,
+      "x": 71,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
+    },
+    {
+      "tag": "span",
+      "text": "בר וסביבו",
+      "y": 4313,
+      "x": 152,
+      "region": "main",
+      "fontSize": "20px"
+    },
+    {
+      "tag": "a",
+      "text": "בר וסביבו",
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661791473621/",
+      "y": 4313,
+      "x": 152,
+      "region": "main",
+      "fontSize": "20px"
     },
     {
       "tag": "h2",
       "text": "מפלס עליון",
-      "y": 3093,
-      "x": 107,
+      "y": 4886,
+      "x": 71,
       "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "חתונה אחרת",
-      "y": 3096,
-      "x": 1118,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "חתונה אחרת",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589748044/",
-      "y": 3096,
-      "x": 1118,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "span",
-      "text": "המרפסת",
-      "y": 3096,
-      "x": 676,
-      "region": "main",
-      "fontSize": "22.4262px"
-    },
-    {
-      "tag": "a",
-      "text": "המרפסת",
-      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227238529/",
-      "y": 3096,
-      "x": 676,
-      "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "span",
       "text": "מפלס עליון",
-      "y": 3096,
-      "x": 202,
+      "y": 4889,
+      "x": 145,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
     },
     {
       "tag": "a",
       "text": "מפלס עליון",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/72157696009627144/",
-      "y": 3096,
-      "x": 202,
+      "y": 4889,
+      "x": 145,
       "region": "main",
-      "fontSize": "22.4262px"
+      "fontSize": "20px"
+    },
+    {
+      "tag": "h2",
+      "text": "המרפסת",
+      "y": 5463,
+      "x": 71,
+      "region": "main",
+      "fontSize": "20px"
+    },
+    {
+      "tag": "span",
+      "text": "המרפסת",
+      "y": 5466,
+      "x": 155,
+      "region": "main",
+      "fontSize": "20px"
+    },
+    {
+      "tag": "a",
+      "text": "המרפסת",
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157661227238529/",
+      "y": 5466,
+      "x": 155,
+      "region": "main",
+      "fontSize": "20px"
+    },
+    {
+      "tag": "h2",
+      "text": "חתונה אחרת",
+      "y": 6039,
+      "x": 71,
+      "region": "main",
+      "fontSize": "20px"
+    },
+    {
+      "tag": "span",
+      "text": "חתונה אחרת",
+      "y": 6042,
+      "x": 137,
+      "region": "main",
+      "fontSize": "20px"
+    },
+    {
+      "tag": "a",
+      "text": "חתונה אחרת",
+      "href": "https://www.flickr.com/photos/dolphinreef/albums/72157659589748044/",
+      "y": 6042,
+      "x": 137,
+      "region": "main",
+      "fontSize": "20px"
     },
     {
       "tag": "a",
       "text": "לגלריה",
       "href": "https://www.flickr.com/photos/dolphinreef/albums/",
-      "y": 3192,
-      "x": 645,
+      "y": 6133,
+      "x": 120,
       "region": "main",
-      "fontSize": "10px"
-    },
-    {
-      "tag": "a",
-      "text": "מדיניות פרטיות",
-      "href": "https://www.dolphinreef.co.il/privacypolicy",
-      "y": 3368,
-      "x": 1080,
-      "region": "footer",
       "fontSize": "10px"
     },
     {
       "tag": "a",
       "text": "טל: 08-6300111",
       "href": "tel:+97286300111",
-      "y": 3373,
-      "x": 600,
+      "y": 6276,
+      "x": 140,
       "region": "footer",
       "fontSize": "10px"
     },
@@ -438,8 +429,17 @@
       "tag": "a",
       "text": "info@dolphinreef.co.il",
       "href": "mailto:info@dolphinreef.co.il",
-      "y": 3373,
-      "x": 120,
+      "y": 6276,
+      "x": 8,
+      "region": "footer",
+      "fontSize": "10px"
+    },
+    {
+      "tag": "a",
+      "text": "מדיניות פרטיות",
+      "href": "https://www.dolphinreef.co.il/privacypolicy",
+      "y": 6279,
+      "x": 260,
       "region": "footer",
       "fontSize": "10px"
     }
@@ -730,157 +730,157 @@
   ],
   "images": [
     {
-      "src": "https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/round/ISR.png",
+      "src": "https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/round/ISR_2x.png",
       "alt": "Hebrew",
       "naturalWidth": 32,
       "naturalHeight": 32,
       "renderedWidth": 30,
       "renderedHeight": 30,
-      "y": 20
+      "y": 22
     },
     {
-      "src": "https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/round/USA.png",
+      "src": "https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/round/USA_2x.png",
       "alt": "English",
       "naturalWidth": 32,
       "naturalHeight": 32,
       "renderedWidth": 30,
       "renderedHeight": 30,
-      "y": 20
+      "y": 22
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
+      "src": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_140,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
       "alt": "Dolphin Reef Logo",
       "naturalWidth": 70,
       "naturalHeight": 60,
       "renderedWidth": 69,
       "renderedHeight": 59,
-      "y": 5
+      "y": 7
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_57df473dadab4a6cadcab16a257c42d7~mv2.jpg/v1/fill/w_1440,h_449,fp_0.50_0.57,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/events.jpg",
+      "src": "https://static.wixstatic.com/media/166e60_57df473dadab4a6cadcab16a257c42d7~mv2.jpg/v1/fill/w_780,h_354,fp_0.50_0.57,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/events.jpg",
       "alt": "תמונה של הכנת אירוע בריף הדולפינים תמונה יפהיפיה",
-      "naturalWidth": 1440,
-      "naturalHeight": 449,
-      "renderedWidth": 1440,
-      "renderedHeight": 449,
-      "y": 70
+      "naturalWidth": 780,
+      "naturalHeight": 354,
+      "renderedWidth": 390,
+      "renderedHeight": 177,
+      "y": 74
     },
     {
       "src": "https://static.wixstatic.com/media/166e60_7357127c647741d092df32e574f506f0~mv2.jpg/v1/fill/w_372,h_495,al_c,lg_1,q_80,enc_avif,quality_auto/51614946936_8ebe175c5a_w.jpg",
       "alt": "סתלבט דרומי תמונה",
       "naturalWidth": 372,
       "naturalHeight": 494,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1115
+      "renderedWidth": 348,
+      "renderedHeight": 463,
+      "y": 936
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_8844858223324f4db6d75ed6516d5753~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23360062562_4cd6684d2d_z.jpg",
+      "src": "https://static.wixstatic.com/media/166e60_8844858223324f4db6d75ed6516d5753~mv2.jpg/v1/fill/w_384,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23360062562_4cd6684d2d_z.jpg",
       "alt": "סתלבט music",
       "naturalWidth": 384,
       "naturalHeight": 511,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1115
+      "renderedWidth": 348,
+      "renderedHeight": 463,
+      "y": 1513
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_5968cf8a4a274399804a041cdbdc58b2~mv2.jpg/v1/fill/w_384,h_510,fp_0.68_0.47,lg_1,q_80,enc_avif,quality_auto/23442372176_eddbb5b0e9_z.jpg",
+      "src": "https://static.wixstatic.com/media/166e60_5968cf8a4a274399804a041cdbdc58b2~mv2.jpg/v1/fill/w_383,h_510,fp_0.68_0.47,lg_1,q_80,enc_avif,quality_auto/23442372176_eddbb5b0e9_z.jpg",
       "alt": "תמונה של יום כייף",
-      "naturalWidth": 383,
-      "naturalHeight": 510,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1115
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_f39783e14c8f429fbb1aa9c7429f7a25~mv2.jpg/v1/fill/w_367,h_487,al_c,lg_1,q_80,enc_avif,quality_auto/22840252354_e257a36c9c_z.jpg",
-      "alt": "תמונה חוף והופעות",
-      "naturalWidth": 367,
-      "naturalHeight": 487,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1806
-    },
-    {
-      "src": "https://static.wixstatic.com/media/166e60_114182ca6ee34de6a7115b9e5db7a149~mv2.jpg/v1/fill/w_384,h_510,al_c,lg_1,q_80,enc_avif,quality_auto/23442448016_f134f8a922_z.jpg",
-      "alt": "תמונה סתלבט על המים",
       "naturalWidth": 384,
       "naturalHeight": 510,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1806
+      "renderedWidth": 348,
+      "renderedHeight": 463,
+      "y": 2089
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_74c974de2b32484c8956a2e682a53bae~mv2.jpg/v1/fill/w_402,h_534,fp_0.62_0.49,q_80,enc_avif,quality_auto/40309122745_aaac3ecb71_c.jpg",
+      "src": "https://static.wixstatic.com/media/166e60_f39783e14c8f429fbb1aa9c7429f7a25~mv2.jpg/v1/fill/w_366,h_487,al_c,lg_1,q_80,enc_avif,quality_auto/22840252354_e257a36c9c_z.jpg",
+      "alt": "תמונה חוף והופעות",
+      "naturalWidth": 366,
+      "naturalHeight": 487,
+      "renderedWidth": 348,
+      "renderedHeight": 463,
+      "y": 2665
+    },
+    {
+      "src": "https://static.wixstatic.com/media/166e60_114182ca6ee34de6a7115b9e5db7a149~mv2.jpg/v1/fill/w_383,h_510,al_c,lg_1,q_80,enc_avif,quality_auto/23442448016_f134f8a922_z.jpg",
+      "alt": "תמונה סתלבט על המים",
+      "naturalWidth": 383,
+      "naturalHeight": 510,
+      "renderedWidth": 348,
+      "renderedHeight": 463,
+      "y": 3242
+    },
+    {
+      "src": "https://static.wixstatic.com/media/166e60_74c974de2b32484c8956a2e682a53bae~mv2.jpg/v1/fill/w_401,h_534,fp_0.62_0.49,q_80,enc_avif,quality_auto/40309122745_aaac3ecb71_c.jpg",
       "alt": "תמונה של הבר וסביבו",
-      "naturalWidth": 402,
+      "naturalWidth": 401,
       "naturalHeight": 534,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 1806
+      "renderedWidth": 348,
+      "renderedHeight": 463,
+      "y": 3818
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_fb771bef1f304364af217adad96b3424~mv2.jpg/v1/fill/w_402,h_534,al_c,q_80,enc_avif,quality_auto/27330940658_3dfe948596_c.jpg",
+      "src": "https://static.wixstatic.com/media/166e60_fb771bef1f304364af217adad96b3424~mv2.jpg/v1/fill/w_401,h_534,al_c,q_80,enc_avif,quality_auto/27330940658_3dfe948596_c.jpg",
       "alt": "תמונה של מפלס עליון",
-      "naturalWidth": 402,
+      "naturalWidth": 401,
       "naturalHeight": 534,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 2498
+      "renderedWidth": 348,
+      "renderedHeight": 463,
+      "y": 4394
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_34f9a0a696214136be97f21b24954034~mv2.jpg/v1/fill/w_387,h_514,al_c,lg_1,q_80,enc_avif,quality_auto/23172713920_19e5f92861_z.jpg",
+      "src": "https://static.wixstatic.com/media/166e60_34f9a0a696214136be97f21b24954034~mv2.jpg/v1/fill/w_386,h_514,al_c,lg_1,q_80,enc_avif,quality_auto/23172713920_19e5f92861_z.jpg",
       "alt": "תמונה של המרפסת",
-      "naturalWidth": 387,
+      "naturalWidth": 386,
       "naturalHeight": 514,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 2498
+      "renderedWidth": 348,
+      "renderedHeight": 463,
+      "y": 4971
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_50c6d1054ef8490cbd0f068c6dda2304~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23442393646_a3ee6ab08e_z.jpg",
+      "src": "https://static.wixstatic.com/media/166e60_50c6d1054ef8490cbd0f068c6dda2304~mv2.jpg/v1/fill/w_384,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23442393646_a3ee6ab08e_z.jpg",
       "alt": "תמונה של חתונה אחרת",
       "naturalWidth": 385,
       "naturalHeight": 511,
-      "renderedWidth": 426,
-      "renderedHeight": 566,
-      "y": 2498
+      "renderedWidth": 348,
+      "renderedHeight": 463,
+      "y": 5547
     },
     {
-      "src": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
+      "src": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
       "alt": "WhatsApp",
-      "naturalWidth": 34,
-      "naturalHeight": 34,
-      "renderedWidth": 34,
-      "renderedHeight": 34,
-      "y": 3319
+      "naturalWidth": 86,
+      "naturalHeight": 86,
+      "renderedWidth": 43,
+      "renderedHeight": 43,
+      "y": 6222
     },
     {
-      "src": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+      "src": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
       "alt": "Instagram",
-      "naturalWidth": 34,
-      "naturalHeight": 34,
-      "renderedWidth": 34,
-      "renderedHeight": 34,
-      "y": 3319
+      "naturalWidth": 86,
+      "naturalHeight": 86,
+      "renderedWidth": 43,
+      "renderedHeight": 43,
+      "y": 6222
     },
     {
-      "src": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
+      "src": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
       "alt": "Facebook",
-      "naturalWidth": 34,
-      "naturalHeight": 34,
-      "renderedWidth": 34,
-      "renderedHeight": 34,
-      "y": 3319
+      "naturalWidth": 86,
+      "naturalHeight": 86,
+      "renderedWidth": 43,
+      "renderedHeight": 43,
+      "y": 6222
     },
     {
-      "src": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
+      "src": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
       "alt": "TikTok",
-      "naturalWidth": 34,
-      "naturalHeight": 34,
-      "renderedWidth": 34,
-      "renderedHeight": 34,
-      "y": 3319
+      "naturalWidth": 86,
+      "naturalHeight": 86,
+      "renderedWidth": 43,
+      "renderedHeight": 43,
+      "y": 6222
     },
     {
       "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Zz48Zz48Zz48cGF0aCBmaWxsPSIiIGlkPSJjbG9zZS1zdmctcGF0aCIgZD0iTTE3LjI5NCA2bC43MDYuNzA2TDEyLjcwNSAxMiAxOCAxNy4yOTRsLS43MDYuNzA2TDEyIDEyLjcwNSA2LjcwNiAxOCA2IDE3LjI5NCAxMS4yOTUgMTIgNiA2LjcwNiA2LjcwNiA2IDEyIDExLjI5NSAxNy4yOTQgNnoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00NzEuMDAwMDAwLCAtNjQ2LjAwMDAwMCkgdHJhbnNsYXRlKDQ3MS4wMDAwMDAsIDY0Ni4wMDAwMDApIi8+PC9nPjwvZz48L2c+PC9zdmc+",
@@ -889,7 +889,7 @@
       "naturalHeight": 24,
       "renderedWidth": 24,
       "renderedHeight": 24,
-      "y": 855
+      "y": 460
     }
   ],
   "bgImages": [
@@ -1158,7 +1158,7 @@
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[RefComponent].33152207.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].8c8a6cb8.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].8f3e56e0.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ImageX].65541ada.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PageSections].66f3b3d5.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_ResponsiveBox].55b37fe0.bundle.min.js",
@@ -1179,519 +1179,24 @@
     "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
     "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
     "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js",
-    "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.96193e9a.bundle.min.js",
-    "https://static.parastorage.com/services/wix-thunderbolt/dist/main.15d8f476.bundle.min.js",
+    "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.d5db60ae.bundle.min.js",
+    "https://static.parastorage.com/services/wix-thunderbolt/dist/main.eeee3112.bundle.min.js",
     "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.32731c34.bundle.min.js",
     "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
     "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js"
   ],
   "inlineScripts": [
-    "{\"fleetConfig\":{\"fleetName\":\"thunderbolt-isolated-renderer\",\"type\":\"Rollout\",\"code\":1},\"mode\":{\"qa\":false,\"enableTestApi\":false,\"addAllServices\":false,\"debug\":false,\"ssrIndicator\":false,\"ssrOnly\":false,\"siteAssetsFallback\":\"enable\",\"versionIndicator\":false},\"componentsLibrariesTopology\":[{\"artifactId\":\"editor-elements\",\"namespace\":\"wixui\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15535.0\"},{\"artifactId\":\"editor-elements\",\"namespace\":\"dsgnsys\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15535.0\"}],\"siteFeaturesConfigs\":{\"sessionManager\":{\"isRunningInDifferentSiteContext\":false}},\"language\":{\"userLanguage\":\"he\"},\"siteAssets\":{\"clientTopology\":{\"mediaRootUrl\":\"https:\\/\\/static.wixstatic.com\",\"scriptsUrl\":\"static.parastorage.com\",\"staticMediaUrl\":\"https:\\/\\/static.wixstatic.com\\/media\",\"staticAudioUrl\":\"https:\\/\\/music.wixstatic.com\\/mp3\",\"moduleRepoUrl\":\"https:\\/\\/static.parastorage.com\\/unpkg\",\"fileRepoUrl\":\"https:\\/\\/static.parastorage.com\\/services\",\"viewerAppsUrl\":\"https:\\/\\/viewer-apps.parastorage.com\",\"viewerAssetsUrl\":\"https:\\/\\/viewer-assets.parastorage.com\",\"siteAssetsUrl\":\"https:\\/\\/siteassets.parastorage.com\",\"pageJsonServerUrls\":[\"https:\\/\\/pages.parastorage.com\",\"https:\\/\\/staticorigin.wixstatic.com\",\"https:\\/\\/www.dolphinreef.co.il\",\"https:\\/\\/fallback.wix.com\\/wix-html-editor-pages-webapp\\/page\"],\"pathOfTBModulesInFileRepoForFallback\":\"wix-thunderbolt\\/dist\\/\"}},\"siteFeatures\":[\"accessibilityBrowserZoom\",\"appMo",
+    "{\"fleetConfig\":{\"fleetName\":\"thunderbolt-isolated-renderer\",\"type\":\"Rollout\",\"code\":1},\"mode\":{\"qa\":false,\"enableTestApi\":false,\"addAllServices\":false,\"debug\":false,\"ssrIndicator\":false,\"ssrOnly\":false,\"siteAssetsFallback\":\"enable\",\"versionIndicator\":false},\"componentsLibrariesTopology\":[{\"artifactId\":\"editor-elements\",\"namespace\":\"wixui\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15523.0\"},{\"artifactId\":\"editor-elements\",\"namespace\":\"dsgnsys\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15523.0\"}],\"siteFeaturesConfigs\":{\"sessionManager\":{\"isRunningInDifferentSiteContext\":false}},\"language\":{\"userLanguage\":\"he\"},\"siteAssets\":{\"clientTopology\":{\"mediaRootUrl\":\"https:\\/\\/static.wixstatic.com\",\"scriptsUrl\":\"static.parastorage.com\",\"staticMediaUrl\":\"https:\\/\\/static.wixstatic.com\\/media\",\"staticAudioUrl\":\"https:\\/\\/music.wixstatic.com\\/mp3\",\"moduleRepoUrl\":\"https:\\/\\/static.parastorage.com\\/unpkg\",\"fileRepoUrl\":\"https:\\/\\/static.parastorage.com\\/services\",\"viewerAppsUrl\":\"https:\\/\\/viewer-apps.parastorage.com\",\"viewerAssetsUrl\":\"https:\\/\\/viewer-assets.parastorage.com\",\"siteAssetsUrl\":\"https:\\/\\/siteassets.parastorage.com\",\"pageJsonServerUrls\":[\"https:\\/\\/pages.parastorage.com\",\"https:\\/\\/staticorigin.wixstatic.com\",\"https:\\/\\/www.dolphinreef.co.il\",\"https:\\/\\/fallback.wix.com\\/wix-html-editor-pages-webapp\\/page\"],\"pathOfTBModulesInFileRepoForFallback\":\"wix-thunderbolt\\/dist\\/\"}},\"siteFeatures\":[\"accessibilityBrowserZoom\",\"appMo",
     "(()=>{\"use strict\";let e,t,r,o;var n={},i={};function l(e){var t=i[e];if(void 0!==t)return t.exports;var r=i[e]={exports:{}};return n[e](r,r.exports,l),r.exports}function a(e){let{context:t,property:r,value:o,enumerable:n=!0}=e,i=e.get,l=e.set;if(!r||void 0===o&&!i&&!l)return Error(\"property and value are required\");let a=t||globalThis,s=a?.[r],u={};if(void 0!==o)u.value=o;else{if(i){let e=c(i);e&&(u.get=e)}if(l){let e=c(l);e&&(u.set=e)}}let p={...u,enumerable:n||!1,configurable:!1};void 0!==o&&(p.writable=!1);try{Object.defineProperty(a,r,p)}catch(e){return e instanceof TypeError?s:e}return s}function c(e,t){return\"function\"==typeof e?e:e?.async===!0&&\"function\"==typeof e.func?t?async function(t){return e.func(t)}:async function(){return e.func()}:\"function\"==typeof e?.func?e.func:void 0}l.rv=()=>\"1.6.8\",l.ruid=\"bundler=rspack@1.6.8\";try{a({property:\"strictDefine\",value:a})}catch{}try{a({property:\"defineStrictObject\",value:function e(t){let{context:r,property:o,propertiesToExclude:n=[],skipPrototype:i=!1,hardenPrototypePropertiesToExclude:l=[]}=t;if(!o)return Error(\"property is required\");let c=(r||globalThis)[o],p={},f=u(r,o);c&&(\"object\"==typeof c||\"function\"==typeof c)&&Reflect.ownKeys(c).forEach(e=>{if(!n.includes(e)&&!s.includes(e)){let t=u(c,e);if(t&&(t.writable||t.configurable)){let{value:r,get:o,set:n,enumerable:i=!1}=t,l={};void 0!==r?l.value=r:o?l.get=o:n&&(l.set=n);try{let t=a({context:c,property:e,...l,enumerable:i});p[e]=t}catch(r){if(r instanceof TypeError)try{",
     "(()=>{\"use strict\";var e={},t={};function r(o){var n=t[o];if(void 0!==n)return n.exports;var i=t[o]={exports:{}};return e[o](i,i.exports,r),i.exports}function o(e){let{context:t,property:r,value:o,enumerable:i=!0}=e,c=e.get,a=e.set;if(!r||void 0===o&&!c&&!a)return Error(\"property and value are required\");let l=t||globalThis,s=l?.[r],u={};if(void 0!==o)u.value=o;else{if(c){let e=n(c);e&&(u.get=e)}if(a){let e=n(a);e&&(u.set=e)}}let p={...u,enumerable:i||!1,configurable:!1};void 0!==o&&(p.writable=!1);try{Object.defineProperty(l,r,p)}catch(e){return e instanceof TypeError?s:e}return s}function n(e,t){return\"function\"==typeof e?e:e?.async===!0&&\"function\"==typeof e.func?t?async function(t){return e.func(t)}:async function(){return e.func()}:\"function\"==typeof e?.func?e.func:void 0}r.rv=()=>\"1.6.8\",r.ruid=\"bundler=rspack@1.6.8\";try{o({property:\"strictDefine\",value:o})}catch{}try{o({property:\"defineStrictObject\",value:c})}catch{}try{o({property:\"defineStrictMethod\",value:a})}catch{}var i=[\"toString\",\"toLocaleString\",\"valueOf\",\"constructor\",\"prototype\"];function c(e){let{context:t,property:r,propertiesToExclude:n=[],skipPrototype:a=!1,hardenPrototypePropertiesToExclude:s=[]}=e;if(!r)return Error(\"property is required\");let u=(t||globalThis)[r],p={},f=l(t,r);u&&(\"object\"==typeof u||\"function\"==typeof u)&&Reflect.ownKeys(u).forEach(e=>{if(!n.includes(e)&&!i.includes(e)){let t=l(u,e);if(t&&(t.writable||t.configurable)){let{value:r,get:n,set:i,enumerable:c=!1}=t,a={};void 0!==r?a.value=",
-    "(()=>{\"use strict\";var e,r,o,a,t,i,c,n={},d={};function f(e){var r=d[e];if(void 0!==r)return r.exports;var o=d[e]={id:e,loaded:!1,exports:{}};return n[e].call(o.exports,o,o.exports,f),o.loaded=!0,o.exports}if(f.m=n,f.n=e=>{var r=e&&e.__esModule?()=>e.default:()=>e;return f.d(r,{a:r}),r},r=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__,f.t=function(o,a){if(1&a&&(o=this(o)),8&a||\"object\"==typeof o&&o&&(4&a&&o.__esModule||16&a&&\"function\"==typeof o.then))return o;var t=Object.create(null);f.r(t);var i={};e=e||[null,r({}),r([]),r(r)];for(var c=2&a&&o;(\"object\"==typeof c||\"function\"==typeof c)&&!~e.indexOf(c);c=r(c))Object.getOwnPropertyNames(c).forEach(e=>{i[e]=()=>o[e]});return i.default=()=>o,f.d(t,i),t},f.d=(e,r)=>{for(var o in r)f.o(r,o)&&!f.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:r[o]})},f.f={},f.e=e=>Promise.all(Object.keys(f.f).reduce((r,o)=>(f.f[o](e,r),r),[])),f.u=e=>\"6948\"===e?\"thunderbolt-commons.96193e9a.bundle.min.js\":\"3033\"===e?\"fastdom.inline.48a8bd4b.bundle.min.js\":\"1619\"===e?\"custom-element-utils.inline.43befd9d.bundle.min.js\":\"5205\"===e?\"render-indicator.inline.df41a0e9.bundle.min.js\":\"7151\"===e?\"version-indicator.inline.704acef2.bundle.min.js\":\"6008\"===e?\"bi-common.inline.17f83560.bundle.min.js\":\"\"+(({1059:\"santa-platform-utils\",1090:\"speculationRules\",1116:\"passwordProtectedPage\",1122:\"group_19\",1211:\"siteUrlService\",1278:\"group_24\",1308:\"global-css-engine\",131:\"siteThemeService\",1374:\"editorWixCodeSdk\",1438:\"sdkStateService\",152",
+    "(()=>{\"use strict\";var e,r,o,a,t,i,c,n={},d={};function f(e){var r=d[e];if(void 0!==r)return r.exports;var o=d[e]={id:e,loaded:!1,exports:{}};return n[e].call(o.exports,o,o.exports,f),o.loaded=!0,o.exports}if(f.m=n,f.n=e=>{var r=e&&e.__esModule?()=>e.default:()=>e;return f.d(r,{a:r}),r},r=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__,f.t=function(o,a){if(1&a&&(o=this(o)),8&a||\"object\"==typeof o&&o&&(4&a&&o.__esModule||16&a&&\"function\"==typeof o.then))return o;var t=Object.create(null);f.r(t);var i={};e=e||[null,r({}),r([]),r(r)];for(var c=2&a&&o;(\"object\"==typeof c||\"function\"==typeof c)&&!~e.indexOf(c);c=r(c))Object.getOwnPropertyNames(c).forEach(e=>{i[e]=()=>o[e]});return i.default=()=>o,f.d(t,i),t},f.d=(e,r)=>{for(var o in r)f.o(r,o)&&!f.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:r[o]})},f.f={},f.e=e=>Promise.all(Object.keys(f.f).reduce((r,o)=>(f.f[o](e,r),r),[])),f.u=e=>\"6948\"===e?\"thunderbolt-commons.d5db60ae.bundle.min.js\":\"3033\"===e?\"fastdom.inline.48a8bd4b.bundle.min.js\":\"1619\"===e?\"custom-element-utils.inline.43befd9d.bundle.min.js\":\"5205\"===e?\"render-indicator.inline.df41a0e9.bundle.min.js\":\"7151\"===e?\"version-indicator.inline.704acef2.bundle.min.js\":\"6008\"===e?\"bi-common.inline.17f83560.bundle.min.js\":\"\"+(({1059:\"santa-platform-utils\",1090:\"speculationRules\",1116:\"passwordProtectedPage\",1122:\"group_19\",1211:\"siteUrlService\",1278:\"group_24\",1308:\"global-css-engine\",131:\"siteThemeService\",1374:\"editorWixCodeSdk\",1438:\"sdkStateService\",152",
     "\"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"1619\"],{26350(e,t,i){i.r(t),i.d(t,{STATIC_MEDIA_URL:()=>eH,fileType:()=>v,fittingTypes:()=>r,getData:()=>eR,MEDIA_ROOT_URL:()=>ez,sdk:()=>eB,isWEBP:()=>x,alignTypes:()=>c,htmlTag:()=>u,getPlaceholder:()=>eC,getResponsiveImageProps:()=>e$,upscaleMethods:()=>m,getFileExtension:()=>k,populateGlobalFeatureSupport:()=>q});let r={SCALE_TO_FILL:\"fill\",SCALE_TO_FIT:\"fit\",STRETCH:\"stretch\",ORIGINAL_SIZE:\"original_size\",TILE:\"tile\",TILE_HORIZONTAL:\"tile_horizontal\",TILE_VERTICAL:\"tile_vertical\",FIT_AND_TILE:\"fit_and_tile\",LEGACY_STRIP_TILE:\"legacy_strip_tile\",LEGACY_STRIP_TILE_HORIZONTAL:\"legacy_strip_tile_horizontal\",LEGACY_STRIP_TILE_VERTICAL:\"legacy_strip_tile_vertical\",LEGACY_STRIP_SCALE_TO_FILL:\"legacy_strip_fill\",LEGACY_STRIP_SCALE_TO_FIT:\"legacy_strip_fit\",LEGACY_STRIP_FIT_AND_TILE:\"legacy_strip_fit_and_tile\",LEGACY_STRIP_ORIGINAL_SIZE:\"legacy_strip_original_size\",LEGACY_ORIGINAL_SIZE:\"actual_size\",LEGACY_FIT_WIDTH:\"fitWidth\",LEGACY_FIT_HEIGHT:\"fitHeight\",LEGACY_FULL:\"full\",LEGACY_BG_FIT_AND_TILE:\"legacy_tile\",LEGACY_BG_FIT_AND_TILE_HORIZONTAL:\"legacy_tile_horizontal\",LEGACY_BG_FIT_AND_TILE_VERTICAL:\"legacy_tile_vertical\",LEGACY_BG_NORMAL:\"legacy_normal\"},n=\"fill\",a=\"fill_focal\",o=\"crop\",s=\"legacy_crop\",l=\"legacy_fill\",c={CENTER:\"center\",TOP:\"top\",TOP_LEFT:\"top_left\",TOP_RIGHT:\"top_right\",BOTTOM:\"bottom\",BOTTOM_LEFT:\"bottom_left\",BOTTOM_RIGHT:\"bottom_right\",LEFT:\"left\",RIGHT:",
     "\"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"6901\"],{33842(e,t,i){i.r(t),i.d(t,{BackgroundParallax:()=>n,BackgroundParallaxZoom:()=>o,BackgroundReveal:()=>l,BgCloseUp:()=>d,BgExpand:()=>c,BgFabeBack:()=>h,BgFadeIn:()=>u,BgFadeOut:()=>g,BgFake3D:()=>m,BgPanLeft:()=>f,BgPanRight:()=>b,BgParallax:()=>p,BgPullBack:()=>v,BgReveal:()=>w,BgRotate:()=>M,BgShrink:()=>y,BgSkew:()=>I,BgUnwind:()=>x,BgZoomIn:()=>L,BgZoomOut:()=>D,ImageParallax:()=>O,ImageReveal:()=>P});var r=i(16956);let a=(e,t)=>({width:e,height:t}),s=(e,t,i)=>({width:e,height:Math.max(t,i)}),n={hasParallax:!0,getMediaDimensions:s},o={hasParallax:!0,getMediaDimensions:s},l={hasParallax:!0,getMediaDimensions:s},d={getMediaDimensions:a},c={getMediaDimensions:a},h={getMediaDimensions:a},u={getMediaDimensions:a},g={getMediaDimensions:a},m={hasParallax:!0,getMediaDimensions:s},f={getMediaDimensions:(e,t)=>({width:1.2*e,height:t})},b={getMediaDimensions:(e,t)=>({width:1.2*e,height:t})},p={hasParallax:!0,getMediaDimensions:s},v={getMediaDimensions:a},w={hasParallax:!0,getMediaDimensions:s},M={getMediaDimensions:(e,t)=>{let i,a,s,n,o;return i=(0,r.kU)(22),a=Math.hypot(e,t)/2,s=Math.acos(e/2/a),n=e*Math.abs(Math.cos(i))+t*Math.abs(Math.sin(i)),o=e*Math.abs(Math.sin(i))+t*Math.abs(Math.cos(i)),{width:Math.ceil(i<s?n:2*a),height:Math.ceil(i<(0,r.kU)(90)-s?o:2*a)}}},y={getMediaDimensions:a},I={getMediaDimensions:(e,t)=>({width:e,height:e*Math.tan((0,r.kU)(20))+t})},x={getM",
     "\n    !function(n,e,r,t,o,i,a,c,s){for(var u=s,f=0;f<document.scripts.length;f++)if(document.scripts[f].src.indexOf(i)>-1){u&&\"no\"===document.scripts[f].getAttribute(\"data-lazy\")&&(u=!1);break}var p=[];function l(n){return\"e\"in n}function d(n){return\"p\"in n}function _(n){return\"f\"in n}var v=[];function y(n){u&&(l(n)||d(n)||_(n)&&n.f.indexOf(\"capture\")>-1||_(n)&&n.f.indexOf(\"showReportDialog\")>-1)&&L(),v.push(n)}function h(){y({e:[].slice.call(arguments)})}function g(n){y({p:n})}function E(){try{n.SENTRY_SDK_SOURCE=\"loader\";var e=n[o],i=e.init;e.init=function(o){n.removeEventListener(r,h),n.removeEventListener(t,g);var a=c;for(var s in o)Object.prototype.hasOwnProperty.call(o,s)&&(a[s]=o[s]);!function(n,e){var r=n.integrations||[];if(!Array.isArray(r))return;var t=r.map((function(n){return n.name}));n.tracesSampleRate&&-1===t.indexOf(\"BrowserTracing\")&&(e.browserTracingIntegration?r.push(e.browserTracingIntegration({enableInp:!0})):e.BrowserTracing&&r.push(new e.BrowserTracing));(n.replaysSessionSampleRate||n.replaysOnErrorSampleRate)&&-1===t.indexOf(\"Replay\")&&(e.replayIntegration?r.push(e.replayIntegration()):e.Replay&&r.push(new e.Replay));n.integrations=r}(a,e),i(a)},setTimeout((function(){return function(e){try{\"function\"==typeof n.sentryOnLoad&&(n.sentryOnLoad(),n.sentryOnLoad=void 0)}catch(n){console.error(\"Error while calling `sentryOnLoad` handler:\"),console.error(n)}try{for(var r=0;r<p.length;r++)\"function\"==typeof p[r]&&p[r]();p.splice(0);for(r=0;r<v.length;r++){_(i=",
-    "{\"siteFeaturesConfigs\":{\"accessibilityBrowserZoom\":{\"isBuilder\":false,\"isStudio\":true},\"appMonitoring\":{\"appsWithMonitoring\":[{\"appId\":\"1380b703-ce81-ff05-f115-39571d94dfcd\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"d74ec62670888f74683c66ce6fad51ea3a7b53b737ac7f041c67b9e5\"}}}},\"panoramaConfigByArtifactId\":{\"ecom-bm-subscriptions-draft\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"d74ec62670888f74683c66ce6fad51ea3a7b53b737ac7f041c67b9e5\"}}},\"abandoned-carts-bm\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"abandoned-carts-bm\",\"fingerprint\":\"13d15bc7d44af4c2920916fd32d054add9c5a8454fbd28fa89f8f19d\"}}}},\"externalIdByComponentId\":{}},{\"appId\":\"13d21c63-b5ec-5912-8397-c3a5ddb27a97\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"7b6419594706e6c374adafa73eb9962baefc97759222b8eeb2a95016\"}}}},\"panoramaConfigByArtifactId\":{\"bookings-uou\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"7b6419594706e6c374adafa73eb9962baefc97759222b8eeb2a95016\"}}}},\"externalIdByComponentId\":{\"9f9aa00e-1c62-40ab-95c8-a5e6c5141dfd\":\"bookings-uou\",\"e42a98",
+    "{\"siteFeaturesConfigs\":{\"accessibilityBrowserZoom\":{\"isBuilder\":false,\"isStudio\":true},\"appMonitoring\":{\"appsWithMonitoring\":[{\"appId\":\"1380b703-ce81-ff05-f115-39571d94dfcd\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"4f38b07a29450bfd300b2e9ae491c10355cc05a69541b03d0fdee2ab\"}}}},\"panoramaConfigByArtifactId\":{\"ecom-bm-subscriptions-draft\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"4f38b07a29450bfd300b2e9ae491c10355cc05a69541b03d0fdee2ab\"}}},\"abandoned-carts-bm\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"abandoned-carts-bm\",\"fingerprint\":\"13d15bc7d44af4c2920916fd32d054add9c5a8454fbd28fa89f8f19d\"}}}},\"externalIdByComponentId\":{}},{\"appId\":\"13d21c63-b5ec-5912-8397-c3a5ddb27a97\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"aeae3a6b0906749a8ae75d9876b7af6f050c597038fd4b77de83a8d1\"}}}},\"panoramaConfigByArtifactId\":{\"bookings-uou\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"aeae3a6b0906749a8ae75d9876b7af6f050c597038fd4b77de83a8d1\"}}}},\"externalIdByComponentId\":{\"9f9aa00e-1c62-40ab-95c8-a5e6c5141dfd\":\"bookings-uou\",\"e42a98",
     "\"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"6008\"],{68703(e,t,r){r.d(t,{L:()=>i});var a=r(8716),n=r(26778),o=r(49254);let i=(0,a.Og)([],()=>({definition:n.F,impl:o.J,config:{},platformConfig:{}}))},89973(e,t,r){r.d(t,{h:()=>i});var a=r(65672),n=r(48869);let o=({useBatch:e=!0,publishMethod:t=a.PublishMethods.Auto,endpoint:r,muteBi:n=!1,biStore:o,sessionManager:i,fetch:s,factory:p})=>p({useBatch:e,publishMethod:t,endpoint:r}).setMuted(n).withUoUContext({msid:o.msid}).withNonEssentialContext({visitorId:()=>i.getVisitorId(),siteMemberId:()=>i.getSiteMemberId()}).updateDefaults({vsi:o.viewerSessionId,_av:`thunderbolt-${o.viewerVersion}`,isb:o.is_headless,...o.is_headless&&{isbr:o.is_headless_reason}}),i={createBaseBiLoggerFactory:o,createBiLoggerFactoryForFedops:e=>{let{biStore:{session_id:t,initialTimestamp:r,initialRequestTimestamp:a,dc:i,microPop:s,is_headless:p,isCached:d,pageData:l,rolloutData:u,caching:c,checkVisibility:m=()=>\"\",viewerVersion:f,requestUrl:I,st:h,isSuccessfulSSR:A,mpaSessionId:_,siteOwnerId:E,uuid:S},muteBi:g=!1}=e;return o({...e,muteBi:g}).updateDefaults({ts:()=>Date.now()-r,tsn:()=>(function({initialRequestTimestamp:e,adjustForPrerender:t=!1}){if(\"undefined\"==typeof window)return Math.round(performance.now()+(performance.timeOrigin-e));let r=t?(0,n.b)():0;return Math.round(performance.now()-r)})({initialRequestTimestamp:a,adjustForPrerender:!0}),dc:i,microPop:s,caching:c,session_id:t,st:h,url:I||l"
   ],
   "forms": [],
   "ld": [],
-  "height": 3412,
-  "status": 200,
-  "requests": [
-    {
-      "url": "https://www.dolphinreef.co.il/events",
-      "type": "document"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_57df473dadab4a6cadcab16a257c42d7~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/events.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.96193e9a.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.15d8f476.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.32731c34.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_7357127c647741d092df32e574f506f0~mv2.jpg/v1/fill/w_67,h_100,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/51614946936_8ebe175c5a_w.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_8844858223324f4db6d75ed6516d5753~mv2.jpg/v1/fill/w_112,h_107,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23360062562_4cd6684d2d_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_5968cf8a4a274399804a041cdbdc58b2~mv2.jpg/v1/fill/w_104,h_106,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23442372176_eddbb5b0e9_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_f39783e14c8f429fbb1aa9c7429f7a25~mv2.jpg/v1/fill/w_115,h_73,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/22840252354_e257a36c9c_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_114182ca6ee34de6a7115b9e5db7a149~mv2.jpg/v1/fill/w_115,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23442448016_f134f8a922_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_74c974de2b32484c8956a2e682a53bae~mv2.jpg/v1/fill/w_144,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/40309122745_aaac3ecb71_c.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_fb771bef1f304364af217adad96b3424~mv2.jpg/v1/fill/w_144,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/27330940658_3dfe948596_c.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_34f9a0a696214136be97f21b24954034~mv2.jpg/v1/fill/w_115,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23172713920_19e5f92861_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_50c6d1054ef8490cbd0f068c6dda2304~mv2.jpg/v1/fill/w_115,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/23442393646_a3ee6ab08e_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://www.dolphinreef.co.il/_partials/wix-thunderbolt/dist/clientWorker.f99f6b73.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_57df473dadab4a6cadcab16a257c42d7~mv2.jpg/v1/fill/w_1440,h_449,fp_0.50_0.57,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/events.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_7357127c647741d092df32e574f506f0~mv2.jpg/v1/fill/w_372,h_495,al_c,lg_1,q_80,enc_avif,quality_auto/51614946936_8ebe175c5a_w.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_8844858223324f4db6d75ed6516d5753~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23360062562_4cd6684d2d_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_5968cf8a4a274399804a041cdbdc58b2~mv2.jpg/v1/fill/w_384,h_510,fp_0.68_0.47,lg_1,q_80,enc_avif,quality_auto/23442372176_eddbb5b0e9_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_f39783e14c8f429fbb1aa9c7429f7a25~mv2.jpg/v1/fill/w_367,h_487,al_c,lg_1,q_80,enc_avif,quality_auto/22840252354_e257a36c9c_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_114182ca6ee34de6a7115b9e5db7a149~mv2.jpg/v1/fill/w_384,h_510,al_c,lg_1,q_80,enc_avif,quality_auto/23442448016_f134f8a922_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_74c974de2b32484c8956a2e682a53bae~mv2.jpg/v1/fill/w_402,h_534,fp_0.62_0.49,q_80,enc_avif,quality_auto/40309122745_aaac3ecb71_c.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-components-registry.d1d3cd39.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.69a60358.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/assetsLoader.edcf8f51.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_3.63637ded.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/businessLogger.b3c0de71.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/consentPolicy.a987db6a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domSelectors.1772351a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.d0c56cb1.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ooi.35dd0965.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.686e2c1a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/renderer.320eeef1.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_4.51314163.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/router.32a795c0.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/stores.271cca5b.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/usedPlatformApis.2fac58dc.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/warmupData.780ab490.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/componentsLoader.037bc6b5.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibilityBrowserZoom.f43a588a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/appMonitoring.3ef68f2c.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_5.723ae6e4.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_44.32da439a.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_42.4a4809aa.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/customCss.98f49336.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/cyclicTabbing.a0ad2cb2.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/domStore.ece10f59.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentWixCodeSdk.566c4d0f.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environment.7ac3f543.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/externalServices.a9aa058b.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_20.d976ca4c.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/popups.2b704839.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/tslib.inline.cdbfecc7.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/mpaNavigation.bd7e02b4.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/multilingual.9d540a42.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/panorama.a27650b3.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/routerFetch.c9420889.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_6.bb82e4a9.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembersWixCodeSdk.2e2a7330.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_9.753b7ca1.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembers.578a09c3.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteScrollBlocker.d7ac0282.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/speculationRules.851746fd.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/ssrCache.f7fb72e6.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_22.e636f159.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.91dad11c.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/reporter-api.d310df41.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_0.b58e75e0.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/accessibility.e4888b8e.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_14.a7e0cdf0.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animations.d94f0463.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/animationsWixCodeSdk.9f05a568.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platformPubsub.d41c28b7.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/navigation.eba89c08.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/scrollToAnchor.bd63e157.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/windowScroll.94e57fc8.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/motion.9bec0027.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/environmentService.676d132e.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_11.eeaeabf5.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_41.8cc46024.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_31.820e7611.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/imagePlaceholder.3c11dd4b.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/svgLoader.eaac3f9d.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_28.517aa7aa.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_30.3f1bd6a0.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/triggersAndReactions.2c5caf8e.chunk.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[RefComponent].33152207.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].8c8a6cb8.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ImageX].65541ada.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PageSections].66f3b3d5.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_ResponsiveBox].55b37fe0.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MultiStateBox].a0b281c9.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Repeater_Responsive].1f9bf17b.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SiteButton_WrappingButton].46e316e6.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MenuContainer_Responsive].23316a4c.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LinkBar_Responsive].2661e0e4.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HeaderSection].f13d21d9.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].8a9c12f1.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StylableButton_StylableButton].22ab8bd5.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterSection].3bd26d28.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_mobile.2658b124.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_fb771bef1f304364af217adad96b3424~mv2.jpg/v1/fill/w_402,h_534,al_c,q_80,enc_avif,quality_auto/27330940658_3dfe948596_c.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_34f9a0a696214136be97f21b24954034~mv2.jpg/v1/fill/w_387,h_514,al_c,lg_1,q_80,enc_avif,quality_auto/23172713920_19e5f92861_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/166e60_50c6d1054ef8490cbd0f068c6dda2304~mv2.jpg/v1/fill/w_385,h_511,al_c,lg_1,q_80,enc_avif,quality_auto/23442393646_a3ee6ab08e_z.jpg",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
-      "type": "image"
-    },
-    {
-      "url": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
-      "type": "image"
-    }
-  ]
+  "height": 6318
 }

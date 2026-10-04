@@ -1,29 +1,29 @@
 {
-  "url": "https://www.dolphinreef.co.il/privacypolicy",
-  "title": "מדיניות פרטיות",
-  "description": "ריף הדולפינים באילת (ריף כפר הדולפינים בע\"מ) מכבדת את פרטיותכם ומחויבת להגן על המידע האישי שאתם משתפים עמנו. מדיניות פרטיות זו מסבירה איזה מידע אנו אוספים באמצעות האתר שלנו, כיצד אנו עושים בו שימוש, ואילו זכויות עומדות לרשותכם ביחס למידע. המדיניות נכתבה בהתאם לחוק הגנת הפרטיות, התשמ\"א-1981, ובמידה שהוא חל – בהתאם לתקנה הכללית להגנה על מידע של האיחוד האירופי (GDPR).\n\nהשימוש באתר מהווה הסכמה לנהלים המתוארים במדיניות זו. אם אינכם מסכימים למדיניות, אנא הימנעו משימוש באתר.",
-  "ogTitle": "מדיניות פרטיות",
-  "ogDescription": "ריף הדולפינים באילת (ריף כפר הדולפינים בע\"מ) מכבדת את פרטיותכם ומחויבת להגן על המידע האישי שאתם משתפים עמנו. מדיניות פרטיות זו מסבירה איזה מידע אנו אוספים באמצעות האתר שלנו, כיצד אנו עושים בו שימוש, ואילו זכויות עומדות לרשותכם ביחס למידע. המדיניות נכתבה בהתאם לחוק הגנת הפרטיות, התשמ\"א-1981, ובמידה שהוא חל – בהתאם לתקנה הכללית להגנה על מידע של האיחוד האירופי (GDPR).\n\nהשימוש באתר מהווה הסכמה לנהלים המתוארים במדיניות זו. אם אינכם מסכימים למדיניות, אנא הימנעו משימוש באתר.",
+  "url": "https://www.dolphinreef.co.il/stalbetcoffe",
+  "title": "קפה סתלבט בריף הדולפינים אילת – בית קפה ובר מול הים",
+  "description": "קפה סתלבט בריף הדולפינים אילת – בית קפה ובר במרפסת העליונה של מתחם הבריכות, מול מפרץ אילת והרי אדום. ארוחות קלות, שתייה, יין וקוקטלים. הכניסה מגיל 18.",
+  "ogTitle": "קפה סתלבט בריף הדולפינים אילת – בית קפה ובר מול הים",
+  "ogDescription": "קפה סתלבט בריף הדולפינים אילת – בית קפה ובר במרפסת העליונה של מתחם הבריכות, מול מפרץ אילת והרי אדום. ארוחות קלות, שתייה, יין וקוקטלים. הכניסה מגיל 18.",
   "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
-  "canonical": "https://www.dolphinreef.co.il/privacypolicy",
+  "canonical": "https://www.dolphinreef.co.il/stalbetcoffe",
   "hreflang": [
     {
       "lang": "x-default",
-      "href": "https://www.dolphinreef.co.il/privacypolicy"
+      "href": "https://www.dolphinreef.co.il/stalbetcoffe"
     },
     {
       "lang": "en-us",
-      "href": "https://www.dolphinreef.co.il/en/privacypolicy"
+      "href": "https://www.dolphinreef.co.il/en/stalbetcoffe"
     },
     {
       "lang": "he-il",
-      "href": "https://www.dolphinreef.co.il/privacypolicy"
+      "href": "https://www.dolphinreef.co.il/stalbetcoffe"
     }
   ],
   "lang": "he",
   "dir": "",
   "h1": [
-    "מדיניות פרטיות"
+    "קפה סתלבט"
   ],
   "blocks": [
     {
@@ -36,41 +36,50 @@
     },
     {
       "tag": "h1",
-      "text": "מדיניות פרטיות",
-      "y": 257,
-      "x": 13,
+      "text": "קפה סתלבט",
+      "y": 258,
+      "x": 10,
       "region": "main",
       "fontSize": "35px"
     },
     {
-      "tag": "span",
-      "text": "מדיניות פרטיות",
-      "y": 260,
-      "x": 131,
+      "tag": "h2",
+      "text": "קפה בסתלבט",
+      "y": 311,
+      "x": 10,
       "region": "main",
-      "fontSize": "35px"
+      "fontSize": "20px"
     },
     {
       "tag": "p",
-      "text": "עודכן לאחרונה: 15/07/2026",
-      "y": 306,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "p",
-      "text": "ריף הדולפינים באילת (ריף כפר הדולפינים בע\"מ) מכבדת את פרטיותכם ומחויבת להגן על המידע האישי שאתם משתפים עמנו. מדיניות פרטיות זו מסבירה איזה מידע אנו אוספים באמצעות האתר שלנו, כיצד אנו עושים בו שימוש, ואילו זכויות עומדות לרשותכם ביחס למידע. המדיניות נכתבה בהתאם לחוק הגנת הפרטיות, התשמ\"א-1981, ובמידה שהוא חל – בהתאם לתקנה הכללית להגנה על מידע של האיחוד האירופי (GDPR). השימוש באתר מהווה הסכמה לנהלים המתוארים במדיניות זו. אם אינכם מסכימים למדיניות, אנא הימנעו משימוש באתר.",
-      "y": 328,
-      "x": 13,
+      "text": "ממוקם ברחבה העליונה של מתחם הברכות ומשקיף על מימי המפרץ הרי אדום והמפגש של ערב הסעודית, ירדן ומצריים. הוא מעניק חוויה משלימה למשתתפים בפעילות בברכות סתלבט ולמבקרים באתר. תוכלו לבלות בסתלבט לפני הפעילות או לאחריה בפינות ישיבה הפזורות במקום, ולהנות מארוחות קלות, שתייה קלה וחמה, יין איכותי, וקוקטלים. נשמח לארח אתכם ב\"קפה בסתלבט\" גם אם לא רכשתם פעילות בברכות עצמן. נדגיש רק שהכניסה הינה מגיל 18. לתפריט מזון, שתיה וקוקטיילים לחצו כאן לתפריט יינות לחצו כאן",
+      "y": 339,
+      "x": 10,
       "region": "main",
       "fontSize": "15px"
     },
     {
       "tag": "span",
-      "text": "ריף הדולפינים באילת (ריף כפר הדולפינים בע\"מ) מכבדת את פרטיותכם ומחויבת להגן על המידע האישי שאתם משתפים עמנו. מדיניות פרטיות זו מסבירה איזה מידע אנו אוספים באמצעות האתר שלנו, כיצד אנו עושים בו שימוש, ואילו זכויות עומדות לרשותכם ביחס למידע. המדיניות נכתבה בהתאם לחוק הגנת הפרטיות, התשמ\"א-1981, ובמידה שהוא חל – בהתאם לתקנה הכללית להגנה על מידע של האיחוד האירופי (GDPR). השימוש באתר מהווה הסכמה לנהלים המתוארים במדיניות זו. אם אינכם מסכימים למדיניות, אנא הימנעו משימוש באתר.",
-      "y": 330,
-      "x": 16,
+      "text": "בברכות סתלבט",
+      "y": 386,
+      "x": 39,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "a",
+      "text": "בברכות סתלבט",
+      "href": "https://www.dolphinreef.co.il/stalbet",
+      "y": 386,
+      "x": 39,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "span",
+      "text": "נדגיש רק שהכניסה הינה מגיל 18.",
+      "y": 499,
+      "x": 18,
       "region": "main",
       "fontSize": "15px"
     },
@@ -82,6 +91,40 @@
       "x": 20,
       "region": "main",
       "fontSize": "14px"
+    },
+    {
+      "tag": "span",
+      "text": "לחצו כאן",
+      "y": 521,
+      "x": 129,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "a",
+      "text": "לחצו כאן",
+      "href": "https://www.dolphinreef.co.il/_files/ugd/62bd3d_23822734e13c486782c626e4afec0322.pdf",
+      "y": 521,
+      "x": 129,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "a",
+      "text": "לחצו כאן",
+      "href": "https://62bd3d49-644c-43fc-9a86-44e652c89743.usrfiles.com/ugd/62bd3d_be66dc8948304002a8407159dbfab499.pdf",
+      "y": 544,
+      "x": 240,
+      "region": "main",
+      "fontSize": "15px"
+    },
+    {
+      "tag": "h2",
+      "text": "ימים ושעות פתיחה",
+      "y": 564,
+      "x": 10,
+      "region": "main",
+      "fontSize": "20px"
     },
     {
       "tag": "button",
@@ -100,516 +143,60 @@
       "fontSize": "14px"
     },
     {
-      "tag": "h2",
-      "text": "1. מי אנחנו",
-      "y": 602,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "1. מי אנחנו",
-      "y": 605,
-      "x": 277,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
       "tag": "p",
-      "text": "האתר מופעל על ידי ריף הדולפינים באילת (ריף כפר הדולפינים בע\"מ), הממוקמת באילת, ישראל. בכל שאלה בנוגע למדיניות פרטיות זו או למידע האישי שלכם, ניתן לפנות אלינו: - דוא\"ל: info@dolphinreef.co.il - כתובת: דרך מיצריים 77 אילת - טלפון: 08-6300100",
-      "y": 633,
-      "x": 13,
+      "text": "פתוח בימים שני עד שבת בין השעות 11:00 בבוקר ועד שעה לאחר סיום הפעילות האחרונה בברכות. סגור בימי ראשון. לתשומת ליבכם - ייתכנו שעות שבהם \"קפה בסתלבט\" יהיה סגור לקהל למספר שעות עקב קיום אירוע סגור. משעת סגירת הריף לפעילות מבקרים הכניסה לקפה סתלבט הינה ללא עלות. אנו ממליצים בחום להתעדכן בשעות הפעילות ועדכונים גם בפייסבוק ובאינסטגרם של הריף",
+      "y": 592,
+      "x": 10,
       "region": "main",
       "fontSize": "15px"
     },
     {
       "tag": "span",
-      "text": "ריף הדולפינים באילת",
-      "y": 635,
-      "x": 118,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "(ריף כפר הדולפינים",
-      "y": 635,
-      "x": 59,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "בע\"מ",
-      "y": 658,
-      "x": 277,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": ")",
-      "y": 658,
-      "x": 272,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "דוא\"ל",
-      "y": 725,
-      "x": 328,
+      "text": "בפייסבוק",
+      "y": 774,
+      "x": 323,
       "region": "main",
       "fontSize": "15px"
     },
     {
       "tag": "a",
-      "text": "info@dolphinreef.co.il",
-      "href": "mailto:info@dolphinreef.co.il",
-      "y": 725,
-      "x": 175,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "כתובת",
-      "y": 748,
+      "text": "בפייסבוק",
+      "href": "https://www.facebook.com/dolphinreefeilat",
+      "y": 774,
       "x": 323,
       "region": "main",
       "fontSize": "15px"
     },
     {
       "tag": "span",
-      "text": "טלפון:",
-      "y": 770,
-      "x": 325,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "2. איזה מידע אנו אוספים",
-      "y": 794,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "2. איזה מידע אנו אוספים",
-      "y": 797,
-      "x": 158,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "אנו אוספים את סוגי המידע הבאים:",
-      "y": 826,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "p",
-      "text": "מידע שאתם מוסרים ישירות. כאשר אתם ממלאים טופס יצירת קשר או טופס הזמנה באתר, אנו אוספים את הפרטים שבחרתם למסור לנו, כגון שם, כתובת דוא\"ל, מספר טלפון, מועד או סוג הביקור המבוקש, ותוכן הפנייה או הבקשה שלכם. מידע הנאסף באופן אוטומטי. בעת הביקור באתר נאסף מידע מסוים באופן אוטומטי באמצעות עוגיות (Cookies) וטכנולוגיות דומות, כגון כתובת ה-IP שלכם, סוג המכשיר והדפדפן, הדפים שבהם צפיתם, מועד הביקור והאופן שבו הגעתם לאתר. אנו משתמשים במידע זה לצורכי ניתוח נתונים (אנליטיקס) ולשיפור חוויית השימוש (ראו סעיף 6, עוגיות וניתוח נתונים). איננו אוספים ביודעין מידע רב מהנדרש למטרות המתוארות במדיניות זו.",
-      "y": 848,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "מידע שאתם מוסרים ישירות.",
-      "y": 873,
-      "x": 188,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "מידע הנאסף באופן אוטומטי.",
-      "y": 1008,
-      "x": 185,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "3. כיצד אנו משתמשים במידע",
-      "y": 1235,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "3. כיצד אנו משתמשים במידע",
-      "y": 1238,
-      "x": 116,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "אנו עושים שימוש במידע שנאסף למטרות הבאות: - מענה לפניותיכם וטיפול בבקשות הזמנה או ביקור שנשלחו באמצעות הטפסים באתר; - יצירת קשר עמכם בנוגע לפנייתכם, לרבות בדוא\"ל או בטלפון; - הפעלה, תחזוקה ושיפור של האתר והשירותים שאנו מציעים; - הבנת אופן השימוש של המבקרים באתר באמצעות נתונים מצרפיים; - עמידה בחובות חוקיות והגנה על זכויותינו המשפטיות.",
-      "y": 1266,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "אנו עושים שימוש במידע שנאסף למטרות הבאות: - מענה לפניותיכם וטיפול בבקשות הזמנה או ביקור שנשלחו באמצעות הטפסים באתר; - יצירת קשר עמכם בנוגע לפנייתכם, לרבות בדוא\"ל או בטלפון; - הפעלה, תחזוקה ושיפור של האתר והשירותים שאנו מציעים; - הבנת אופן השימוש של המבקרים באתר באמצעות נתונים מצרפיים; - עמידה בחובות חוקיות והגנה על זכויותינו המשפטיות.",
-      "y": 1268,
-      "x": 14,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "4. הבסיס החוקי לעיבוד המידע (למבקרים באיחוד האירופי)",
-      "y": 1517,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "4. הבסיס החוקי לעיבוד המידע (למבקרים באיחוד האירופי)",
-      "y": 1520,
-      "x": 107,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "h2",
-      "text": "5. שיתוף המידע",
-      "y": 1577,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "5. שיתוף המידע",
-      "y": 1580,
-      "x": 235,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "במקרים שבהם חל עליכם ה-GDPR, אנו מעבדים את המידע האישי שלכם על הבסיסים החוקיים הבאים: - הסכמתכם– למשל בעת שליחת טופס או אישור עוגיות שאינן חיוניות; - קיום חוזה או ביצוע פעולות לבקשתכם – למשל לצורך טיפול בהזמנה או מענה לבקשה שהגשתם; - האינטרסים הלגיטימיים שלנו – כגון הבנה ושיפור של אופן השימוש באתר, ובלבד שאינטרסים אלה אינם גוברים על זכויותיכם; -עמידה בחובה חוקית. באפשרותכם לחזור בכם מהסכמתכם בכל עת; ביטול ההסכמה לא יפגע בחוקיות העיבוד שבוצע לפני הביטול.",
-      "y": 1605,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "הסכמתכם",
-      "y": 1674,
-      "x": 298,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "קיום חוזה או ביצוע פעולות לבקשתכם",
-      "y": 1719,
-      "x": 118,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "האינטרסים הלגיטימיים שלנו",
-      "y": 1764,
-      "x": 177,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "עמידה בחובה חוקית.",
-      "y": 1832,
-      "x": 232,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "p",
-      "text": "איננו מוכרים את המידע האישי שלכם. אנו עשויים לשתף אותו רק בנסיבות המוגבלות הבאות: - עם ספקי שירות המסייעים לנו בהפעלת האתר והעסק (למשל פלטפורמת האתר Wix וספקי ניתוח נתונים), הרשאים לעשות שימוש במידע אך ורק לצורך מתן שירותים עבורנו; - כאשר הדבר נדרש על פי דין, רגולציה, הליך משפטי או דרישה חוקית של רשות מוסמכת; - לצורך הגנה על הזכויות, הרכוש או הביטחון של דולפין ריף, מבקרינו או אחרים. חלק מספקי השירות עשויים לאחסן או לעבד מידע מחוץ לישראל או לאיחוד האירופי. כאשר מידע אישי של מבקרים מהאיחוד האירופי מועבר אל מחוץ לאזור הכלכלי האירופי, אנו נוקטים צעדים להבטחת רמת הגנה נאותה כנדרש בדין החל.",
-      "y": 1920,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "6. עוגיות וניתוח נתונים",
-      "y": 2302,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "6. עוגיות וניתוח נתונים",
-      "y": 2305,
-      "x": 176,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "האתר עושה שימוש בעוגיות (Cookies) ובטכנולוגיות דומות. עוגיות הן קבצים קטנים הנשמרים במכשירכם, המסייעים לתפקוד האתר ומאפשרים לנו להבין כיצד נעשה בו שימוש. אנו משתמשים ב: - עוגיות חיוניות, הנחוצות לתפקוד התקין של האתר; - עוגיות ניתוח (אנליטיקס), המסייעות לנו להבין כיצד המבקרים מתנהלים באתר לצורך שיפורו. באפשרותכם לשלוט בעוגיות או למחוק אותן דרך הגדרות הדפדפן, וכן להגדיר את הדפדפן כך שיסרב לעוגיות שאינן חיוניות. שימו לב כי השבתת עוגיות מסוימות עלולה להשפיע על אופן פעולת האתר.",
-      "y": 2330,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "עוגיות חיוניות",
-      "y": 2467,
-      "x": 276,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "עוגיות ניתוח (אנליטיקס)",
-      "y": 2490,
-      "x": 207,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "7. משך שמירת המידע",
-      "y": 2668,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "7. משך שמירת המידע",
-      "y": 2671,
-      "x": 181,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "אנו שומרים את המידע האישי שלכם רק למשך הזמן הדרוש להגשמת המטרות המתוארות במדיניות זו, לעמידה בחובותינו החוקיות, ליישוב מחלוקות ולאכיפת ההסכמים שלנו. כאשר המידע אינו נדרש עוד, נמחק אותו או נהפוך אותו לאנונימי.",
-      "y": 2696,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "8. אבטחת המידע",
-      "y": 2808,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "8. אבטחת המידע",
-      "y": 2811,
-      "x": 222,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "אנו נוקטים אמצעים טכניים וארגוניים סבירים להגנה על המידע האישי שברשותנו מפני אובדן, שימוש לרעה וגישה, חשיפה או שינוי בלתי מורשים. עם זאת, אף שיטת העברה באינטרנט או שיטת אחסון אלקטרונית אינה מאובטחת לחלוטין, ואיננו יכולים להבטיח אבטחה מוחלטת.",
-      "y": 2836,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "9. זכויותיכם",
-      "y": 2949,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "9. זכויותיכם",
-      "y": 2952,
-      "x": 273,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "על פי חוק הגנת הפרטיות ובמידה שחל ה-GDPR, עומדות לכם זכויות ביחס למידע האישי שלכם, ובכללן הזכות: - לעיין במידע האישי שאנו מחזיקים אודותיכם; - לבקש לתקן מידע שאינו מדויק או שלם; - לבקש למחוק את המידע שלכם, בכפוף למגבלות שבדין; - להתנגד לעיבוד מסוים של המידע או להגבילו; - לחזור בכם מהסכמה כאשר העיבוד מבוסס על הסכמה; - לקבל עותק של המידע בפורמט נייד (כאשר חל ה-GDPR). למימוש כל אחת מזכויות אלה, אנא פנו אלינו באמצעות הפרטים בסעיף 1. ייתכן שנידרש לאמת את זהותכם לפני מתן מענה. כמו כן, עומדת לכם הזכות להגיש תלונה לרשות פיקוח מוסמכת אם אתם סבורים שזכויותיכם נפגעו.",
-      "y": 2977,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "10. קישורים לצדדים שלישיים",
-      "y": 3314,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "10. קישורים לצדדים שלישיים",
-      "y": 3317,
-      "x": 116,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "האתר עשוי לכלול קישורים לאתרים או שירותים של צדדים שלישיים שאינם מופעלים על ידינו. מדיניות פרטיות זו אינה חלה על אתרים אלה, ואיננו אחראים לנהלי הפרטיות שלהם. אנו ממליצים לעיין במדיניות הפרטיות של כל אתר צד שלישי שבו אתם מבקרים.",
-      "y": 3342,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "11. פרטיות ילדים",
-      "y": 3455,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "11. פרטיות ילדים",
-      "y": 3458,
-      "x": 223,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "האתר אינו מיועד לילדים, ואיננו אוספים ביודעין מידע אישי מילדים ללא הסכמה מתאימה. אם נודע לכם שילד מסר לנו מידע אישי, אנא פנו אלינו ונפעל לביצוע הצעדים המתאימים למחיקתו.",
-      "y": 3483,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "12. שינויים במדיניות הפרטיות",
-      "y": 3573,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "12. שינויים במדיניות הפרטיות",
-      "y": 3576,
-      "x": 111,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "אנו עשויים לעדכן מדיניות זו מעת לעת. בכל עדכון נעדכן את תאריך \"עודכן לאחרונה\" בראש העמוד. אנו ממליצים לעיין בעמוד זה מעת לעת כדי להתעדכן באופן שבו אנו מגנים על המידע שלכם.",
-      "y": 3601,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "h2",
-      "text": "13. יצירת קשר",
-      "y": 3691,
-      "x": 13,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "span",
-      "text": "13. יצירת קשר",
-      "y": 3694,
-      "x": 247,
-      "region": "main",
-      "fontSize": "20px"
-    },
-    {
-      "tag": "p",
-      "text": "לכל שאלה, בקשה או פנייה בנוגע למדיניות פרטיות זו או למידע האישי שלכם, ניתן לפנות אלינו:",
-      "y": 3719,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "p",
-      "text": "- דוא\"ל: info@dolphinreef.co.il",
-      "y": 3786,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "דוא\"ל",
-      "y": 3788,
-      "x": 328,
+      "text": "באינסטגרם",
+      "y": 774,
+      "x": 244,
       "region": "main",
       "fontSize": "15px"
     },
     {
       "tag": "a",
-      "text": "info@dolphinreef.co.il",
-      "href": "mailto:info@dolphinreef.co.il",
-      "y": 3788,
-      "x": 175,
+      "text": "באינסטגרם",
+      "href": "https://www.instagram.com/dolphin_reef_eilat/",
+      "y": 774,
+      "x": 244,
       "region": "main",
       "fontSize": "15px"
+    },
+    {
+      "tag": "h2",
+      "text": "נגישות",
+      "y": 795,
+      "x": 10,
+      "region": "main",
+      "fontSize": "20px"
     },
     {
       "tag": "p",
-      "text": "- כתובת: דרך מיצריים 77 אילת",
-      "y": 3809,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "כתובת",
-      "y": 3811,
-      "x": 323,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "p",
-      "text": "- טלפון: 08-6300100",
-      "y": 3831,
-      "x": 13,
-      "region": "main",
-      "fontSize": "15px"
-    },
-    {
-      "tag": "span",
-      "text": "טלפון:",
-      "y": 3833,
-      "x": 325,
+      "text": "לקפה סתלבט כניסה ושרותים נגישים",
+      "y": 823,
+      "x": 10,
       "region": "main",
       "fontSize": "15px"
     },
@@ -617,7 +204,7 @@
       "tag": "a",
       "text": "טל: 08-6300111",
       "href": "tel:+97286300111",
-      "y": 3912,
+      "y": 1185,
       "x": 140,
       "region": "footer",
       "fontSize": "10px"
@@ -626,7 +213,7 @@
       "tag": "a",
       "text": "info@dolphinreef.co.il",
       "href": "mailto:info@dolphinreef.co.il",
-      "y": 3912,
+      "y": 1186,
       "x": 8,
       "region": "footer",
       "fontSize": "10px"
@@ -635,7 +222,7 @@
       "tag": "a",
       "text": "מדיניות פרטיות",
       "href": "https://www.dolphinreef.co.il/privacypolicy",
-      "y": 3915,
+      "y": 1189,
       "x": 260,
       "region": "footer",
       "fontSize": "10px"
@@ -649,15 +236,33 @@
       "region": "header"
     },
     {
-      "href": "mailto:info@dolphinreef.co.il",
-      "text": "info@dolphinreef.co.il",
-      "target": "",
+      "href": "https://www.dolphinreef.co.il/stalbet",
+      "text": "בברכות סתלבט",
+      "target": "_self",
       "region": "main"
     },
     {
-      "href": "mailto:info@dolphinreef.co.il",
-      "text": "info@dolphinreef.co.il",
-      "target": "",
+      "href": "https://www.dolphinreef.co.il/_files/ugd/62bd3d_23822734e13c486782c626e4afec0322.pdf",
+      "text": "לחצו כאן",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://62bd3d49-644c-43fc-9a86-44e652c89743.usrfiles.com/ugd/62bd3d_be66dc8948304002a8407159dbfab499.pdf",
+      "text": "לחצו כאן",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://www.facebook.com/dolphinreefeilat",
+      "text": "בפייסבוק",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://www.instagram.com/dolphin_reef_eilat/",
+      "text": "באינסטגרם",
+      "target": "_blank",
       "region": "main"
     },
     {
@@ -834,13 +439,22 @@
       "y": 7
     },
     {
-      "src": "https://static.wixstatic.com/media/166e60_135219447c154b2994104c71d37a6519~mv2.png/v1/fill/w_780,h_354,fp_0.50_0.42,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/divers.png",
-      "alt": "צלילת היכרות בנוף התת-מימי של ריף הדולפינים",
+      "src": "https://static.wixstatic.com/media/62bd3d_d9cc9b978d824b758ecad78c381fec60~mv2.jpg/v1/fill/w_780,h_354,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_9020.jpg",
+      "alt": "תמונה של קפה סתלבט על המים",
       "naturalWidth": 780,
       "naturalHeight": 354,
       "renderedWidth": 390,
       "renderedHeight": 177,
       "y": 74
+    },
+    {
+      "src": "https://static.wixstatic.com/media/62bd3d_d82bf80247f442d09a13b6ea8a63f31b~mv2.jpg/v1/fill/w_742,h_552,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Stalber_Coffe_2.jpg",
+      "alt": "תמונה של קפה סתלבט על המים",
+      "naturalWidth": 742,
+      "naturalHeight": 552,
+      "renderedWidth": 371,
+      "renderedHeight": 276,
+      "y": 845
     },
     {
       "src": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
@@ -849,7 +463,7 @@
       "naturalHeight": 86,
       "renderedWidth": 43,
       "renderedHeight": 43,
-      "y": 3857
+      "y": 1131
     },
     {
       "src": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
@@ -858,7 +472,7 @@
       "naturalHeight": 86,
       "renderedWidth": 43,
       "renderedHeight": 43,
-      "y": 3857
+      "y": 1131
     },
     {
       "src": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
@@ -867,7 +481,7 @@
       "naturalHeight": 86,
       "renderedWidth": 43,
       "renderedHeight": 43,
-      "y": 3857
+      "y": 1131
     },
     {
       "src": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_86,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
@@ -876,7 +490,7 @@
       "naturalHeight": 86,
       "renderedWidth": 43,
       "renderedHeight": 43,
-      "y": 3857
+      "y": 1131
     },
     {
       "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Zz48Zz48Zz48cGF0aCBmaWxsPSIiIGlkPSJjbG9zZS1zdmctcGF0aCIgZD0iTTE3LjI5NCA2bC43MDYuNzA2TDEyLjcwNSAxMiAxOCAxNy4yOTRsLS43MDYuNzA2TDEyIDEyLjcwNSA2LjcwNiAxOCA2IDE3LjI5NCAxMS4yOTUgMTIgNiA2LjcwNiA2LjcwNiA2IDEyIDExLjI5NSAxNy4yOTQgNnoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00NzEuMDAwMDAwLCAtNjQ2LjAwMDAwMCkgdHJhbnNsYXRlKDQ3MS4wMDAwMDAsIDY0Ni4wMDAwMDApIi8+PC9nPjwvZz48L2c+PC9zdmc+",
@@ -890,30 +504,47 @@
   ],
   "bgImages": [
     {
-      "containerId": "comp-mrkp52yq",
+      "containerId": "comp-m5l5kdf6",
       "alignType": "center",
       "parallaxSpeed": 1.5,
       "sourceSets": [],
       "imageData": {
-        "uri": "166e60_135219447c154b2994104c71d37a6519~mv2.png",
-        "width": 2064,
-        "height": 1376,
-        "alt": "צלילת היכרות בנוף התת-מימי של ריף הדולפינים",
-        "name": "divers.png",
+        "uri": "62bd3d_d9cc9b978d824b758ecad78c381fec60~mv2.jpg",
+        "width": 7464,
+        "height": 3884,
+        "alt": "תמונה של קפה סתלבט על המים",
+        "name": "IMG_9020.jpg",
         "decorative": false,
         "displayMode": "fill",
-        "focalPoint": {
-          "x": 50,
-          "y": 42
-        },
-        "scrollEffect": "none"
+        "scrollEffect": "none",
+        "focalPoint": null
       },
       "hasAnimation": false,
       "encoding": "AVIF",
       "allowFullGIFTransformation": false
     },
     {
-      "containerId": "dataItem-mn1qpu9a-comp-mrkp532t_r_comp-m4h5de1l",
+      "containerId": "comp-m5ledx1s3",
+      "alignType": "center",
+      "parallaxSpeed": 1.5,
+      "sourceSets": [],
+      "imageData": {
+        "uri": "62bd3d_d82bf80247f442d09a13b6ea8a63f31b~mv2.jpg",
+        "width": 1000,
+        "height": 1333,
+        "alt": "תמונה של קפה סתלבט על המים",
+        "name": "Stalber_Coffe_2.jpg",
+        "decorative": false,
+        "displayMode": "fill",
+        "scrollEffect": "none",
+        "focalPoint": null
+      },
+      "hasAnimation": false,
+      "encoding": "AVIF",
+      "allowFullGIFTransformation": false
+    },
+    {
+      "containerId": "dataItem-mn1qpu9a-comp-m5l5kdfw6_r_comp-m4h5de1l",
       "displayMode": "fit",
       "encoding": "AVIF",
       "imageData": {
@@ -925,7 +556,7 @@
       }
     },
     {
-      "containerId": "dataItem-m4h5de1p1-comp-mrkp532t_r_comp-m4h5de1l",
+      "containerId": "dataItem-m4h5de1p1-comp-m5l5kdfw6_r_comp-m4h5de1l",
       "displayMode": "fit",
       "encoding": "AVIF",
       "imageData": {
@@ -937,7 +568,7 @@
       }
     },
     {
-      "containerId": "dataItem-m4h5de1q-comp-mrkp532t_r_comp-m4h5de1l",
+      "containerId": "dataItem-m4h5de1q-comp-m5l5kdfw6_r_comp-m4h5de1l",
       "displayMode": "fit",
       "encoding": "AVIF",
       "imageData": {
@@ -949,7 +580,7 @@
       }
     },
     {
-      "containerId": "dataItem-m4h5l5qq-comp-mrkp532t_r_comp-m4h5de1l",
+      "containerId": "dataItem-m4h5l5qq-comp-m5l5kdfw6_r_comp-m4h5de1l",
       "displayMode": "fit",
       "encoding": "AVIF",
       "imageData": {
@@ -967,7 +598,6 @@
     "https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js",
     "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
     "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
-    "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
@@ -987,6 +617,7 @@
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].8a9c12f1.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterSection].3bd26d28.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_mobile.2658b124.bundle.min.js",
+    "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
     "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
     "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
     "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
@@ -1010,5 +641,5 @@
   ],
   "forms": [],
   "ld": [],
-  "height": 3954
+  "height": 1228
 }

@@ -1,28 +1,30 @@
 {
-  "url": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
-  "title": "ריף הדולפינים תפריט בר חוף | Dolphin Reef Bar menu",
-  "description": "",
-  "ogTitle": "ריף הדולפינים תפריט בר חוף | Dolphin Reef Bar menu",
-  "ogDescription": "",
+  "url": "https://www.dolphinreef.co.il/diving",
+  "title": "צלילת היכרות בריף הדולפינים אילת",
+  "description": "צלילת היכרות בריף הדולפינים אילת – חוויה תת-ימית בסביבה הטבעית של הדולפינים, מגיל 8 וללא ניסיון קודם, בהדרכה אישית צמודה. כ-25 דקות במים. פרטים והזמנה באתר.",
+  "ogTitle": "צלילת היכרות בריף הדולפינים אילת",
+  "ogDescription": "צלילת היכרות בריף הדולפינים אילת – חוויה תת-ימית בסביבה הטבעית של הדולפינים, מגיל 8 וללא ניסיון קודם, בהדרכה אישית צמודה. כ-25 דקות במים. פרטים והזמנה באתר.",
   "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
-  "canonical": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
+  "canonical": "https://www.dolphinreef.co.il/diving",
   "hreflang": [
     {
       "lang": "x-default",
-      "href": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar"
+      "href": "https://www.dolphinreef.co.il/diving"
     },
     {
       "lang": "en-us",
-      "href": "https://www.dolphinreef.co.il/en/dining-at-thereef/menu-bar"
+      "href": "https://www.dolphinreef.co.il/en/diving"
     },
     {
       "lang": "he-il",
-      "href": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar"
+      "href": "https://www.dolphinreef.co.il/diving"
     }
   ],
   "lang": "he",
   "dir": "",
-  "h1": [],
+  "h1": [
+    "צלילת היכרות בריף הדולפינים"
+  ],
   "blocks": [
     {
       "tag": "button",
@@ -33,9 +35,33 @@
       "fontSize": "14px"
     },
     {
+      "tag": "h1",
+      "text": "צלילת היכרות בריף הדולפינים",
+      "y": 542,
+      "x": 144,
+      "region": "main",
+      "fontSize": "55px"
+    },
+    {
+      "tag": "h2",
+      "text": "להגשים חלום...",
+      "y": 655,
+      "x": 144,
+      "region": "main",
+      "fontSize": "22.4262px"
+    },
+    {
+      "tag": "p",
+      "text": "אם חלמתם לבקר בעולם קסום, מנותק \"מרעשי היום יום\", מרחפים חסרי משקל, מוקפים בעושר של דגים ואלמוגים, בסביבתם הטבעית של הדולפינים, צלילת הכירות בריף הדולפינים היא הזדמנות לחוות את כל אלו ללא כל צורך בניסיון מוקדם. רוצים לשמוע עוד?...",
+      "y": 699,
+      "x": 144,
+      "region": "main",
+      "fontSize": "16.5246px"
+    },
+    {
       "tag": "button",
       "text": "אישור",
-      "y": 916,
+      "y": 852,
       "x": 1324,
       "region": "main",
       "fontSize": "14px"
@@ -43,19 +69,151 @@
     {
       "tag": "button",
       "text": "דחיית הכל",
-      "y": 916,
+      "y": 852,
       "x": 1218,
       "region": "main",
       "fontSize": "14px"
     },
     {
+      "tag": "h2",
+      "text": "להזמנה",
+      "y": 858,
+      "x": 676,
+      "region": "main",
+      "fontSize": "28.1251px"
+    },
+    {
+      "tag": "span",
+      "text": "להזמנה",
+      "y": 858,
+      "x": 676,
+      "region": "main",
+      "fontSize": "28.1251px"
+    },
+    {
+      "tag": "a",
+      "text": "להזמנה",
+      "href": "https://reefbooking.dolphinreef.co.il/",
+      "y": 858,
+      "x": 676,
+      "region": "main",
+      "fontSize": "28.1251px"
+    },
+    {
       "tag": "a",
       "text": "מדיניות הפרטיות",
       "href": "https://www.dolphinreef.co.il/privacypolicy",
-      "y": 924,
+      "y": 860,
       "x": 24,
       "region": "main",
       "fontSize": "14px"
+    },
+    {
+      "tag": "button",
+      "text": "האם כל אחד יכול להשתתף בצלילת היכרות?",
+      "y": 1240,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "מתי מתקיימות צלילות היכרות?",
+      "y": 1277,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "איך מתנהלת הפעילות ולאיזה עומק צוללים?",
+      "y": 1314,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "האם בטוח שאראה את הדולפינים במהלך הצלילה?",
+      "y": 1351,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "האם אוכל לגעת בדולפינים?",
+      "y": 1388,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "האם צריך להביא ציוד?",
+      "y": 1424,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "ומה לגבי צילום מתחת למים?",
+      "y": 1461,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "האם צריך להזמין מראש?",
+      "y": 1498,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "כמה זה עולה ואיך מזמינים?",
+      "y": 1535,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "button",
+      "text": "מדיניות ביטולים",
+      "y": 1572,
+      "x": 144,
+      "region": "main",
+      "fontSize": "13.3333px"
+    },
+    {
+      "tag": "a",
+      "text": "מדיניות פרטיות",
+      "href": "https://www.dolphinreef.co.il/privacypolicy",
+      "y": 1778,
+      "x": 1080,
+      "region": "footer",
+      "fontSize": "10px"
+    },
+    {
+      "tag": "a",
+      "text": "טל: 08-6300111",
+      "href": "tel:+97286300111",
+      "y": 1783,
+      "x": 600,
+      "region": "footer",
+      "fontSize": "10px"
+    },
+    {
+      "tag": "a",
+      "text": "info@dolphinreef.co.il",
+      "href": "mailto:info@dolphinreef.co.il",
+      "y": 1783,
+      "x": 120,
+      "region": "footer",
+      "fontSize": "10px"
     }
   ],
   "links": [
@@ -64,6 +222,78 @@
       "text": "",
       "target": "_self",
       "region": "header"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/_files/ugd/62bd3d_5abe4de656634145922ab76b2f7ccf7d.pdf",
+      "text": "ראו טופס כשירות רפואית ותיאום ציפיות,",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://reefbooking.dolphinreef.co.il/",
+      "text": "לחצו כאן לביצוע הזמנה",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "mailto:reservation@dolphinreef.co.il?subject=%D7%91%D7%A7%D7%A9%D7%94%20%D7%9C%D7%A9%D7%99%D7%A0%D7%95%D7%99%20%D7%90%D7%95%20%D7%91%D7%99%D7%98%D7%95%D7%9C%20%D7%94%D7%96%D7%9E%D7%A0%D7%94",
+      "text": "reservation@dolphinreef.co.il",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://reefbooking.dolphinreef.co.il/",
+      "text": "",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://reefbooking.dolphinreef.co.il/",
+      "text": "להזמנה",
+      "target": "_blank",
+      "region": "main"
+    },
+    {
+      "href": "https://api.whatsapp.com/send/?phone=972526021017&text&type=phone_number&app_absent=0",
+      "text": "WhatsApp",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.instagram.com/dolphin_reef_eilat/",
+      "text": "Instagram",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.facebook.com/dolphinreefeilat",
+      "text": "Facebook",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.tiktok.com/@dolphin_reef_eilat",
+      "text": "TikTok",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/privacypolicy",
+      "text": "מדיניות פרטיות",
+      "target": "_self",
+      "region": "footer"
+    },
+    {
+      "href": "tel:+97286300111",
+      "text": "טל: 08-6300111",
+      "target": "",
+      "region": "footer"
+    },
+    {
+      "href": "mailto:info@dolphinreef.co.il",
+      "text": "info@dolphinreef.co.il",
+      "target": "_self",
+      "region": "footer"
     },
     {
       "href": "https://www.dolphinreef.co.il/",
@@ -115,7 +345,7 @@
     },
     {
       "href": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
-      "text": "",
+      "text": "תפריט בר חוף",
       "target": "_self",
       "region": "main"
     },
@@ -197,71 +427,208 @@
       "y": 5
     },
     {
+      "src": "https://static.wixstatic.com/media/166e60_ded6522a181d4d33a98f94c4ecfc583df000.jpg/v1/fill/w_1440,h_449,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/166e60_ded6522a181d4d33a98f94c4ecfc583df000.jpg",
+      "alt": "",
+      "naturalWidth": 1440,
+      "naturalHeight": 449,
+      "renderedWidth": 1440,
+      "renderedHeight": 449,
+      "y": 70
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
+      "alt": "WhatsApp",
+      "naturalWidth": 34,
+      "naturalHeight": 34,
+      "renderedWidth": 34,
+      "renderedHeight": 34,
+      "y": 1729
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+      "alt": "Instagram",
+      "naturalWidth": 34,
+      "naturalHeight": 34,
+      "renderedWidth": 34,
+      "renderedHeight": 34,
+      "y": 1729
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
+      "alt": "Facebook",
+      "naturalWidth": 34,
+      "naturalHeight": 34,
+      "renderedWidth": 34,
+      "renderedHeight": 34,
+      "y": 1729
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
+      "alt": "TikTok",
+      "naturalWidth": 34,
+      "naturalHeight": 34,
+      "renderedWidth": 34,
+      "renderedHeight": 34,
+      "y": 1729
+    },
+    {
       "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Zz48Zz48Zz48cGF0aCBmaWxsPSIiIGlkPSJjbG9zZS1zdmctcGF0aCIgZD0iTTE3LjI5NCA2bC43MDYuNzA2TDEyLjcwNSAxMiAxOCAxNy4yOTRsLS43MDYuNzA2TDEyIDEyLjcwNSA2LjcwNiAxOCA2IDE3LjI5NCAxMS4yOTUgMTIgNiA2LjcwNiA2LjcwNiA2IDEyIDExLjI5NSAxNy4yOTQgNnoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00NzEuMDAwMDAwLCAtNjQ2LjAwMDAwMCkgdHJhbnNsYXRlKDQ3MS4wMDAwMDAsIDY0Ni4wMDAwMDApIi8+PC9nPjwvZz48L2c+PC9zdmc+",
       "alt": "סגירה",
       "naturalWidth": 24,
       "naturalHeight": 24,
       "renderedWidth": 24,
       "renderedHeight": 24,
-      "y": 919
+      "y": 855
     }
   ],
-  "bgImages": [],
-  "videos": [],
+  "bgImages": [
+    {
+      "containerId": "comp-lqnno4ij1",
+      "alignType": "center",
+      "displayMode": "fill",
+      "targetWidth": 160,
+      "targetHeight": 90,
+      "isLQIP": true,
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 1920,
+        "height": 1080,
+        "uri": "166e60_ded6522a181d4d33a98f94c4ecfc583df000.jpg",
+        "name": "",
+        "displayMode": "fill",
+        "quality": {
+          "unsharpMask": {
+            "radius": 0.33,
+            "amount": 1,
+            "threshold": 0
+          }
+        },
+        "devicePixelRatio": 1
+      }
+    },
+    {
+      "containerId": "dataItem-mn1qpu9a-comp-lqnno4kk6_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 201,
+        "uri": "11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    },
+    {
+      "containerId": "dataItem-m4h5de1p1-comp-lqnno4kk6_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 201,
+        "uri": "11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    },
+    {
+      "containerId": "dataItem-m4h5de1q-comp-lqnno4kk6_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 201,
+        "uri": "11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    },
+    {
+      "containerId": "dataItem-m4h5l5qq-comp-lqnno4kk6_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 200,
+        "uri": "11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://video.wixstatic.com/video/166e60_ded6522a181d4d33a98f94c4ecfc583d/1080p/mp4/file.mp4",
+      "poster": "",
+      "width": 0,
+      "height": 0
+    }
+  ],
   "iframes": [
     {
-      "src": "https://www-dolphinreef-co-il.filesusr.com/html/166e60_a67a88e49014d4e3235557f26428e176.html",
-      "title": "Embedded Content"
+      "src": "https://www.youtube.com/embed/FqJTx5KC5NQ?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fwww.dolphinreef.co.il&playsinline=1&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fwww.dolphinreef.co.il%2Fdiving&aoriginsup=1&vf=2",
+      "title": "introductory dive demonstration Hebrew and English"
     }
   ],
   "scripts": [
+    "https://www.youtube.com/s/player/8ab5c328/www-widgetapi.vflset/www-widgetapi.js",
     "https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js",
     "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
     "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
-    "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[RefComponent].33152207.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].8c8a6cb8.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].8f3e56e0.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ImageX].65541ada.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PageSections].66f3b3d5.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HtmlComponent].0451e486.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_ResponsiveBox].55b37fe0.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MultiStateBox].a0b281c9.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AccordionContainer].43a75925.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AccordionItem_Responsive].895c945e.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SiteButton_WrappingButton].46e316e6.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MenuContainer_Responsive].23316a4c.bundle.min.js",
-    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VideoPlayer].4c6fa245.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LinkBar_Responsive].2661e0e4.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HeaderSection].f13d21d9.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].8a9c12f1.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaPlayer_videoBoxResponsive].a5dffe40.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaOverlayControls].2d0d5a54.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaControls].fc7f888f.bundle.min.js",
+    "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterSection].3bd26d28.bundle.min.js",
     "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_mobile.2658b124.bundle.min.js",
+    "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
+    "https://www.youtube.com/iframe_api",
     "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
     "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
     "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
     "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js",
-    "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.96193e9a.bundle.min.js",
-    "https://static.parastorage.com/services/wix-thunderbolt/dist/main.15d8f476.bundle.min.js",
+    "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.217fbd8f.bundle.min.js",
+    "https://static.parastorage.com/services/wix-thunderbolt/dist/main.a3ce3501.bundle.min.js",
     "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.32731c34.bundle.min.js",
     "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
     "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js"
   ],
   "inlineScripts": [
-    "{\"fleetConfig\":{\"fleetName\":\"thunderbolt-renderer\",\"type\":\"Rollout\",\"code\":1},\"mode\":{\"qa\":false,\"enableTestApi\":false,\"addAllServices\":false,\"debug\":false,\"ssrIndicator\":false,\"ssrOnly\":false,\"siteAssetsFallback\":\"enable\",\"versionIndicator\":false},\"componentsLibrariesTopology\":[{\"artifactId\":\"editor-elements\",\"namespace\":\"wixui\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15535.0\"},{\"artifactId\":\"editor-elements\",\"namespace\":\"dsgnsys\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15535.0\"}],\"siteFeaturesConfigs\":{\"sessionManager\":{\"isRunningInDifferentSiteContext\":false}},\"language\":{\"userLanguage\":\"he\"},\"siteAssets\":{\"clientTopology\":{\"mediaRootUrl\":\"https:\\/\\/static.wixstatic.com\",\"scriptsUrl\":\"static.parastorage.com\",\"staticMediaUrl\":\"https:\\/\\/static.wixstatic.com\\/media\",\"staticAudioUrl\":\"https:\\/\\/music.wixstatic.com\\/mp3\",\"moduleRepoUrl\":\"https:\\/\\/static.parastorage.com\\/unpkg\",\"fileRepoUrl\":\"https:\\/\\/static.parastorage.com\\/services\",\"viewerAppsUrl\":\"https:\\/\\/viewer-apps.parastorage.com\",\"viewerAssetsUrl\":\"https:\\/\\/viewer-assets.parastorage.com\",\"siteAssetsUrl\":\"https:\\/\\/siteassets.parastorage.com\",\"pageJsonServerUrls\":[\"https:\\/\\/pages.parastorage.com\",\"https:\\/\\/staticorigin.wixstatic.com\",\"https:\\/\\/www.dolphinreef.co.il\",\"https:\\/\\/fallback.wix.com\\/wix-html-editor-pages-webapp\\/page\"],\"pathOfTBModulesInFileRepoForFallback\":\"wix-thunderbolt\\/dist\\/\"}},\"siteFeatures\":[\"accessibilityBrowserZoom\",\"appMonitoring\"",
+    "{\"fleetConfig\":{\"fleetName\":\"thunderbolt-isolated-renderer\",\"type\":\"GA\",\"code\":0},\"mode\":{\"qa\":false,\"enableTestApi\":false,\"addAllServices\":false,\"debug\":false,\"ssrIndicator\":false,\"ssrOnly\":false,\"siteAssetsFallback\":\"enable\",\"versionIndicator\":false},\"componentsLibrariesTopology\":[{\"artifactId\":\"editor-elements\",\"namespace\":\"wixui\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15531.0\"},{\"artifactId\":\"editor-elements\",\"namespace\":\"dsgnsys\",\"url\":\"https:\\/\\/static.parastorage.com\\/services\\/editor-elements\\/1.15531.0\"}],\"siteFeaturesConfigs\":{\"sessionManager\":{\"isRunningInDifferentSiteContext\":false}},\"language\":{\"userLanguage\":\"he\"},\"siteAssets\":{\"clientTopology\":{\"mediaRootUrl\":\"https:\\/\\/static.wixstatic.com\",\"scriptsUrl\":\"static.parastorage.com\",\"staticMediaUrl\":\"https:\\/\\/static.wixstatic.com\\/media\",\"staticAudioUrl\":\"https:\\/\\/music.wixstatic.com\\/mp3\",\"moduleRepoUrl\":\"https:\\/\\/static.parastorage.com\\/unpkg\",\"fileRepoUrl\":\"https:\\/\\/static.parastorage.com\\/services\",\"viewerAppsUrl\":\"https:\\/\\/viewer-apps.parastorage.com\",\"viewerAssetsUrl\":\"https:\\/\\/viewer-assets.parastorage.com\",\"siteAssetsUrl\":\"https:\\/\\/siteassets.parastorage.com\",\"pageJsonServerUrls\":[\"https:\\/\\/pages.parastorage.com\",\"https:\\/\\/staticorigin.wixstatic.com\",\"https:\\/\\/www.dolphinreef.co.il\",\"https:\\/\\/fallback.wix.com\\/wix-html-editor-pages-webapp\\/page\"],\"pathOfTBModulesInFileRepoForFallback\":\"wix-thunderbolt\\/dist\\/\"}},\"siteFeatures\":[\"accessibilityBrowserZoom\",\"appMonitor",
     "(()=>{\"use strict\";let e,t,r,o;var n={},i={};function l(e){var t=i[e];if(void 0!==t)return t.exports;var r=i[e]={exports:{}};return n[e](r,r.exports,l),r.exports}function a(e){let{context:t,property:r,value:o,enumerable:n=!0}=e,i=e.get,l=e.set;if(!r||void 0===o&&!i&&!l)return Error(\"property and value are required\");let a=t||globalThis,s=a?.[r],u={};if(void 0!==o)u.value=o;else{if(i){let e=c(i);e&&(u.get=e)}if(l){let e=c(l);e&&(u.set=e)}}let p={...u,enumerable:n||!1,configurable:!1};void 0!==o&&(p.writable=!1);try{Object.defineProperty(a,r,p)}catch(e){return e instanceof TypeError?s:e}return s}function c(e,t){return\"function\"==typeof e?e:e?.async===!0&&\"function\"==typeof e.func?t?async function(t){return e.func(t)}:async function(){return e.func()}:\"function\"==typeof e?.func?e.func:void 0}l.rv=()=>\"1.6.8\",l.ruid=\"bundler=rspack@1.6.8\";try{a({property:\"strictDefine\",value:a})}catch{}try{a({property:\"defineStrictObject\",value:function e(t){let{context:r,property:o,propertiesToExclude:n=[],skipPrototype:i=!1,hardenPrototypePropertiesToExclude:l=[]}=t;if(!o)return Error(\"property is required\");let c=(r||globalThis)[o],p={},f=u(r,o);c&&(\"object\"==typeof c||\"function\"==typeof c)&&Reflect.ownKeys(c).forEach(e=>{if(!n.includes(e)&&!s.includes(e)){let t=u(c,e);if(t&&(t.writable||t.configurable)){let{value:r,get:o,set:n,enumerable:i=!1}=t,l={};void 0!==r?l.value=r:o?l.get=o:n&&(l.set=n);try{let t=a({context:c,property:e,...l,enumerable:i});p[e]=t}catch(r){if(r instanceof TypeError)try{",
     "(()=>{\"use strict\";var e={},t={};function r(o){var n=t[o];if(void 0!==n)return n.exports;var i=t[o]={exports:{}};return e[o](i,i.exports,r),i.exports}function o(e){let{context:t,property:r,value:o,enumerable:i=!0}=e,c=e.get,a=e.set;if(!r||void 0===o&&!c&&!a)return Error(\"property and value are required\");let l=t||globalThis,s=l?.[r],u={};if(void 0!==o)u.value=o;else{if(c){let e=n(c);e&&(u.get=e)}if(a){let e=n(a);e&&(u.set=e)}}let p={...u,enumerable:i||!1,configurable:!1};void 0!==o&&(p.writable=!1);try{Object.defineProperty(l,r,p)}catch(e){return e instanceof TypeError?s:e}return s}function n(e,t){return\"function\"==typeof e?e:e?.async===!0&&\"function\"==typeof e.func?t?async function(t){return e.func(t)}:async function(){return e.func()}:\"function\"==typeof e?.func?e.func:void 0}r.rv=()=>\"1.6.8\",r.ruid=\"bundler=rspack@1.6.8\";try{o({property:\"strictDefine\",value:o})}catch{}try{o({property:\"defineStrictObject\",value:c})}catch{}try{o({property:\"defineStrictMethod\",value:a})}catch{}var i=[\"toString\",\"toLocaleString\",\"valueOf\",\"constructor\",\"prototype\"];function c(e){let{context:t,property:r,propertiesToExclude:n=[],skipPrototype:a=!1,hardenPrototypePropertiesToExclude:s=[]}=e;if(!r)return Error(\"property is required\");let u=(t||globalThis)[r],p={},f=l(t,r);u&&(\"object\"==typeof u||\"function\"==typeof u)&&Reflect.ownKeys(u).forEach(e=>{if(!n.includes(e)&&!i.includes(e)){let t=l(u,e);if(t&&(t.writable||t.configurable)){let{value:r,get:n,set:i,enumerable:c=!1}=t,a={};void 0!==r?a.value=",
-    "(()=>{\"use strict\";var e,r,o,a,t,i,c,n={},d={};function f(e){var r=d[e];if(void 0!==r)return r.exports;var o=d[e]={id:e,loaded:!1,exports:{}};return n[e].call(o.exports,o,o.exports,f),o.loaded=!0,o.exports}if(f.m=n,f.n=e=>{var r=e&&e.__esModule?()=>e.default:()=>e;return f.d(r,{a:r}),r},r=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__,f.t=function(o,a){if(1&a&&(o=this(o)),8&a||\"object\"==typeof o&&o&&(4&a&&o.__esModule||16&a&&\"function\"==typeof o.then))return o;var t=Object.create(null);f.r(t);var i={};e=e||[null,r({}),r([]),r(r)];for(var c=2&a&&o;(\"object\"==typeof c||\"function\"==typeof c)&&!~e.indexOf(c);c=r(c))Object.getOwnPropertyNames(c).forEach(e=>{i[e]=()=>o[e]});return i.default=()=>o,f.d(t,i),t},f.d=(e,r)=>{for(var o in r)f.o(r,o)&&!f.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:r[o]})},f.f={},f.e=e=>Promise.all(Object.keys(f.f).reduce((r,o)=>(f.f[o](e,r),r),[])),f.u=e=>\"6948\"===e?\"thunderbolt-commons.96193e9a.bundle.min.js\":\"3033\"===e?\"fastdom.inline.48a8bd4b.bundle.min.js\":\"1619\"===e?\"custom-element-utils.inline.43befd9d.bundle.min.js\":\"5205\"===e?\"render-indicator.inline.df41a0e9.bundle.min.js\":\"7151\"===e?\"version-indicator.inline.704acef2.bundle.min.js\":\"6008\"===e?\"bi-common.inline.17f83560.bundle.min.js\":\"\"+(({1059:\"santa-platform-utils\",1090:\"speculationRules\",1116:\"passwordProtectedPage\",1122:\"group_19\",1211:\"siteUrlService\",1278:\"group_24\",1308:\"global-css-engine\",131:\"siteThemeService\",1374:\"editorWixCodeSdk\",1438:\"sdkStateService\",152",
+    "(()=>{\"use strict\";var e,r,o,a,t,i,c,n={},d={};function f(e){var r=d[e];if(void 0!==r)return r.exports;var o=d[e]={id:e,loaded:!1,exports:{}};return n[e].call(o.exports,o,o.exports,f),o.loaded=!0,o.exports}if(f.m=n,f.n=e=>{var r=e&&e.__esModule?()=>e.default:()=>e;return f.d(r,{a:r}),r},r=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__,f.t=function(o,a){if(1&a&&(o=this(o)),8&a||\"object\"==typeof o&&o&&(4&a&&o.__esModule||16&a&&\"function\"==typeof o.then))return o;var t=Object.create(null);f.r(t);var i={};e=e||[null,r({}),r([]),r(r)];for(var c=2&a&&o;(\"object\"==typeof c||\"function\"==typeof c)&&!~e.indexOf(c);c=r(c))Object.getOwnPropertyNames(c).forEach(e=>{i[e]=()=>o[e]});return i.default=()=>o,f.d(t,i),t},f.d=(e,r)=>{for(var o in r)f.o(r,o)&&!f.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:r[o]})},f.f={},f.e=e=>Promise.all(Object.keys(f.f).reduce((r,o)=>(f.f[o](e,r),r),[])),f.u=e=>\"6948\"===e?\"thunderbolt-commons.217fbd8f.bundle.min.js\":\"3033\"===e?\"fastdom.inline.48a8bd4b.bundle.min.js\":\"1619\"===e?\"custom-element-utils.inline.43befd9d.bundle.min.js\":\"5205\"===e?\"render-indicator.inline.df41a0e9.bundle.min.js\":\"7151\"===e?\"version-indicator.inline.704acef2.bundle.min.js\":\"6008\"===e?\"bi-common.inline.17f83560.bundle.min.js\":\"\"+(({1059:\"santa-platform-utils\",1090:\"speculationRules\",1116:\"passwordProtectedPage\",1122:\"group_19\",1211:\"siteUrlService\",1278:\"group_24\",1308:\"global-css-engine\",131:\"siteThemeService\",1374:\"editorWixCodeSdk\",1438:\"sdkStateService\",152",
     "\"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"1619\"],{26350(e,t,i){i.r(t),i.d(t,{STATIC_MEDIA_URL:()=>eH,fileType:()=>v,fittingTypes:()=>r,getData:()=>eR,MEDIA_ROOT_URL:()=>ez,sdk:()=>eB,isWEBP:()=>x,alignTypes:()=>c,htmlTag:()=>u,getPlaceholder:()=>eC,getResponsiveImageProps:()=>e$,upscaleMethods:()=>m,getFileExtension:()=>k,populateGlobalFeatureSupport:()=>q});let r={SCALE_TO_FILL:\"fill\",SCALE_TO_FIT:\"fit\",STRETCH:\"stretch\",ORIGINAL_SIZE:\"original_size\",TILE:\"tile\",TILE_HORIZONTAL:\"tile_horizontal\",TILE_VERTICAL:\"tile_vertical\",FIT_AND_TILE:\"fit_and_tile\",LEGACY_STRIP_TILE:\"legacy_strip_tile\",LEGACY_STRIP_TILE_HORIZONTAL:\"legacy_strip_tile_horizontal\",LEGACY_STRIP_TILE_VERTICAL:\"legacy_strip_tile_vertical\",LEGACY_STRIP_SCALE_TO_FILL:\"legacy_strip_fill\",LEGACY_STRIP_SCALE_TO_FIT:\"legacy_strip_fit\",LEGACY_STRIP_FIT_AND_TILE:\"legacy_strip_fit_and_tile\",LEGACY_STRIP_ORIGINAL_SIZE:\"legacy_strip_original_size\",LEGACY_ORIGINAL_SIZE:\"actual_size\",LEGACY_FIT_WIDTH:\"fitWidth\",LEGACY_FIT_HEIGHT:\"fitHeight\",LEGACY_FULL:\"full\",LEGACY_BG_FIT_AND_TILE:\"legacy_tile\",LEGACY_BG_FIT_AND_TILE_HORIZONTAL:\"legacy_tile_horizontal\",LEGACY_BG_FIT_AND_TILE_VERTICAL:\"legacy_tile_vertical\",LEGACY_BG_NORMAL:\"legacy_normal\"},n=\"fill\",a=\"fill_focal\",o=\"crop\",s=\"legacy_crop\",l=\"legacy_fill\",c={CENTER:\"center\",TOP:\"top\",TOP_LEFT:\"top_left\",TOP_RIGHT:\"top_right\",BOTTOM:\"bottom\",BOTTOM_LEFT:\"bottom_left\",BOTTOM_RIGHT:\"bottom_right\",LEFT:\"left\",RIGHT:",
     "\"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"6901\"],{33842(e,t,i){i.r(t),i.d(t,{BackgroundParallax:()=>n,BackgroundParallaxZoom:()=>o,BackgroundReveal:()=>l,BgCloseUp:()=>d,BgExpand:()=>c,BgFabeBack:()=>h,BgFadeIn:()=>u,BgFadeOut:()=>g,BgFake3D:()=>m,BgPanLeft:()=>f,BgPanRight:()=>b,BgParallax:()=>p,BgPullBack:()=>v,BgReveal:()=>w,BgRotate:()=>M,BgShrink:()=>y,BgSkew:()=>I,BgUnwind:()=>x,BgZoomIn:()=>L,BgZoomOut:()=>D,ImageParallax:()=>O,ImageReveal:()=>P});var r=i(16956);let a=(e,t)=>({width:e,height:t}),s=(e,t,i)=>({width:e,height:Math.max(t,i)}),n={hasParallax:!0,getMediaDimensions:s},o={hasParallax:!0,getMediaDimensions:s},l={hasParallax:!0,getMediaDimensions:s},d={getMediaDimensions:a},c={getMediaDimensions:a},h={getMediaDimensions:a},u={getMediaDimensions:a},g={getMediaDimensions:a},m={hasParallax:!0,getMediaDimensions:s},f={getMediaDimensions:(e,t)=>({width:1.2*e,height:t})},b={getMediaDimensions:(e,t)=>({width:1.2*e,height:t})},p={hasParallax:!0,getMediaDimensions:s},v={getMediaDimensions:a},w={hasParallax:!0,getMediaDimensions:s},M={getMediaDimensions:(e,t)=>{let i,a,s,n,o;return i=(0,r.kU)(22),a=Math.hypot(e,t)/2,s=Math.acos(e/2/a),n=e*Math.abs(Math.cos(i))+t*Math.abs(Math.sin(i)),o=e*Math.abs(Math.sin(i))+t*Math.abs(Math.cos(i)),{width:Math.ceil(i<s?n:2*a),height:Math.ceil(i<(0,r.kU)(90)-s?o:2*a)}}},y={getMediaDimensions:a},I={getMediaDimensions:(e,t)=>({width:e,height:e*Math.tan((0,r.kU)(20))+t})},x={getM",
     "\n    !function(n,e,r,t,o,i,a,c,s){for(var u=s,f=0;f<document.scripts.length;f++)if(document.scripts[f].src.indexOf(i)>-1){u&&\"no\"===document.scripts[f].getAttribute(\"data-lazy\")&&(u=!1);break}var p=[];function l(n){return\"e\"in n}function d(n){return\"p\"in n}function _(n){return\"f\"in n}var v=[];function y(n){u&&(l(n)||d(n)||_(n)&&n.f.indexOf(\"capture\")>-1||_(n)&&n.f.indexOf(\"showReportDialog\")>-1)&&L(),v.push(n)}function h(){y({e:[].slice.call(arguments)})}function g(n){y({p:n})}function E(){try{n.SENTRY_SDK_SOURCE=\"loader\";var e=n[o],i=e.init;e.init=function(o){n.removeEventListener(r,h),n.removeEventListener(t,g);var a=c;for(var s in o)Object.prototype.hasOwnProperty.call(o,s)&&(a[s]=o[s]);!function(n,e){var r=n.integrations||[];if(!Array.isArray(r))return;var t=r.map((function(n){return n.name}));n.tracesSampleRate&&-1===t.indexOf(\"BrowserTracing\")&&(e.browserTracingIntegration?r.push(e.browserTracingIntegration({enableInp:!0})):e.BrowserTracing&&r.push(new e.BrowserTracing));(n.replaysSessionSampleRate||n.replaysOnErrorSampleRate)&&-1===t.indexOf(\"Replay\")&&(e.replayIntegration?r.push(e.replayIntegration()):e.Replay&&r.push(new e.Replay));n.integrations=r}(a,e),i(a)},setTimeout((function(){return function(e){try{\"function\"==typeof n.sentryOnLoad&&(n.sentryOnLoad(),n.sentryOnLoad=void 0)}catch(n){console.error(\"Error while calling `sentryOnLoad` handler:\"),console.error(n)}try{for(var r=0;r<p.length;r++)\"function\"==typeof p[r]&&p[r]();p.splice(0);for(r=0;r<v.length;r++){_(i=",
-    "{\"siteFeaturesConfigs\":{\"accessibilityBrowserZoom\":{\"isBuilder\":false,\"isStudio\":true},\"appMonitoring\":{\"appsWithMonitoring\":[{\"appId\":\"1380b703-ce81-ff05-f115-39571d94dfcd\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"d74ec62670888f74683c66ce6fad51ea3a7b53b737ac7f041c67b9e5\"}}}},\"panoramaConfigByArtifactId\":{\"ecom-bm-subscriptions-draft\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"d74ec62670888f74683c66ce6fad51ea3a7b53b737ac7f041c67b9e5\"}}},\"abandoned-carts-bm\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"abandoned-carts-bm\",\"fingerprint\":\"13d15bc7d44af4c2920916fd32d054add9c5a8454fbd28fa89f8f19d\"}}}},\"externalIdByComponentId\":{}},{\"appId\":\"13d21c63-b5ec-5912-8397-c3a5ddb27a97\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"7b6419594706e6c374adafa73eb9962baefc97759222b8eeb2a95016\"}}}},\"panoramaConfigByArtifactId\":{\"bookings-uou\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"7b6419594706e6c374adafa73eb9962baefc97759222b8eeb2a95016\"}}}},\"externalIdByComponentId\":{\"9f9aa00e-1c62-40ab-95c8-a5e6c5141dfd\":\"bookings-uou\",\"e42a98",
+    "{\"siteFeaturesConfigs\":{\"accessibilityBrowserZoom\":{\"isBuilder\":false,\"isStudio\":true},\"appMonitoring\":{\"appsWithMonitoring\":[{\"appId\":\"1380b703-ce81-ff05-f115-39571d94dfcd\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"4f38b07a29450bfd300b2e9ae491c10355cc05a69541b03d0fdee2ab\"}}}},\"panoramaConfigByArtifactId\":{\"ecom-bm-subscriptions-draft\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"4f38b07a29450bfd300b2e9ae491c10355cc05a69541b03d0fdee2ab\"}}},\"abandoned-carts-bm\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"abandoned-carts-bm\",\"fingerprint\":\"13d15bc7d44af4c2920916fd32d054add9c5a8454fbd28fa89f8f19d\"}}}},\"externalIdByComponentId\":{}},{\"appId\":\"13d21c63-b5ec-5912-8397-c3a5ddb27a97\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"fbfcb3dc97b070a1b3c714c12ad2bdd16568fa804a2157c842ef1c2b\"}}}},\"panoramaConfigByArtifactId\":{\"bookings-uou\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"fbfcb3dc97b070a1b3c714c12ad2bdd16568fa804a2157c842ef1c2b\"}}}},\"externalIdByComponentId\":{\"9f9aa00e-1c62-40ab-95c8-a5e6c5141dfd\":\"bookings-uou\",\"e42a98",
     "\"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"6008\"],{68703(e,t,r){r.d(t,{L:()=>i});var a=r(8716),n=r(26778),o=r(49254);let i=(0,a.Og)([],()=>({definition:n.F,impl:o.J,config:{},platformConfig:{}}))},89973(e,t,r){r.d(t,{h:()=>i});var a=r(65672),n=r(48869);let o=({useBatch:e=!0,publishMethod:t=a.PublishMethods.Auto,endpoint:r,muteBi:n=!1,biStore:o,sessionManager:i,fetch:s,factory:p})=>p({useBatch:e,publishMethod:t,endpoint:r}).setMuted(n).withUoUContext({msid:o.msid}).withNonEssentialContext({visitorId:()=>i.getVisitorId(),siteMemberId:()=>i.getSiteMemberId()}).updateDefaults({vsi:o.viewerSessionId,_av:`thunderbolt-${o.viewerVersion}`,isb:o.is_headless,...o.is_headless&&{isbr:o.is_headless_reason}}),i={createBaseBiLoggerFactory:o,createBiLoggerFactoryForFedops:e=>{let{biStore:{session_id:t,initialTimestamp:r,initialRequestTimestamp:a,dc:i,microPop:s,is_headless:p,isCached:d,pageData:l,rolloutData:u,caching:c,checkVisibility:m=()=>\"\",viewerVersion:f,requestUrl:I,st:h,isSuccessfulSSR:A,mpaSessionId:_,siteOwnerId:E,uuid:S},muteBi:g=!1}=e;return o({...e,muteBi:g}).updateDefaults({ts:()=>Date.now()-r,tsn:()=>(function({initialRequestTimestamp:e,adjustForPrerender:t=!1}){if(\"undefined\"==typeof window)return Math.round(performance.now()+(performance.timeOrigin-e));let r=t?(0,n.b)():0;return Math.round(performance.now()-r)})({initialRequestTimestamp:a,adjustForPrerender:!0}),dc:i,microPop:s,caching:c,session_id:t,st:h,url:I||l"
   ],
   "forms": [],
   "ld": [],
-  "height": 900,
+  "height": 1821,
   "status": 200,
   "requests": [
     {
-      "url": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
+      "url": "https://www.dolphinreef.co.il/diving",
       "type": "document"
     },
     {
@@ -269,8 +636,8 @@
       "type": "image"
     },
     {
-      "url": "https://www.dolphinreef.co.il/_partials/wix-thunderbolt/dist/clientWorker.f99f6b73.bundle.min.js",
-      "type": "script"
+      "url": "https://static.wixstatic.com/media/166e60_ded6522a181d4d33a98f94c4ecfc583df000.jpg/v1/fill/w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/166e60_ded6522a181d4d33a98f94c4ecfc583df000.jpg",
+      "type": "image"
     },
     {
       "url": "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
@@ -289,11 +656,11 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.96193e9a.bundle.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.217fbd8f.bundle.min.js",
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.15d8f476.bundle.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.a3ce3501.bundle.min.js",
       "type": "script"
     },
     {
@@ -309,19 +676,47 @@
       "type": "script"
     },
     {
+      "url": "https://www.dolphinreef.co.il/_partials/wix-thunderbolt/dist/clientWorker.e689d007.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/166e60_ded6522a181d4d33a98f94c4ecfc583df000.jpg/v1/fill/w_1440,h_449,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/166e60_ded6522a181d4d33a98f94c4ecfc583df000.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
+      "type": "image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+      "type": "image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
+      "type": "image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
+      "type": "image"
+    },
+    {
+      "url": "https://video.wixstatic.com/video/166e60_ded6522a181d4d33a98f94c4ecfc583d/1080p/mp4/file.mp4",
+      "type": "media"
+    },
+    {
       "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-components-registry.d1d3cd39.chunk.min.js",
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.69a60358.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_2.14face31.chunk.min.js",
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/assetsLoader.edcf8f51.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/assetsLoader.8157cf54.chunk.min.js",
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_3.63637ded.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_3.b068b328.chunk.min.js",
       "type": "script"
     },
     {
@@ -345,7 +740,7 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.686e2c1a.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/protectedPages.f0b86b2d.chunk.min.js",
       "type": "script"
     },
     {
@@ -381,7 +776,7 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/appMonitoring.3ef68f2c.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/appMonitoring.a1c8acba.chunk.min.js",
       "type": "script"
     },
     {
@@ -397,7 +792,7 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/customCss.98f49336.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/customCss.92545dcf.chunk.min.js",
       "type": "script"
     },
     {
@@ -453,15 +848,15 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembersWixCodeSdk.2e2a7330.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembersWixCodeSdk.6a6c6afd.chunk.min.js",
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_9.753b7ca1.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_9.51e774fe.chunk.min.js",
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembers.578a09c3.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/siteMembers.e6468e98.chunk.min.js",
       "type": "script"
     },
     {
@@ -481,7 +876,7 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.91dad11c.chunk.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/platform.1bb2ff4c.chunk.min.js",
       "type": "script"
     },
     {
@@ -533,6 +928,18 @@
       "type": "script"
     },
     {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
+      "type": "script"
+    },
+    {
       "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_11.eeaeabf5.chunk.min.js",
       "type": "script"
     },
@@ -553,19 +960,11 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_30.3f1bd6a0.chunk.min.js",
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.d06a1127.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
-      "type": "script"
-    },
-    {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/triggersAndReactions.2c5caf8e.chunk.min.js",
       "type": "script"
     },
     {
@@ -577,7 +976,7 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].8c8a6cb8.bundle.min.js",
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LanguageSelector].8f3e56e0.bundle.min.js",
       "type": "script"
     },
     {
@@ -589,7 +988,23 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HtmlComponent].0451e486.bundle.min.js",
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_ResponsiveBox].55b37fe0.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MultiStateBox].a0b281c9.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AccordionContainer].43a75925.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AccordionItem_Responsive].895c945e.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SiteButton_WrappingButton].46e316e6.bundle.min.js",
       "type": "script"
     },
     {
@@ -597,7 +1012,11 @@
       "type": "script"
     },
     {
-      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VideoPlayer].4c6fa245.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[LinkBar_Responsive].2661e0e4.bundle.min.js",
       "type": "script"
     },
     {
@@ -609,7 +1028,27 @@
       "type": "script"
     },
     {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
+      "type": "script"
+    },
+    {
       "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].8a9c12f1.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaPlayer_videoBoxResponsive].a5dffe40.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaOverlayControls].2d0d5a54.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MediaControls].fc7f888f.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterSection].3bd26d28.bundle.min.js",
       "type": "script"
     },
     {
@@ -621,12 +1060,40 @@
       "type": "script"
     },
     {
-      "url": "https://www-dolphinreef-co-il.filesusr.com/html/166e60_a67a88e49014d4e3235557f26428e176.html",
+      "url": "https://static.parastorage.com/services/cookie-consent-banner-for-uou/1.865.0//app.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://www.youtube.com/iframe_api",
+      "type": "script"
+    },
+    {
+      "url": "https://www.youtube.com/s/player/8ab5c328/www-widgetapi.vflset/www-widgetapi.js",
+      "type": "script"
+    },
+    {
+      "url": "https://www.youtube.com/embed/FqJTx5KC5NQ?autoplay=0&mute=0&controls=1&loop=0&origin=https%3A%2F%2Fwww.dolphinreef.co.il&playsinline=1&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fwww.dolphinreef.co.il%2Fdiving&aoriginsup=1&vf=2",
       "type": "document"
     },
     {
-      "url": "https://static.wixstatic.com/media/166e60_b9ea212268c0418da64548943420389f~mv2.jpg",
-      "type": "image"
+      "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.Bti0DCTU8uI.es5.O/am=AAAAQADG/d=1/excm=base,root/br=1/rs=AGKMywHfEeIhv5I_oB2k8IfNwMsE6UWNNA/m=root,base",
+      "type": "script"
+    },
+    {
+      "url": "https://www.youtube.com/s/player/8ab5c328/player_embed.vflset/iw_IL/base.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "type": "script"
+    },
+    {
+      "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.Bti0DCTU8uI.es5.O/ck=ytembeds.base.7qwXP0qHZ3M.R.W.O/am=AAAAQADG/d=1/exm=base,root/excm=base,root/ed=1/br=1/rs=AGKMywG3Clf5B4ilic-dfHfh83Tr0J74FA/m=r78Drb",
+      "type": "script"
+    },
+    {
+      "url": "https://www.google.com/js/th/lYYBGbB22gTJg5WIiQ83vLrLfS9ah0bGJPzX9-2Oo7s.js",
+      "type": "script"
     }
   ]
 }
