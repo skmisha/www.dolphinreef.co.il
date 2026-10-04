@@ -12,3 +12,6 @@ tests/fixtures/content/
 *.tsbuildinfo
 .next-ltr/
 .next-lh/
+audit/qa/screens/
+audit/qa/screens/
+polish/references/*.jpg

@@ -1,0 +1,1105 @@
+{
+  "aman": {
+    "390": {
+      "status": 200,
+      "title": "Aman Resorts, Hotels & Residences - Explore Luxury Destinations",
+      "h1": null,
+      "h2": {
+        "text": "Grand Ski Adventures",
+        "fontFamily": "\"Lyon Text Web\", \"Lyon Display Web\", \"Times New Roman\", serif",
+        "fontSize": "24.108px",
+        "fontWeight": "400",
+        "lineHeight": "34.9566px",
+        "letterSpacing": "0.5px",
+        "textTransform": "none",
+        "color": "rgb(49, 49, 49)"
+      },
+      "h3": {
+        "text": "HOTELS & RESORTS",
+        "fontFamily": "WhitneySSm, \"Lyon Display Web\", \"Times New Roman\", serif",
+        "fontSize": "10.108px",
+        "fontWeight": "400",
+        "lineHeight": "14.6566px",
+        "letterSpacing": "2px",
+        "textTransform": "uppercase",
+        "color": "rgb(49, 49, 49)"
+      },
+      "p": {
+        "text": "MOUNTAIN ESCAPES",
+        "fontFamily": "WhitneySSm, \"Lyon Display Web\", \"Times New Roman\", serif",
+        "fontSize": "10.108px",
+        "fontWeight": "400",
+        "lineHeight": "14.6566px",
+        "letterSpacing": "2px",
+        "textTransform": "uppercase",
+        "color": "rgb(49, 49, 49)"
+      },
+      "nav": {
+        "text": "Reserve",
+        "fontFamily": "WhitneySSm, \"Lyon Display Web\", \"Times New Roman\", serif",
+        "fontSize": "12.32px",
+        "fontWeight": "400",
+        "lineHeight": "17.864px",
+        "letterSpacing": "0.7px",
+        "textTransform": "none",
+        "color": "rgb(243, 238, 231)"
+      },
+      "button": {
+        "text": "Reserve",
+        "bg": "rgb(49, 49, 49)",
+        "color": "rgb(243, 238, 231)",
+        "radius": "0px",
+        "height": 50,
+        "padding": "15px",
+        "fontSize": "12.32px",
+        "fontWeight": "400",
+        "letterSpacing": "0.7px",
+        "textTransform": "none"
+      },
+      "bodyBg": "rgb(243, 238, 231)",
+      "sections": [
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px"
+      ],
+      "bodyText": [
+        {
+          "fontSize": "14px",
+          "lineHeight": "20.3px",
+          "color": "rgb(49, 49, 49)",
+          "maxWidth": 0,
+          "chars": 0
+        },
+        {
+          "fontSize": "14px",
+          "lineHeight": "20.3px",
+          "color": "rgb(49, 49, 49)",
+          "maxWidth": 341,
+          "chars": 49
+        },
+        {
+          "fontSize": "14px",
+          "lineHeight": "20.3px",
+          "color": "rgb(49, 49, 49)",
+          "maxWidth": 281,
+          "chars": 40
+        }
+      ],
+      "imgs": [
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 341,
+          "h": 213
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 341,
+          "h": 449
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 281,
+          "h": 281
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 281,
+          "h": 281
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 281,
+          "h": 281
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 281,
+          "h": 281
+        }
+      ],
+      "transitions": [
+        "all",
+        "border-color 0.4s, color 0.4s, box-shadow 0.1s, background-color 0.4s",
+        "opacity 0.5s ease-in-out",
+        "background 0.6s"
+      ],
+      "heroVideo": [],
+      "fonts": [
+        "Calligraph810",
+        "NotoSerifJP",
+        "NotoSerifSC",
+        "WhitneyBook",
+        "SuisseBP",
+        "Beausite",
+        "Lyon",
+        "Lyon Display Web",
+        "Lyon Text Web",
+        "WhitneySSm"
+      ]
+    },
+    "1440": {
+      "status": 200,
+      "title": "Aman Resorts, Hotels & Residences - Explore Luxury Destinations",
+      "h1": null,
+      "h2": {
+        "text": "Grand Ski Adventures",
+        "fontFamily": "\"Lyon Text Web\", \"Lyon Display Web\", \"Times New Roman\", serif",
+        "fontSize": "31.08px",
+        "fontWeight": "400",
+        "lineHeight": "45.066px",
+        "letterSpacing": "0.5px",
+        "textTransform": "none",
+        "color": "rgb(49, 49, 49)"
+      },
+      "h3": {
+        "text": "HOTELS & RESORTS",
+        "fontFamily": "WhitneySSm, \"Lyon Display Web\", \"Times New Roman\", serif",
+        "fontSize": "10.108px",
+        "fontWeight": "400",
+        "lineHeight": "14.6566px",
+        "letterSpacing": "2px",
+        "textTransform": "uppercase",
+        "color": "rgb(49, 49, 49)"
+      },
+      "p": {
+        "text": "MOUNTAIN ESCAPES",
+        "fontFamily": "WhitneySSm, \"Lyon Display Web\", \"Times New Roman\", serif",
+        "fontSize": "10.108px",
+        "fontWeight": "400",
+        "lineHeight": "14.6566px",
+        "letterSpacing": "2px",
+        "textTransform": "uppercase",
+        "color": "rgb(49, 49, 49)"
+      },
+      "nav": {
+        "text": "Reserve",
+        "fontFamily": "WhitneySSm, \"Lyon Display Web\", \"Times New Roman\", serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20.3px",
+        "letterSpacing": "0.7px",
+        "textTransform": "none",
+        "color": "rgb(243, 238, 231)"
+      },
+      "button": {
+        "text": "Reserve",
+        "bg": "rgb(49, 49, 49)",
+        "color": "rgb(243, 238, 231)",
+        "radius": "0px",
+        "height": 42,
+        "padding": "10px 15px",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "letterSpacing": "0.7px",
+        "textTransform": "none"
+      },
+      "bodyBg": "rgb(243, 238, 231)",
+      "sections": [
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px"
+      ],
+      "bodyText": [
+        {
+          "fontSize": "14px",
+          "lineHeight": "20.3px",
+          "color": "rgb(49, 49, 49)",
+          "maxWidth": 0,
+          "chars": 0
+        },
+        {
+          "fontSize": "14px",
+          "lineHeight": "20.3px",
+          "color": "rgb(49, 49, 49)",
+          "maxWidth": 442,
+          "chars": 63
+        },
+        {
+          "fontSize": "14px",
+          "lineHeight": "20.3px",
+          "color": "rgb(49, 49, 49)",
+          "maxWidth": 326,
+          "chars": 47
+        }
+      ],
+      "imgs": [
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 915,
+          "h": 570
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 439,
+          "h": 577
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 326,
+          "h": 326
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 326,
+          "h": 326
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 326,
+          "h": 326
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 326,
+          "h": 326
+        }
+      ],
+      "transitions": [
+        "all",
+        "border-color 0.4s, color 0.4s, box-shadow 0.1s, background-color 0.4s",
+        "opacity 0.5s ease-in-out",
+        "background 0.6s"
+      ],
+      "heroVideo": [],
+      "fonts": [
+        "Calligraph810",
+        "NotoSerifJP",
+        "NotoSerifSC",
+        "WhitneyBook",
+        "SuisseBP",
+        "Beausite",
+        "Lyon",
+        "Lyon Display Web",
+        "Lyon Text Web",
+        "WhitneySSm"
+      ]
+    },
+    "url": "https://www.aman.com/"
+  },
+  "fourseasons-maldives": {
+    "390": {
+      "status": 403,
+      "title": "Access Denied",
+      "h1": {
+        "text": "Access Denied",
+        "fontFamily": "\"Times New Roman\"",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)"
+      },
+      "h2": null,
+      "h3": null,
+      "p": {
+        "text": "Reference #18.16643017.1791114231.6b6c2bb5",
+        "fontFamily": "\"Times New Roman\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)"
+      },
+      "nav": null,
+      "button": null,
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "sections": [],
+      "bodyText": [],
+      "imgs": [],
+      "transitions": [],
+      "heroVideo": [],
+      "fonts": []
+    },
+    "1440": {
+      "status": 403,
+      "title": "Access Denied",
+      "h1": {
+        "text": "Access Denied",
+        "fontFamily": "\"Times New Roman\"",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)"
+      },
+      "h2": null,
+      "h3": null,
+      "p": {
+        "text": "Reference #18.1453d117.1791114214.399c06b1",
+        "fontFamily": "\"Times New Roman\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)"
+      },
+      "nav": null,
+      "button": null,
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "sections": [],
+      "bodyText": [],
+      "imgs": [],
+      "transitions": [],
+      "heroVideo": [],
+      "fonts": []
+    },
+    "url": "https://www.fourseasons.com/maldiveskh/"
+  },
+  "monterey-bay-aquarium": {
+    "390": {
+      "status": 200,
+      "title": "Monterey Bay Aquarium",
+      "h1": {
+        "text": "Monterey Bay Aquarium",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "h2": {
+        "text": "Experience the rhythm of the ocean",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "-0.2px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "h3": {
+        "text": "Visit",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "16px",
+        "letterSpacing": "0.18px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "p": {
+        "text": "Open today 10 a.m.–5 p.m.",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "letterSpacing": "0.16px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "nav": {
+        "text": "TICKETS",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "lineHeight": "8px",
+        "letterSpacing": "0.65px",
+        "textTransform": "uppercase",
+        "color": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "text": "See all news and stories",
+        "bg": "rgb(0, 98, 155)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "0px",
+        "height": 48,
+        "padding": "12px 20px",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "letterSpacing": "0.3px",
+        "textTransform": "none"
+      },
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "sections": [
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px"
+      ],
+      "bodyText": [
+        {
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "color": "rgb(255, 255, 255)",
+          "maxWidth": 358,
+          "chars": 45
+        },
+        {
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "color": "rgb(255, 255, 255)",
+          "maxWidth": 256,
+          "chars": 32
+        },
+        {
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "color": "rgb(255, 255, 255)",
+          "maxWidth": 256,
+          "chars": 32
+        }
+      ],
+      "imgs": [
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 407,
+          "h": 774
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 390,
+          "h": 844
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 256,
+          "h": 144
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 256,
+          "h": 144
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 390,
+          "h": 293
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 390,
+          "h": 844
+        }
+      ],
+      "transitions": [
+        "all",
+        "color 0.3s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), fill 0.3s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.3s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.3s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.3s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "0.2s",
+        "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "opacity 1s cubic-bezier(0.4, 0, 0.2, 1), translate 1s cubic-bezier(0.4, 0, 0.2, 1), scale 1s ease-out"
+      ],
+      "heroVideo": [
+        {
+          "w": 259,
+          "h": 28,
+          "autoplay": false,
+          "muted": true,
+          "poster": false
+        }
+      ],
+      "fonts": [
+        "Nocturno",
+        "Nocturno Display",
+        "Peak",
+        "Peak Rounded",
+        "ESPeakRounded-Regular"
+      ]
+    },
+    "1440": {
+      "status": 200,
+      "title": "Monterey Bay Aquarium",
+      "h1": {
+        "text": "Monterey Bay Aquarium",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "h2": {
+        "text": "Experience the rhythm of the ocean",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "36px",
+        "letterSpacing": "-0.36px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "h3": {
+        "text": "Visit",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "lineHeight": "16px",
+        "letterSpacing": "0.18px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "p": {
+        "text": "Open today 10 a.m.–5 p.m.",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "letterSpacing": "0.16px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "nav": {
+        "text": "TICKETS",
+        "fontFamily": "Peak, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "lineHeight": "8px",
+        "letterSpacing": "0.65px",
+        "textTransform": "uppercase",
+        "color": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "text": "See all news and stories",
+        "bg": "rgb(0, 98, 155)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "0px",
+        "height": 48,
+        "padding": "12px 20px",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "letterSpacing": "0.3px",
+        "textTransform": "none"
+      },
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "sections": [
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px",
+        "0px/0px"
+      ],
+      "bodyText": [
+        {
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "color": "rgb(255, 255, 255)",
+          "maxWidth": 440,
+          "chars": 55
+        },
+        {
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "color": "rgb(255, 255, 255)",
+          "maxWidth": 256,
+          "chars": 32
+        },
+        {
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "color": "rgb(255, 255, 255)",
+          "maxWidth": 256,
+          "chars": 32
+        }
+      ],
+      "imgs": [
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 1512,
+          "h": 813
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 1440,
+          "h": 900
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 256,
+          "h": 144
+        },
+        {
+          "radius": "0px",
+          "fit": "fill",
+          "pos": "50% 50%",
+          "w": 256,
+          "h": 144
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 952,
+          "h": 332
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 1440,
+          "h": 900
+        }
+      ],
+      "transitions": [
+        "all",
+        "color 0.3s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), fill 0.3s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.3s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.3s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.3s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "0.2s",
+        "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "opacity 1s cubic-bezier(0.4, 0, 0.2, 1), translate 1s cubic-bezier(0.4, 0, 0.2, 1), scale 1s ease-out"
+      ],
+      "heroVideo": [
+        {
+          "w": 480,
+          "h": 52,
+          "autoplay": false,
+          "muted": true,
+          "poster": false
+        }
+      ],
+      "fonts": [
+        "Nocturno",
+        "Nocturno Display",
+        "Peak",
+        "Peak Rounded",
+        "ESPeakRounded-Regular"
+      ]
+    },
+    "url": "https://www.montereybayaquarium.org/"
+  },
+  "soneva-fushi": {
+    "390": {
+      "status": 200,
+      "title": "Soneva Fushi | Baa Atoll, Maldives",
+      "h1": null,
+      "h2": {
+        "text": "Nourish the Senses",
+        "fontFamily": "\"Moulin Trial\", Georgia, serif",
+        "fontSize": "28.1849px",
+        "fontWeight": "300",
+        "lineHeight": "31.0034px",
+        "letterSpacing": "-0.845547px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "h3": {
+        "text": "Beach Villas",
+        "fontFamily": "\"Moulin Trial\", Georgia, serif",
+        "fontSize": "20px",
+        "fontWeight": "300",
+        "lineHeight": "22px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(25, 16, 13)"
+      },
+      "p": {
+        "text": "We value your privacy",
+        "fontFamily": "\"Moulin Trial\", Georgia, serif",
+        "fontSize": "32px",
+        "fontWeight": "300",
+        "lineHeight": "35.2px",
+        "letterSpacing": "-0.96px",
+        "textTransform": "none",
+        "color": "rgb(25, 16, 13)"
+      },
+      "nav": {
+        "text": "Book",
+        "fontFamily": "\"Scto Grotesk A Trial\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "16.8px",
+        "letterSpacing": "-0.28px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "text": "Accept All",
+        "bg": "rgb(109, 46, 29)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "2px",
+        "height": 49,
+        "padding": "16px",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "letterSpacing": "-0.28px",
+        "textTransform": "none"
+      },
+      "bodyBg": "rgb(244, 241, 233)",
+      "sections": [
+        "24px/24px",
+        "0px/0px",
+        "80px/80px",
+        "8px/8px",
+        "120px/40px",
+        "80px/80px",
+        "80px/24px",
+        "0px/0px"
+      ],
+      "bodyText": [
+        {
+          "fontSize": "14.0462px",
+          "lineHeight": "16.8555px",
+          "color": "rgba(18, 18, 18, 0.5)",
+          "maxWidth": 340,
+          "chars": 48
+        },
+        {
+          "fontSize": "12px",
+          "lineHeight": "24px",
+          "color": "rgb(33, 33, 33)",
+          "maxWidth": 0,
+          "chars": 0
+        },
+        {
+          "fontSize": "12px",
+          "lineHeight": "24px",
+          "color": "rgb(33, 33, 33)",
+          "maxWidth": 0,
+          "chars": 0
+        }
+      ],
+      "imgs": [
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 390,
+          "h": 747
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "-495px 0px",
+          "w": 390,
+          "h": 747
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "-26px 0px",
+          "w": 390,
+          "h": 747
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 390,
+          "h": 747
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "-18px 0px",
+          "w": 390,
+          "h": 747
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 350,
+          "h": 432
+        }
+      ],
+      "transitions": [
+        "all",
+        "background-color 0.2s, border-color 0.2s, color 0.2s, opacity 0.2s",
+        "color 0.3s ease-in",
+        "0.3s ease-in",
+        "0.3s linear",
+        "transform 0.3s linear, opacity 0.3s linear"
+      ],
+      "heroVideo": [],
+      "fonts": [
+        "slick",
+        "Moulin Trial",
+        "Scto Grotesk A Trial",
+        "gform-icons-theme"
+      ]
+    },
+    "1440": {
+      "status": 200,
+      "title": "Soneva Fushi | Baa Atoll, Maldives",
+      "h1": null,
+      "h2": {
+        "text": "Nourish the Senses",
+        "fontFamily": "\"Moulin Trial\", Georgia, serif",
+        "fontSize": "40px",
+        "fontWeight": "300",
+        "lineHeight": "44px",
+        "letterSpacing": "-1.2px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "h3": {
+        "text": "Beach Villas",
+        "fontFamily": "\"Moulin Trial\", Georgia, serif",
+        "fontSize": "24px",
+        "fontWeight": "300",
+        "lineHeight": "26.4px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(25, 16, 13)"
+      },
+      "p": {
+        "text": "We value your privacy",
+        "fontFamily": "\"Moulin Trial\", Georgia, serif",
+        "fontSize": "32px",
+        "fontWeight": "300",
+        "lineHeight": "35.2px",
+        "letterSpacing": "-0.96px",
+        "textTransform": "none",
+        "color": "rgb(25, 16, 13)"
+      },
+      "nav": {
+        "text": "Book",
+        "fontFamily": "\"Scto Grotesk A Trial\", system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "16.8px",
+        "letterSpacing": "-0.28px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)"
+      },
+      "button": {
+        "text": "Accept All",
+        "bg": "rgb(109, 46, 29)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "2px",
+        "height": 49,
+        "padding": "16px",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "letterSpacing": "-0.28px",
+        "textTransform": "none"
+      },
+      "bodyBg": "rgb(244, 241, 233)",
+      "sections": [
+        "24px/24px",
+        "0px/0px",
+        "80px/80px",
+        "16px/16px",
+        "120px/80px",
+        "80px/80px",
+        "120px/80px",
+        "0px/0px"
+      ],
+      "bodyText": [
+        {
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "color": "rgba(18, 18, 18, 0.5)",
+          "maxWidth": 390,
+          "chars": 49
+        },
+        {
+          "fontSize": "12px",
+          "lineHeight": "24px",
+          "color": "rgb(33, 33, 33)",
+          "maxWidth": 0,
+          "chars": 0
+        },
+        {
+          "fontSize": "12px",
+          "lineHeight": "24px",
+          "color": "rgb(33, 33, 33)",
+          "maxWidth": 0,
+          "chars": 0
+        }
+      ],
+      "imgs": [
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 336,
+          "h": 737
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 336,
+          "h": 737
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 336,
+          "h": 737
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "50% 50%",
+          "w": 1440,
+          "h": 741
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "0px -68.578px",
+          "w": 1440,
+          "h": 741
+        },
+        {
+          "radius": "0px",
+          "fit": "cover",
+          "pos": "0px -63px",
+          "w": 1440,
+          "h": 741
+        }
+      ],
+      "transitions": [
+        "all",
+        "background-color 0.2s, border-color 0.2s, color 0.2s, opacity 0.2s",
+        "color 0.3s ease-in",
+        "0.3s ease-in",
+        "0.3s linear",
+        "transform 0.3s linear, opacity 0.3s linear"
+      ],
+      "heroVideo": [],
+      "fonts": [
+        "slick",
+        "Moulin Trial",
+        "Scto Grotesk A Trial",
+        "gform-icons-theme"
+      ]
+    },
+    "url": "https://soneva.com/resorts/soneva-fushi/"
+  },
+  "six-senses-laamu": {
+    "390": {
+      "status": 403,
+      "title": "Access Denied",
+      "h1": {
+        "text": "Access Denied",
+        "fontFamily": "\"Times New Roman\"",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)"
+      },
+      "h2": null,
+      "h3": null,
+      "p": {
+        "text": "Reference #18.6931ab8.1791114354.170f886a",
+        "fontFamily": "\"Times New Roman\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)"
+      },
+      "nav": null,
+      "button": null,
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "sections": [],
+      "bodyText": [],
+      "imgs": [],
+      "transitions": [],
+      "heroVideo": [],
+      "fonts": []
+    },
+    "1440": {
+      "status": 403,
+      "title": "Access Denied",
+      "h1": {
+        "text": "Access Denied",
+        "fontFamily": "\"Times New Roman\"",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)"
+      },
+      "h2": null,
+      "h3": null,
+      "p": {
+        "text": "Reference #18.6931ab8.1791114338.170f23b0",
+        "fontFamily": "\"Times New Roman\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)"
+      },
+      "nav": null,
+      "button": null,
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "sections": [],
+      "bodyText": [],
+      "imgs": [],
+      "transitions": [],
+      "heroVideo": [],
+      "fonts": []
+    },
+    "url": "https://www.sixsenses.com/en/resorts/laamu/"
+  }
+}
