@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dolphin Reef - proposed tokens specimen</title>
+<link rel="stylesheet" href="fonts.css">
+<link rel="stylesheet" href="../tokens.proposed.css">
+<style>
+  /* Specimen-only styles. Component CSS here previews Phase 3; logical properties only. */
+  *, *::before, *::after { box-sizing: border-box; }
+  body { margin: 0; background: var(--sand); color: var(--ink); font: var(--weight-text) var(--step-0)/var(--lh-text) var(--font-text); -webkit-font-smoothing: antialiased; }
+  img { display: block; max-inline-size: 100%; }
+  .wrap { inline-size: min(100% - 2 * var(--gutter), var(--container)); margin-inline: auto; }
+  h1, h2, h3 { margin: 0; font-family: var(--font-display); font-weight: 400; letter-spacing: var(--tracking-display); text-wrap: balance; }
+  p { margin: 0; text-wrap: pretty; }
+  :focus-visible { outline: none; box-shadow: var(--focus-ring); border-radius: var(--r-sm); }
+  .label { font: var(--weight-bold) var(--step--1)/var(--lh-tight) var(--font-text); color: var(--ink-3); }
+
+  /* ---- header ---- */
+  .hdr { position: absolute; inset-inline: 0; inset-block-start: 0; z-index: 3; color: #fff; }
+  .hdr__bar { display: flex; align-items: center; justify-content: space-between; block-size: 80px; }
+  .hdr nav { display: none; gap: var(--s-4); font: var(--weight-medium) 0.9375rem/1 var(--font-text); }
+  .hdr nav a { color: #fff; text-decoration: none; opacity: 0.92; }
+  .hdr__actions { display: flex; gap: var(--s-1); align-items: center; }
+  .icon-btn { inline-size: var(--tap); block-size: var(--tap); border-radius: var(--r-round); display: grid; place-items: center; color: #fff; background: rgb(10 44 56 / 0.35); border: 1px solid rgb(255 255 255 / 0.35); backdrop-filter: blur(8px); }
+  @media (min-width: 1024px) { .hdr nav { display: flex; } .hdr .menu { display: none; } }
+
+  /* ---- hero ---- */
+  .hero { position: relative; min-block-size: min(100svh, 900px); display: grid; align-items: end; color: #fff; isolation: isolate; overflow: hidden; }
+  .hero img { position: absolute; inset: 0; inline-size: 100%; block-size: 100%; object-fit: cover; object-position: var(--focal-mobile, 60% 50%); z-index: -2; }
+  .hero::after { content: ""; position: absolute; inset: 0; z-index: -1; background: var(--scrim-top), var(--scrim-hero-mobile); }
+  @media (min-width: 1024px) { .hero img { object-position: var(--focal-desktop, 50% 55%); } .hero::after { background: var(--scrim-top), var(--scrim-hero); } }
+  .hero__inner { padding-block: 140px var(--s-10); display: grid; gap: var(--s-3); max-inline-size: 40rem; }
+  .eyebrow { font: var(--weight-medium) var(--step--1)/1 var(--font-text); color: var(--foam); display: flex; gap: var(--s-1); align-items: center; }
+  .eyebrow::before { content: ""; inline-size: 24px; block-size: 1px; background: currentColor; }
+  .hero h1 { font-size: var(--step-5); line-height: var(--lh-display); }
+  .hero .lead { font-size: var(--step-1); line-height: 1.6; color: var(--foam); max-inline-size: var(--measure-lead); }
+  .ctas { display: flex; flex-wrap: wrap; gap: var(--s-2); margin-block-start: var(--s-1); }
+  .hours { position: absolute; inset-block-start: 96px; inset-inline-end: var(--gutter); display: none; gap: var(--s-2); padding: var(--s-1) var(--s-2); border-radius: var(--r-sm); background: rgb(10 44 56 / 0.5); backdrop-filter: blur(10px); font: var(--weight-medium) var(--step--1)/1.4 var(--font-text); color: #fff; border: 1px solid rgb(255 255 255 / 0.18); }
+  .hours b { font-weight: var(--weight-bold); }
+  @media (min-width: 768px) { .hours { display: flex; } }
+
+  /* ---- buttons ---- */
+  .btn { display: inline-flex; align-items: center; justify-content: center; gap: var(--s-1); min-block-size: var(--tap); padding-inline: var(--s-3); border-radius: var(--r-sm); border: 1px solid transparent; font: var(--weight-bold) 1rem/1 var(--font-text); text-decoration: none; cursor: pointer; transition: background var(--t-hover) var(--ease-out), color var(--t-hover) var(--ease-out), border-color var(--t-hover) var(--ease-out), transform var(--t-press) var(--ease-out); }
+  .btn:active { transform: scale(0.98); }
+  .btn--book { background: var(--sun); color: var(--ink); }
+  .btn--book:hover { background: var(--sun-strong); }
+  .btn--primary { background: var(--ocean); color: #fff; }
+  .btn--primary:hover { background: var(--ocean-deep); }
+  .btn--outline { border-color: var(--line-strong); color: var(--ocean); background: transparent; }
+  .btn--outline:hover { border-color: var(--ocean); background: var(--ocean-tint); }
+  .btn--on-dark { border-color: rgb(255 255 255 / 0.6); color: #fff; background: rgb(255 255 255 / 0.04); }
+  .btn--on-dark:hover { background: rgb(255 255 255 / 0.14); border-color: #fff; }
+  .btn--lg { min-block-size: 56px; padding-inline: var(--s-4); font-size: 1.0625rem; }
+  .link { color: var(--ocean); font-weight: var(--weight-medium); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.3em; text-decoration-color: rgb(14 76 94 / 0.45); transition: text-decoration-color var(--t-hover) var(--ease-out); }
+  .link:hover { text-decoration-color: currentColor; }
+  .link--arrow { display: inline-flex; gap: 6px; align-items: center; text-decoration: none; font-weight: var(--weight-bold); }
+  .link--arrow svg { transition: transform var(--t-hover) var(--ease-out); transform: scaleX(-1); }
+  .link--arrow:hover svg { transform: scaleX(-1) translateX(3px); }
+  .ico { inline-size: 20px; block-size: 20px; flex: none; }
+
+  /* ---- sections ---- */
+  .sec { padding-block: var(--section); }
+  .sec--tint { background: var(--paper); border-block: 1px solid var(--line); }
+  .sec__head { display: grid; gap: var(--s-2); margin-block-end: var(--stack); max-inline-size: 44rem; }
+  .sec__head h2 { font-size: var(--step-3); line-height: var(--lh-heading); }
+  .sec__head p { color: var(--ink-2); font-size: var(--step-1); line-height: 1.6; }
+  .note { font-size: var(--step--1); color: var(--ink-3); }
+
+  /* ---- experience card ---- */
+  .cards { display: grid; gap: var(--s-4); grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
+  .card { display: grid; gap: var(--s-2); align-content: start; position: relative; }
+  .card__media { aspect-ratio: 4 / 5; border-radius: var(--r-md); overflow: hidden; background: var(--ocean-tint); }
+  .card__media img { inline-size: 100%; block-size: 100%; object-fit: cover; object-position: var(--focal, 50% 40%); transition: transform var(--t-image) var(--ease-out); }
+  .card:hover .card__media img { transform: scale(1.03); }
+  .card h3 { font-size: var(--step-2); line-height: var(--lh-heading); }
+  .card h3 a { color: inherit; text-decoration: none; }
+  .card h3 a::after { content: ""; position: absolute; inset: 0; }
+  .card p { color: var(--ink-2); font-size: var(--step-0); max-inline-size: var(--measure); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .facts { display: grid; grid-template-columns: repeat(3, auto); justify-content: start; gap: var(--s-1) var(--s-3); padding-block: var(--s-2); border-block: 1px solid var(--line); margin: 0; }
+  .fact { display: grid; gap: 2px; }
+  .fact dt { display: flex; align-items: center; gap: 6px; font: var(--weight-medium) var(--step--1)/1.3 var(--font-text); color: var(--ink-3); }
+  .fact dt svg { inline-size: 16px; block-size: 16px; color: var(--ocean); }
+  .fact dd { margin: 0; font: var(--weight-bold) var(--step-0)/1.3 var(--font-text); color: var(--ink); }
+  .card__foot { display: flex; align-items: center; justify-content: space-between; gap: var(--s-2); position: relative; z-index: 1; }
+
+  /* ---- sticky mobile CTA ---- */
+  .bookbar { display: flex; align-items: center; justify-content: space-between; gap: var(--s-2); padding: var(--s-2) var(--gutter) calc(var(--s-2) + env(safe-area-inset-bottom)); background: var(--paper); border-radius: var(--r-lg) var(--r-lg) 0 0; box-shadow: var(--e-1), 0 -1px 0 var(--line); }
+  .bookbar__meta { display: grid; gap: 2px; }
+  .bookbar__meta small { font: var(--weight-medium) var(--step--1)/1.3 var(--font-text); color: var(--ink-3); }
+  .bookbar__meta b { font: var(--weight-bold) var(--step-1)/1.2 var(--font-text); }
+  .bookbar--fixed { position: fixed; inset-inline: 0; inset-block-end: 0; z-index: 5; }
+  @media (min-width: 1024px) { .bookbar--fixed { display: none; } }
+  .phone-frame { max-inline-size: 390px; border: 1px solid var(--line); border-radius: var(--r-lg); overflow: hidden; background: var(--sand); }
+  .phone-frame__body { block-size: 120px; display: grid; place-items: center; color: var(--ink-3); font-size: var(--step--1); }
+
+  /* ---- specimen tables ---- */
+  .grid2 { display: grid; gap: var(--s-6); }
+  @media (min-width: 1024px) { .grid2 { grid-template-columns: 1fr 1fr; } }
+  .scale { display: grid; gap: var(--s-3); }
+  .scale div { display: grid; gap: var(--s-0-5); border-block-end: 1px solid var(--line); padding-block-end: var(--s-2); }
+  .swatches { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: var(--s-2); }
+  .sw { border-radius: var(--r-md); overflow: hidden; border: 1px solid var(--line); background: var(--paper); font-size: var(--step--1); }
+  .sw i { display: block; block-size: 72px; }
+  .sw div { padding: var(--s-1) var(--s-2) var(--s-2); line-height: 1.45; }
+  .tbl { inline-size: 100%; border-collapse: collapse; font-size: var(--step--1); direction: ltr; text-align: start; }
+  .tbl th, .tbl td { padding: var(--s-1) var(--s-2); border-block-end: 1px solid var(--line); text-align: start; vertical-align: top; }
+  .tbl th { color: var(--ink-3); font-weight: var(--weight-medium); }
+  .ltr { direction: ltr; text-align: start; }
+  .btn-row { display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: center; }
+  .dark { background: var(--ocean-deep); color: #fff; padding: var(--s-4); border-radius: var(--r-md); }
+  .demo-focus { box-shadow: var(--focus-ring); }
+  .optb { font-family: "Frank Ruhl Libre", serif; font-weight: 400; }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <!-- consistent 24px grid, 1.75 stroke, round caps (Lucide-style geometry) -->
+  <symbol id="i-age" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M5 21a7 7 0 0 1 14 0"/></symbol>
+  <symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+  <symbol id="i-ticket" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9a3 3 0 0 0 0 6v3a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1v-3a3 3 0 0 0 0-6V6a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1z"/><path d="M13 5v2M13 17v2M13 11v2"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"><path d="M4 8h16M4 16h16"/></symbol>
+  <symbol id="i-a11y" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"><circle cx="12" cy="4.5" r="1.8"/><path d="M5 8.5l7 1.5 7-1.5M12 10v4.5l-3 6M12 14.5l3 6"/></symbol>
+</svg>
+
+<!-- 1. HOME HERO -->
+<header class="hdr">
+  <div class="wrap hdr__bar">
+    <img src="img/logo.png" alt="ריף הדולפינים אילת" width="52" height="45">
+    <nav aria-label="ניווט ראשי"><a href="#">חוויית הביקור בריף</a><a href="#">צלילה היכרות בריף הדולפינים</a><a href="#">שנירקול בריף הדולפינים</a><a href="#">סתלבט על המים</a><a href="#">לאכול בריף</a></nav>
+    <div class="hdr__actions">
+      <a class="btn btn--book" href="#">להזמנה</a>
+      <span class="icon-btn" aria-hidden="true"><svg class="ico"><use href="#i-a11y"/></svg></span>
+      <span class="icon-btn menu" aria-hidden="true"><svg class="ico"><use href="#i-menu"/></svg></span>
+    </div>
+  </div>
+</header>
+<section class="hero" style="--focal-desktop: 50% 62%; --focal-mobile: 58% 55%; --scrim-x: 100%">
+  <img src="img/hero-reef.jpg" alt="הנוף מתחת למים" width="2000" height="1500">
+  <div class="hours" dir="rtl"><span>שני - חמישי <b>09:00-16:30</b></span><span>שישי ושבת <b>09:00-17:00</b></span></div>
+  <div class="wrap">
+    <div class="hero__inner">
+      <span class="eyebrow">ריף הדולפינים באילת</span>
+      <h1>ריף הדולפינים - חלום של מציאות</h1>
+      <p class="lead">ריף הדולפינים באילת – אתר ייחודי על חוף ים סוף, לצפות בדולפינים בבית גידולם הטבעי, לשחות ולצלול לצידם, ולבלות בבריכות הסתלבט, במסעדת החוף ובאחד החופים היפים בישראל.</p>
+      <div class="ctas"><a class="btn btn--book btn--lg" href="#">להזמנה</a><a class="btn btn--on-dark btn--lg" href="#">בואו נתחיל</a></div>
+    </div>
+  </div>
+</section>
+
+<!-- 2. EXPERIENCE CARD -->
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head">
+      <span class="label ltr">Experience card · 4:5 image · facts row (price / age / duration) · one CTA + one link</span>
+      <h2>החוויות בריף הדולפינים</h2>
+    </div>
+    <div class="cards">
+      <article class="card">
+        <div class="card__media"><img src="img/card-snorkel.jpg" alt="שנירקול בריף הדולפינים, תמונה של שלושה אנשים מחזיקים ידיים וצפים על פני המים." width="900" height="1082" style="--focal: 50% 35%"></div>
+        <h3><a href="#">שנירקול בריף הדולפינים</a></h3>
+        <dl class="facts">
+          <div class="fact"><dt><svg><use href="#i-ticket"/></svg>מחיר</dt><dd>החל מ-265 ₪</dd></div>
+          <div class="fact"><dt><svg><use href="#i-age"/></svg>גיל</dt><dd>מגיל 10</dd></div>
+          <div class="fact"><dt><svg><use href="#i-clock"/></svg>משך</dt><dd>כ-25 דקות במים</dd></div>
+        </dl>
+        <p>לשנרקל בסביבתם הטבעית של הדולפינים הוא חלום שרבים נושאים בליבם, ובריף הדולפינים הוא יכול להפוך למציאות…</p>
+        <div class="card__foot"><a class="link link--arrow" href="#">לפרטים <svg class="ico"><use href="#i-arrow"/></svg></a><a class="btn btn--book" href="#">להזמנה</a></div>
+      </article>
+      <div style="display:grid;gap:var(--s-2);align-content:start">
+        <span class="label ltr">Why</span>
+        <p class="note ltr" style="max-inline-size:44ch">Facts become a labelled definition list in body ink (not pale chips). Price moves off the photo, so the image stays clean. Hover = slow 3% image zoom only; the card does not lift. The title is the only display-font element. The excerpt is clamped to 2 lines.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 3. BUTTONS & LINKS -->
+<section class="sec sec--tint">
+  <div class="wrap grid2">
+    <div style="display:grid;gap:var(--s-3)">
+      <span class="label ltr">Buttons: 48px min height (56 large), 8px radius, one style per role</span>
+      <div class="btn-row"><a class="btn btn--book btn--lg" href="#">להזמנה</a><a class="btn btn--book" href="#">להזמנה</a><span class="note ltr">Booking only (sun)</span></div>
+      <div class="btn-row"><a class="btn btn--primary" href="#">עוד...</a><a class="btn btn--outline" href="#">מפה להתמצאות באתר</a><span class="note ltr">Primary / outline (ocean)</span></div>
+      <div class="btn-row"><a class="link" href="#">מדיניות הפרטיות</a><a class="link link--arrow" href="#">לפרטים <svg class="ico"><use href="#i-arrow"/></svg></a><span class="note ltr">Inline link / arrow link (arrow mirrors in RTL)</span></div>
+      <div class="btn-row"><a class="btn btn--primary demo-focus" href="#">עוד...</a><span class="note ltr">Focus ring: 2px paper + 2px ink + 3px sun halo (visible on photo, light and dark)</span></div>
+    </div>
+    <div class="dark" style="display:grid;gap:var(--s-3)">
+      <span class="label ltr" style="color:var(--foam)">On dark / on photo</span>
+      <div class="btn-row"><a class="btn btn--book btn--lg" href="#">להזמנה</a><a class="btn btn--on-dark btn--lg" href="#">בואו נתחיל</a></div>
+      <p style="color:var(--foam)">לתשומת לבכם: לטובת חווית הביקור שלכם ורווחת השוהים באתר, אנו מגבילים את כמות המבקרים.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 4. STICKY MOBILE CTA -->
+<section class="sec">
+  <div class="wrap grid2">
+    <div style="display:grid;gap:var(--s-2);align-content:start">
+      <span class="label ltr">Sticky mobile "Book now" bar (shown < 1024px)</span>
+      <p class="note ltr" style="max-inline-size:52ch">Paper surface with 20px top radius, soft upward shadow, safe-area padding. Context line plus a "from" price in the text font (tabular, bold), not the display serif. Height 80px; the CTA is 48px. It is pinned to this page's bottom on phones.</p>
+    </div>
+    <div class="phone-frame">
+      <div class="phone-frame__body ltr">page content</div>
+      <div class="bookbar"><div class="bookbar__meta"><small>צלילת היכרות בריף הדולפינים</small><b>החל מ-355 ₪</b></div><a class="btn btn--book" href="#">להזמנה</a></div>
+    </div>
+  </div>
+</section>
+
+<!-- 5. TYPE + COLOUR -->
+<section class="sec sec--tint">
+  <div class="wrap grid2">
+    <div class="scale">
+      <span class="label ltr">Type scale - Bellefair (display, 400) + Heebo (text, 300-700). 1.25 → 1.333 modular, fluid 390 → 1440</span>
+      <div><span class="label ltr">step-5 · display 44 → 76 / 1.12</span><h1 style="font-size:var(--step-5);line-height:var(--lh-display)">חלום של מציאות</h1></div>
+      <div><span class="label ltr">step-4 · h1 36 → 56</span><h1 style="font-size:var(--step-4);line-height:var(--lh-display)">צלילת היכרות בריף הדולפינים</h1></div>
+      <div><span class="label ltr">step-3 · h2 30 → 42</span><h2 style="font-size:var(--step-3);line-height:var(--lh-heading)">מחירי כניסה ומה כלול במחיר</h2></div>
+      <div><span class="label ltr">step-2 · h3 23 → 30</span><h3 style="font-size:var(--step-2);line-height:var(--lh-heading)">האם צריך להביא ציוד?</h3></div>
+      <div><span class="label ltr">step-1 · lead 19 → 22 / 1.6 (Heebo 400)</span><p style="font-size:var(--step-1);line-height:1.6;max-inline-size:var(--measure-lead)">מחפשים "אי של שלווה בים של סערות"? ניקוי ראש, התרגעות, הנאה ו"טעינה מחדש של המצברים"?</p></div>
+      <div><span class="label ltr">step-0 · body 17 → 18 / 1.7 · max 62ch</span><p style="max-inline-size:var(--measure)">כל ציוד הצלילה מסופק ע"י מועדון הצלילה. כל שעליכם להביא הוא בגד ים, מגבת וכפכפים/נעלי חוף להליכה נוחה עד הגעה לקו המים.</p></div>
+      <div><span class="label ltr">step--1 · meta 14 → 15 (Heebo 500)</span><p style="font-size:var(--step--1);color:var(--ink-3)">ילדים עד גיל 3 כניסה חינם.</p></div>
+      <div><span class="label ltr">Option B display (alternative): Frank Ruhl Libre 400 instead of Bellefair</span><h2 class="optb" style="font-size:var(--step-3);line-height:var(--lh-heading)">ריף הדולפינים - חלום של מציאות</h2></div>
+    </div>
+    <div style="display:grid;gap:var(--s-4);align-content:start">
+      <span class="label ltr">Colour roles (contrast on sand unless noted)</span>
+      <div class="swatches ltr">
+        <div class="sw"><i style="background:var(--ink)"></i><div><b>ink</b> #13232C<br>text · 14.4:1</div></div>
+        <div class="sw"><i style="background:var(--ink-2)"></i><div><b>ink-2</b> #45555E<br>secondary · 6.9:1</div></div>
+        <div class="sw"><i style="background:var(--ink-3)"></i><div><b>ink-3</b> #5B6B73<br>meta · 5.0:1</div></div>
+        <div class="sw"><i style="background:var(--ocean)"></i><div><b>ocean</b> #0E4C5E<br>primary · 8.5:1 · white 9.5:1</div></div>
+        <div class="sw"><i style="background:var(--ocean-deep)"></i><div><b>ocean-deep</b> #0A2C38<br>dark sections · white 14.7:1</div></div>
+        <div class="sw"><i style="background:var(--ocean-tint)"></i><div><b>ocean-tint</b> #E4EEEF<br>tinted surfaces</div></div>
+        <div class="sw"><i style="background:var(--sun)"></i><div><b>sun</b> #F0B85A<br>BOOKING ONLY · ink 9.0:1</div></div>
+        <div class="sw"><i style="background:var(--sand)"></i><div><b>sand</b> #F6F2EB<br>page ground</div></div>
+        <div class="sw"><i style="background:var(--paper)"></i><div><b>paper</b> #FFFDF9<br>surfaces</div></div>
+        <div class="sw"><i style="background:var(--line-strong)"></i><div><b>line-strong</b> #7A878D<br>borders ≥ 3:1</div></div>
+        <div class="sw"><i style="background:var(--error)"></i><div><b>error</b> #B23E26<br>5.7:1</div></div>
+        <div class="sw"><i style="background:var(--success)"></i><div><b>success</b> #2B6E4F<br>6.0:1</div></div>
+      </div>
+      <table class="tbl">
+        <tr><th>Spacing (8pt)</th><td>4 · 8 · 16 · 24 · 32 · 40 · 48 · 64 · 80 · 96 · 128 · 160 - section 96→160, stack 40→64, gutter 20→48</td></tr>
+        <tr><th>Radius</th><td>4 pills · 8 buttons · 12 cards/media · 20 sheets/sticky bar · round icon buttons only</td></tr>
+        <tr><th>Elevation</th><td>e-0 flat (cards = hairline + whitespace) · e-1 sticky header/bar · e-2 dialogs/drawer</td></tr>
+        <tr><th>Motion</th><td>press 120ms · hover 200ms · reveal 560ms · image 900ms · ease-out cubic-bezier(.2,0,0,1) · reveal = 16px translate (no opacity) · stagger 70ms · all 0 with reduced motion</td></tr>
+        <tr><th>Fonts</th><td>Bellefair Hebrew 6 KB + Heebo Hebrew 11 KB (latin subsets load only when Latin glyphs appear) - total Hebrew payload 17 KB vs 26 KB today</td></tr>
+      </table>
+    </div>
+  </div>
+</section>
+
+<div class="bookbar bookbar--fixed"><div class="bookbar__meta"><small>שנירקול · צלילה · סתלבט</small><b>החל מ-190 ₪</b></div><a class="btn btn--book" href="#">להזמנה</a></div>
+</body>
+</html>

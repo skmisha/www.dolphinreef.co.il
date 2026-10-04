@@ -1,0 +1,105 @@
+/* =====================================================================
+   Dolphin Reef - PROPOSED design tokens (Polish Phase 2, awaiting approval)
+   Not yet applied to the app. Phase 3 maps these onto styles/tokens.css.
+   Direction: Aman-like restraint + Soneva-like full-bleed imagery + Monterey-like approachable facts.
+   ===================================================================== */
+:root {
+  /* ---------- Colour: 1 primary, 1 accent, neutrals, semantic ---------- */
+  /* neutrals */
+  --ink: #13232c;          /* text            - 14.4:1 on sand, 15.9:1 on paper */
+  --ink-2: #45555e;        /* secondary text  -  6.9:1 on sand */
+  --ink-3: #5b6b73;        /* meta / captions -  5.0:1 on sand, 4.7:1 on ocean-tint */
+  --sand: #f6f2eb;         /* page ground (warm, Aman/Soneva-like) */
+  --paper: #fffdf9;        /* raised surfaces (cards, sheets) */
+  --line: #e4ded3;         /* decorative hairline */
+  --line-strong: #7a878d;  /* component boundaries (>= 3:1, WCAG 1.4.11) */
+  /* primary: one ocean blue does links, secondary actions, icons, dark sections */
+  --ocean: #0e4c5e;        /* 8.5:1 on sand; white on ocean 9.5:1 */
+  --ocean-deep: #0a2c38;   /* dark sections, footer, hero scrim base; white 14.7:1 */
+  --ocean-tint: #e4eeef;   /* tinted surfaces, fact pills */
+  --foam: #d8e8ea;         /* secondary text on dark: 11.6:1 on ocean-deep */
+  /* accent: sun-gold, reserved for BOOKING only */
+  --sun: #f0b85a;          /* ink on sun 9.0:1 */
+  --sun-strong: #e0a23e;   /* hover/pressed: ink 7.2:1 */
+  /* semantic */
+  --error: #b23e26;        /* 5.7:1 on paper */
+  --success: #2b6e4f;      /* 6.0:1 */
+  --warning: #8a5a00;      /* 5.8:1 */
+  --info: var(--ocean);
+  /* focus: 2px ink ring + 4px sun halo, visible on photo, light and dark */
+  --focus-ring: 0 0 0 2px var(--paper), 0 0 0 4px var(--ocean-deep), 0 0 0 7px rgb(240 184 90 / 0.9);
+
+  /* hero scrim: local, anchored to the text corner (inline-start/bottom), not full-frame */
+  --scrim-hero: radial-gradient(140% 110% at var(--scrim-x, 100%) 100%, rgb(10 44 56 / 0.86) 0%, rgb(10 44 56 / 0.7) 40%, rgb(10 44 56 / 0.25) 70%, rgb(10 44 56 / 0) 88%);
+  --scrim-hero-mobile: linear-gradient(180deg, rgb(10 44 56 / 0) 22%, rgb(10 44 56 / 0.72) 46%, rgb(10 44 56 / 0.9) 100%);
+  --scrim-top: linear-gradient(180deg, rgb(10 44 56 / 0.45), rgb(10 44 56 / 0) 140px); /* keeps the header legible */
+
+  /* ---------- Typography ---------- */
+  /* Display: Bellefair - high-contrast Hebrew serif, single 400 weight, 6 KB Hebrew subset.
+     Text:    Heebo - highly legible Hebrew sans, variable 300-700, 11 KB Hebrew subset. */
+  --font-display: "Bellefair", "Frank Ruhl Libre", "David", "Times New Roman", serif;
+  --font-text: "Heebo", "Assistant", "Arial Hebrew", "Segoe UI", Arial, sans-serif;
+  /* Modular scale: 1.25 (major third) at 390px -> 1.333 (perfect fourth) at 1440px, fluid between. */
+  --step--1: clamp(0.875rem, 0.86rem + 0.06vw, 0.9375rem);   /* 14 -> 15  meta, captions */
+  --step-0:  clamp(1.0625rem, 1.04rem + 0.1vw, 1.125rem);    /* 17 -> 18  body */
+  --step-1:  clamp(1.1875rem, 1.13rem + 0.24vw, 1.375rem);   /* 19 -> 22  lead, card title (text font) */
+  --step-2:  clamp(1.4375rem, 1.31rem + 0.55vw, 1.875rem);   /* 23 -> 30  h3 */
+  --step-3:  clamp(1.875rem, 1.62rem + 1.07vw, 2.625rem);    /* 30 -> 42  h2 */
+  --step-4:  clamp(2.25rem, 1.84rem + 1.71vw, 3.5rem);       /* 36 -> 56  h1 (inner pages) */
+  --step-5:  clamp(2.75rem, 2.09rem + 2.74vw, 4.75rem);      /* 44 -> 76  home display */
+  --lh-display: 1.12;   /* Hebrew ascenders/descenders need more than Latin 1.0 */
+  --lh-heading: 1.25;
+  --lh-text: 1.7;       /* Hebrew body (no nikud) */
+  --lh-tight: 1.4;      /* UI labels, buttons */
+  --tracking-display: -0.01em;  /* Bellefair is airy; a hair tighter at large sizes */
+  --weight-text: 400;
+  --weight-medium: 500;
+  --weight-bold: 600;           /* text-face emphasis; display stays 400 */
+  --measure: 62ch;              /* 45-75 char rule: Hebrew body ~ 55-65 chars */
+  --measure-lead: 48ch;
+
+  /* ---------- Spacing: 8pt grid (4 = half-step for icon/label gaps only) ---------- */
+  --s-0-5: 4px;
+  --s-1: 8px;
+  --s-2: 16px;
+  --s-3: 24px;
+  --s-4: 32px;
+  --s-5: 40px;
+  --s-6: 48px;
+  --s-8: 64px;
+  --s-10: 80px;
+  --s-12: 96px;
+  --s-16: 128px;
+  --s-20: 160px;
+  --gutter: clamp(20px, 2.2vw + 12px, 48px);           /* 20 -> 48 */
+  --section: clamp(96px, 6vw + 72px, 160px);           /* between chapters */
+  --stack: clamp(40px, 2vw + 32px, 64px);              /* between blocks inside a chapter */
+  --container: 1240px;
+  --tap: 48px;                                         /* >= 44px rule, with margin */
+
+  /* ---------- Radius: architectural, slightly softened for approachability ---------- */
+  --r-xs: 4px;    /* fact pills, inputs */
+  --r-sm: 8px;    /* buttons, small images */
+  --r-md: 12px;   /* cards, media */
+  --r-lg: 20px;   /* sheets, dialogs, sticky bar top corners */
+  --r-round: 999px; /* icon buttons only */
+
+  /* ---------- Elevation: flat by default; shadow only for things that float ---------- */
+  --e-0: none;                                                   /* cards: hairline + whitespace */
+  --e-1: 0 1px 2px rgb(10 44 56 / 0.06), 0 6px 20px -12px rgb(10 44 56 / 0.25);   /* sticky header/bar */
+  --e-2: 0 2px 6px rgb(10 44 56 / 0.08), 0 24px 48px -20px rgb(10 44 56 / 0.35);  /* dialogs, drawer, menus */
+
+  /* ---------- Motion ---------- */
+  --t-press: 120ms;
+  --t-hover: 200ms;
+  --t-reveal: 560ms;
+  --t-image: 900ms;
+  --ease-out: cubic-bezier(0.2, 0, 0, 1);        /* standard: hovers, reveals */
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);   /* sheets, drawer */
+  --reveal-shift: 16px;                          /* translate only (no opacity) so text contrast holds every frame */
+  --stagger: 70ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --t-press: 0ms; --t-hover: 0ms; --t-reveal: 0ms; --t-image: 0ms; --reveal-shift: 0px; --stagger: 0ms; }
+}
