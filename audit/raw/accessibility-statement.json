@@ -1,0 +1,792 @@
+{
+  "url": "https://www.dolphinreef.co.il/accessibility-statement",
+  "title": "הצהרת נגישות – ריף הדולפינים אילת",
+  "description": "הצהרת הנגישות של ריף הדולפינים אילת: רמת הנגישות באתר, התקנים שיושמו (WCAG 2.0 AA ות\"י 5568), הסדרי הנגישות ודרכי הפנייה לרכז הנגישות.",
+  "ogTitle": "הצהרת נגישות – ריף הדולפינים אילת",
+  "ogDescription": "הצהרת הנגישות של ריף הדולפינים אילת: רמת הנגישות באתר, התקנים שיושמו (WCAG 2.0 AA ות\"י 5568), הסדרי הנגישות ודרכי הפנייה לרכז הנגישות.",
+  "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
+  "canonical": "https://www.dolphinreef.co.il/accessibility-statement",
+  "hreflang": [
+    {
+      "lang": "x-default",
+      "href": "https://www.dolphinreef.co.il/accessibility-statement"
+    },
+    {
+      "lang": "en-us",
+      "href": "https://www.dolphinreef.co.il/en/accessibility-statement"
+    },
+    {
+      "lang": "he-il",
+      "href": "https://www.dolphinreef.co.il/accessibility-statement"
+    }
+  ],
+  "lang": "he",
+  "dir": "",
+  "h1": [
+    "הצהרת נגישות"
+  ],
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "הצהרת נגישות",
+      "y": 591,
+      "x": 191,
+      "region": "main",
+      "fontSize": "55px"
+    },
+    {
+      "tag": "span",
+      "text": "הצהרת נגישות",
+      "y": 596,
+      "x": 625,
+      "region": "main",
+      "fontSize": "55px"
+    },
+    {
+      "tag": "p",
+      "text": "הצהרת הנגישות עודכנה בתאריך 26/12/2024",
+      "y": 668,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "הצהרת הנגישות עודכנה בתאריך 26/12/2024",
+      "y": 671,
+      "x": 935,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "p",
+      "text": "אנחנו בריף הדולפינים פועלים להנגשת אתר האינטרנט שלנו dolpinreef.co.il לאנשים עם מוגבלות.",
+      "y": 693,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "אנחנו בריף הדולפינים פועלים להנגשת אתר האינטרנט שלנו dolpinreef.co.il לאנשים עם מוגבלות.",
+      "y": 696,
+      "x": 566,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "h2",
+      "text": "מהות אתר נגיש",
+      "y": 719,
+      "x": 191,
+      "region": "main",
+      "fontSize": "22.5006px"
+    },
+    {
+      "tag": "span",
+      "text": "מהות אתר נגיש",
+      "y": 722,
+      "x": 1092,
+      "region": "main",
+      "fontSize": "22.5006px"
+    },
+    {
+      "tag": "p",
+      "text": "אתר אינטרנט נגיש, הינו אתר המאפשר לאדם עם מוגבלות, לגלוש באותה רמת יעילות והנאה כמו גולשים אחרים, תוך שימוש ביכולות המערכת עליה הוא פועל ובאמצעות טכנולוגיות מסייעות לנגישות.",
+      "y": 750,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "אתר אינטרנט נגיש, הינו אתר המאפשר לאדם עם מוגבלות, לגלוש באותה רמת יעילות והנאה כמו גולשים אחרים, תוך שימוש ביכולות המערכת עליה הוא פועל ובאמצעות טכנולוגיות מסייעות לנגישות.",
+      "y": 753,
+      "x": 203,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "h2",
+      "text": "ביצוע התאמות נגישות באתר האינטרנט",
+      "y": 801,
+      "x": 191,
+      "region": "main",
+      "fontSize": "22.5006px"
+    },
+    {
+      "tag": "span",
+      "text": "ביצוע התאמות נגישות באתר האינטרנט",
+      "y": 804,
+      "x": 855,
+      "region": "main",
+      "fontSize": "22.5006px"
+    },
+    {
+      "tag": "p",
+      "text": "התאמנו את האתר בהתאם לסימן ג': שירותי האינטרנט בתקנות שוויון זכויות לאנשים עם מוגבלות (התאמות נגישות לשירות) התשע\"ג 2013, לתקן הישראלי ת\"י 5568 המבוסס על הנחיות [WCAG 2.0 , האתר הונגש לרמה AA, ובכפוף לשינויים והתאמות שבוצעו במסמך התקן הישראלי. תכני האתר הותאמו לעבודה עם טכנולוגיות מסייעות כגון קורא מסך ושימוש במקלדת.",
+      "y": 832,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "התאמנו את האתר בהתאם לסימן ג': שירותי האינטרנט בתקנות שוויון זכויות לאנשים עם מוגבלות (התאמות נגישות לשירות) התשע\"ג 2013, לתקן הישראלי ת\"י 5568 המבוסס על הנחיות [WCAG 2.0 , האתר הונגש לרמה AA, ובכפוף לשינויים והתאמות שבוצעו במסמך התקן הישראלי. תכני האתר הותאמו לעבודה עם טכנולוגיות מסייעות כגון קורא מסך ושימוש במקלדת.",
+      "y": 835,
+      "x": 223,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "p",
+      "text": "הרצנו את אשף הנגישות של Wix ותיקנו את כל הבעיות שהוא מצא",
+      "y": 908,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "הרצנו את אשף הנגישות של Wix ותיקנו את כל הבעיות שהוא מצא",
+      "y": 911,
+      "x": 765,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "p",
+      "text": "הגדרנו את שפת האתר",
+      "y": 934,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "הגדרנו את שפת האתר",
+      "y": 937,
+      "x": 1059,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "p",
+      "text": "דאגנו לסדר של התכנים בכל עמודי האתר",
+      "y": 959,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "דאגנו לסדר של התכנים בכל עמודי האתר",
+      "y": 962,
+      "x": 931,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "p",
+      "text": "הגדרנו מבני כותרות ברורים כולל סמנטיקה בכל עמודי האתר",
+      "y": 984,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "הגדרנו מבני כותרות ברורים כולל סמנטיקה בכל עמודי האתר",
+      "y": 987,
+      "x": 799,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "p",
+      "text": "הוספנו טקסט חלופי לתמונות",
+      "y": 1009,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "הוספנו טקסט חלופי לתמונות",
+      "y": 1012,
+      "x": 1017,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "p",
+      "text": "השתמשנו בשילובי צבעים ביחס הניגודיות הנדרש",
+      "y": 1035,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "השתמשנו בשילובי צבעים ביחס הניגודיות הנדרש",
+      "y": 1038,
+      "x": 881,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "p",
+      "text": "הפחתנו את התנועה המפריעה באתר",
+      "y": 1060,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "הפחתנו את התנועה המפריעה באתר",
+      "y": 1063,
+      "x": 962,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "p",
+      "text": "דאגנו להנגיש את הסרטונים, הקול והקבצים באתר",
+      "y": 1085,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "דאגנו להנגיש את הסרטונים, הקול והקבצים באתר",
+      "y": 1088,
+      "x": 873,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "h2",
+      "text": "הסדרי נגישות בארגון",
+      "y": 1111,
+      "x": 191,
+      "region": "main",
+      "fontSize": "22.5006px"
+    },
+    {
+      "tag": "span",
+      "text": "הסדרי נגישות בארגון",
+      "y": 1114,
+      "x": 1039,
+      "region": "main",
+      "fontSize": "22.5006px"
+    },
+    {
+      "tag": "p",
+      "text": "על-מנת להכיר את הסדרי הנגישות הקיימים בארגון לחצו כאן",
+      "y": 1142,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "על-מנת להכיר את הסדרי הנגישות הקיימים בארגון לחצו כאן",
+      "y": 1145,
+      "x": 834,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "לחצו כאן",
+      "y": 1145,
+      "x": 834,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "a",
+      "text": "לחצו כאן",
+      "href": "https://www.dolphinreef.co.il/accessibility",
+      "y": 1145,
+      "x": 834,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "h2",
+      "text": "דרכי פניה לבקשות, תקלות נגישות והצעות לשיפור:",
+      "y": 1168,
+      "x": 191,
+      "region": "main",
+      "fontSize": "22.5006px"
+    },
+    {
+      "tag": "span",
+      "text": "דרכי פניה לבקשות, תקלות נגישות והצעות לשיפור:",
+      "y": 1171,
+      "x": 740,
+      "region": "main",
+      "fontSize": "22.5006px"
+    },
+    {
+      "tag": "p",
+      "text": "במידה ומצאתם באתר האינטרנט בעיה בנושא הנגישות או שאתם זקוקים עזרה, אתם מוזמנים לפנות אלינו דרך רכז/ת הנגישות של הארגון: רן שאולי - ran@dolphinreef.co.il עופרה אביבי - ofra@dolphinreef.co.il",
+      "y": 1199,
+      "x": 191,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "במידה ומצאתם באתר האינטרנט בעיה בנושא הנגישות או שאתם זקוקים עזרה, אתם מוזמנים לפנות אלינו דרך רכז/ת הנגישות של הארגון: רן שאולי - ran@dolphinreef.co.il עופרה אביבי - ofra@dolphinreef.co.il",
+      "y": 1202,
+      "x": 305,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "ran@dolphinreef.co.il",
+      "y": 1227,
+      "x": 1016,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "a",
+      "text": "ran@dolphinreef.co.il",
+      "href": "mailto:ran@dolphinreef.co.il?subject=%D7%A4%D7%A0%D7%99%D7%99%D7%94%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA",
+      "y": 1227,
+      "x": 1016,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "span",
+      "text": "ofra@dolphinreef.co.il",
+      "y": 1253,
+      "x": 982,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "a",
+      "text": "ofra@dolphinreef.co.il",
+      "href": "mailto:ofra@dolphinreef.co.il?subject=%D7%A4%D7%A0%D7%99%D7%99%D7%94%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA",
+      "y": 1253,
+      "x": 982,
+      "region": "main",
+      "fontSize": "16.8752px"
+    },
+    {
+      "tag": "a",
+      "text": "מדיניות פרטיות",
+      "href": "https://www.dolphinreef.co.il/privacypolicy",
+      "y": 1375,
+      "x": 1080,
+      "region": "footer",
+      "fontSize": "10px"
+    },
+    {
+      "tag": "a",
+      "text": "טל: 08-6300111",
+      "href": "tel:+97286300111",
+      "y": 1380,
+      "x": 600,
+      "region": "footer",
+      "fontSize": "10px"
+    },
+    {
+      "tag": "a",
+      "text": "info@dolphinreef.co.il",
+      "href": "mailto:info@dolphinreef.co.il",
+      "y": 1380,
+      "x": 120,
+      "region": "footer",
+      "fontSize": "10px"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.dolphinreef.co.il/",
+      "text": "",
+      "target": "_self",
+      "region": "header"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/accessibility",
+      "text": "לחצו כאן",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "mailto:ran@dolphinreef.co.il?subject=%D7%A4%D7%A0%D7%99%D7%99%D7%94%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA",
+      "text": "ran@dolphinreef.co.il",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "mailto:ofra@dolphinreef.co.il?subject=%D7%A4%D7%A0%D7%99%D7%99%D7%94%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA",
+      "text": "ofra@dolphinreef.co.il",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://api.whatsapp.com/send/?phone=972526021017&text&type=phone_number&app_absent=0",
+      "text": "WhatsApp",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.instagram.com/dolphin_reef_eilat/",
+      "text": "Instagram",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.facebook.com/dolphinreefeilat",
+      "text": "Facebook",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.tiktok.com/@dolphin_reef_eilat",
+      "text": "TikTok",
+      "target": "_blank",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/privacypolicy",
+      "text": "מדיניות פרטיות",
+      "target": "_self",
+      "region": "footer"
+    },
+    {
+      "href": "tel:+97286300111",
+      "text": "טל: 08-6300111",
+      "target": "",
+      "region": "footer"
+    },
+    {
+      "href": "mailto:info@dolphinreef.co.il",
+      "text": "info@dolphinreef.co.il",
+      "target": "_self",
+      "region": "footer"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/our-vision",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/experience-thereef",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/diving",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/swimming",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/stalbet",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/stalbetcoffe",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/dining-at-thereef",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/dining-at-thereef/menu-bar",
+      "text": "תפריט בר חוף",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/events",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/shop",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/supportive-experience",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/accessibility",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/accessibility-statement",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.dolphinreef.co.il/map",
+      "text": "",
+      "target": "_self",
+      "region": "main"
+    },
+    {
+      "href": "https://www.instagram.com/dolphin_reef_eilat/",
+      "text": "",
+      "target": "_blank",
+      "region": "main"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
+      "alt": "Dolphin Reef Logo",
+      "naturalWidth": 70,
+      "naturalHeight": 60,
+      "renderedWidth": 69,
+      "renderedHeight": 59,
+      "y": 5
+    },
+    {
+      "src": "https://static.wixstatic.com/media/166e60_135219447c154b2994104c71d37a6519~mv2.png/v1/fill/w_1440,h_499,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/divers.png",
+      "alt": "צלילת היכרות בנוף התת-מימי של ריף הדולפינים",
+      "naturalWidth": 1440,
+      "naturalHeight": 499,
+      "renderedWidth": 1440,
+      "renderedHeight": 499,
+      "y": 70
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
+      "alt": "WhatsApp",
+      "naturalWidth": 34,
+      "naturalHeight": 34,
+      "renderedWidth": 34,
+      "renderedHeight": 34,
+      "y": 1326
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+      "alt": "Instagram",
+      "naturalWidth": 34,
+      "naturalHeight": 34,
+      "renderedWidth": 34,
+      "renderedHeight": 34,
+      "y": 1326
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
+      "alt": "Facebook",
+      "naturalWidth": 34,
+      "naturalHeight": 34,
+      "renderedWidth": 34,
+      "renderedHeight": 34,
+      "y": 1326
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
+      "alt": "TikTok",
+      "naturalWidth": 34,
+      "naturalHeight": 34,
+      "renderedWidth": 34,
+      "renderedHeight": 34,
+      "y": 1326
+    }
+  ],
+  "bgImages": [
+    {
+      "containerId": "comp-m55cjmyk",
+      "alignType": "center",
+      "parallaxSpeed": 1.5,
+      "sourceSets": [],
+      "imageData": {
+        "uri": "166e60_135219447c154b2994104c71d37a6519~mv2.png",
+        "width": 2064,
+        "height": 1376,
+        "alt": "צלילת היכרות בנוף התת-מימי של ריף הדולפינים",
+        "name": "divers.png",
+        "decorative": false,
+        "displayMode": "fill",
+        "scrollEffect": "none",
+        "focalPoint": null
+      },
+      "hasAnimation": false,
+      "encoding": "AVIF",
+      "allowFullGIFTransformation": false
+    },
+    {
+      "containerId": "dataItem-mn1qpu9a-comp-m55cjn0m_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 201,
+        "uri": "11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    },
+    {
+      "containerId": "dataItem-m4h5de1p1-comp-m55cjn0m_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 201,
+        "uri": "11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    },
+    {
+      "containerId": "dataItem-m4h5de1q-comp-m55cjn0m_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 201,
+        "uri": "11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    },
+    {
+      "containerId": "dataItem-m4h5l5qq-comp-m55cjn0m_r_comp-m4h5de1l",
+      "displayMode": "fit",
+      "encoding": "AVIF",
+      "imageData": {
+        "width": 201,
+        "height": 200,
+        "uri": "11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
+        "name": "",
+        "displayMode": "fit"
+      }
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "scripts": [
+    "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+    "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+    "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+    "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+    "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js",
+    "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.c6e130bc.bundle.min.js",
+    "https://static.parastorage.com/services/wix-thunderbolt/dist/main.b184884f.bundle.min.js",
+    "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.32731c34.bundle.min.js",
+    "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js"
+  ],
+  "inlineScripts": [
+    "window.viewerModel = {\"fleetConfig\":{\"code\":1,\"type\":\"Rollout\"},\"mode\":{\"debug\":false},\"siteFeaturesConfigs\":{\"seo\":{\"isInSEO\":true},\"sessionManager\":{\"isRunningInDifferentSiteContext\":false}},\"accessTokensUrl\":\"https:\\/\\/www.dolphinreef.co.il\\/_api\\/v1\\/access-tokens\",\"commonConfig\":{\"brand\":\"studio\",\"host\":\"VIEWER\",\"bsi\":\"\",\"consentPolicy\":{},\"consentPolicyHeader\":{},\"siteRevision\":\"3265\",\"renderingFlow\":\"NONE\",\"language\":\"he\",\"locale\":\"he-il\"},\"interactionSampleRatio\":0.01,\"media\":{\"staticMediaUrl\":\"https:\\/\\/static.wixstatic.com\\/media\",\"mediaRootUrl\":\"https:\\/\\/static.wixstatic.com\\/\",\"staticVideoUrl\":\"https:\\/\\/video.wixstatic.com\\/\",\"userDomainMediaPrefixes\":[]},\"requestUrl\":\"https:\\/\\/www.dolphinreef.co.il\\/accessibility-statement\",\"site\":{\"appNameForBiEvents\":\"wix-studio\",\"dc\":\"virginia-usercode\",\"externalBaseUrl\":\"https:\\/\\/www.dolphinreef.co.il\",\"metaSiteId\":\"7a529436-82b7-4a25-87cf-abd4035d4790\",\"sessionId\":\"e4c21437-31b0-4593-aa71-a6cd0085a064\",\"siteRevision\":3265,\"siteType\":\"UGC\"},\"experiments\":{\"specs.thunderbolt.hardenFetchAndXHR\":true,\"specs.thunderbolt.securityExperiments\":true,\"specs.thunderbolt.browserCacheReload\":true}}",
+    "(()=>{\"use strict\";let e,t,r,o;var n={},i={};function l(e){var t=i[e];if(void 0!==t)return t.exports;var r=i[e]={exports:{}};return n[e](r,r.exports,l),r.exports}function a(e){let{context:t,property:r,value:o,enumerable:n=!0}=e,i=e.get,l=e.set;if(!r||void 0===o&&!i&&!l)return Error(\"property and value are required\");let a=t||globalThis,s=a?.[r],u={};if(void 0!==o)u.value=o;else{if(i){let e=c(i);e&&(u.get=e)}if(l){let e=c(l);e&&(u.set=e)}}let p={...u,enumerable:n||!1,configurable:!1};void 0!==o&&(p.writable=!1);try{Object.defineProperty(a,r,p)}catch(e){return e instanceof TypeError?s:e}return s}function c(e,t){return\"function\"==typeof e?e:e?.async===!0&&\"function\"==typeof e.func?t?async function(t){return e.func(t)}:async function(){return e.func()}:\"function\"==typeof e?.func?e.func:void 0}l.rv=()=>\"1.6.8\",l.ruid=\"bundler=rspack@1.6.8\";try{a({property:\"strictDefine\",value:a})}catch{}try{a({property:\"defineStrictObject\",value:function e(t){let{context:r,property:o,propertiesToExclude:n=[],skipPrototype:i=!1,hardenPrototypePropertiesToExclude:l=[]}=t;if(!o)return Error(\"property is required\");let c=(r||globalThis)[o],p={},f=u(r,o);c&&(\"object\"==typeof c||\"function\"==typeof c)&&Reflect.ownKeys(c).forEach(e=>{if(!n.includes(e)&&!s.includes(e)){let t=u(c,e);if(t&&(t.writable||t.configurable)){let{value:r,get:o,set:n,enumerable:i=!1}=t,l={};void 0!==r?l.value=r:o?l.get=o:n&&(l.set=n);try{let t=a({context:c,property:e,...l,enumerable:i});p[e]=t}catch(r){if(r instanceof TypeError)try{",
+    "(()=>{\"use strict\";var e={},t={};function r(o){var n=t[o];if(void 0!==n)return n.exports;var i=t[o]={exports:{}};return e[o](i,i.exports,r),i.exports}function o(e){let{context:t,property:r,value:o,enumerable:i=!0}=e,c=e.get,a=e.set;if(!r||void 0===o&&!c&&!a)return Error(\"property and value are required\");let l=t||globalThis,s=l?.[r],u={};if(void 0!==o)u.value=o;else{if(c){let e=n(c);e&&(u.get=e)}if(a){let e=n(a);e&&(u.set=e)}}let p={...u,enumerable:i||!1,configurable:!1};void 0!==o&&(p.writable=!1);try{Object.defineProperty(l,r,p)}catch(e){return e instanceof TypeError?s:e}return s}function n(e,t){return\"function\"==typeof e?e:e?.async===!0&&\"function\"==typeof e.func?t?async function(t){return e.func(t)}:async function(){return e.func()}:\"function\"==typeof e?.func?e.func:void 0}r.rv=()=>\"1.6.8\",r.ruid=\"bundler=rspack@1.6.8\";try{o({property:\"strictDefine\",value:o})}catch{}try{o({property:\"defineStrictObject\",value:c})}catch{}try{o({property:\"defineStrictMethod\",value:a})}catch{}var i=[\"toString\",\"toLocaleString\",\"valueOf\",\"constructor\",\"prototype\"];function c(e){let{context:t,property:r,propertiesToExclude:n=[],skipPrototype:a=!1,hardenPrototypePropertiesToExclude:s=[]}=e;if(!r)return Error(\"property is required\");let u=(t||globalThis)[r],p={},f=l(t,r);u&&(\"object\"==typeof u||\"function\"==typeof u)&&Reflect.ownKeys(u).forEach(e=>{if(!n.includes(e)&&!i.includes(e)){let t=l(u,e);if(t&&(t.writable||t.configurable)){let{value:r,get:n,set:i,enumerable:c=!1}=t,a={};void 0!==r?a.value=",
+    "{\"prefetch\":[{\"tag\":\"mpa-prefetch-eager\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":\"/accessibility-statement\"}}]},\"eagerness\":\"eager\"}]}",
+    "{\"data\":{\"site\":{\"metaSiteId\":\"7a529436-82b7-4a25-87cf-abd4035d4790\",\"userId\":\"166e60b2-52f7-45f5-9d19-74c08e727499\",\"siteId\":\"62100e23-a254-41e0-91c7-ad48aac03d66\",\"externalBaseUrl\":\"https:\\/\\/www.dolphinreef.co.il\",\"siteRevision\":3265,\"siteType\":\"UGC\",\"dc\":\"virginia-usercode\",\"isResponsive\":true,\"editorName\":\"Studio\",\"sessionId\":\"e4c21437-31b0-4593-aa71-a6cd0085a064\",\"isSEO\":true,\"appNameForBiEvents\":\"wix-studio\"},\"rollout\":{\"siteAssetsVersionsRollout\":false,\"isDACRollout\":0,\"isTBRollout\":true},\"fleetConfig\":{\"fleetName\":\"thunderbolt-seo-isolated-renderer\",\"type\":\"Rollout\",\"code\":1},\"requestUrl\":\"https:\\/\\/www.dolphinreef.co.il\\/accessibility-statement\",\"isInSEO\":true,\"platformOnSite\":true}}",
+    "(()=>{\"use strict\";var e,r,o,a,t,i,c,n={},d={};function f(e){var r=d[e];if(void 0!==r)return r.exports;var o=d[e]={id:e,loaded:!1,exports:{}};return n[e].call(o.exports,o,o.exports,f),o.loaded=!0,o.exports}if(f.m=n,f.n=e=>{var r=e&&e.__esModule?()=>e.default:()=>e;return f.d(r,{a:r}),r},r=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__,f.t=function(o,a){if(1&a&&(o=this(o)),8&a||\"object\"==typeof o&&o&&(4&a&&o.__esModule||16&a&&\"function\"==typeof o.then))return o;var t=Object.create(null);f.r(t);var i={};e=e||[null,r({}),r([]),r(r)];for(var c=2&a&&o;(\"object\"==typeof c||\"function\"==typeof c)&&!~e.indexOf(c);c=r(c))Object.getOwnPropertyNames(c).forEach(e=>{i[e]=()=>o[e]});return i.default=()=>o,f.d(t,i),t},f.d=(e,r)=>{for(var o in r)f.o(r,o)&&!f.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:r[o]})},f.f={},f.e=e=>Promise.all(Object.keys(f.f).reduce((r,o)=>(f.f[o](e,r),r),[])),f.u=e=>\"6948\"===e?\"thunderbolt-commons.c6e130bc.bundle.min.js\":\"3033\"===e?\"fastdom.inline.48a8bd4b.bundle.min.js\":\"1619\"===e?\"custom-element-utils.inline.43befd9d.bundle.min.js\":\"5205\"===e?\"render-indicator.inline.df41a0e9.bundle.min.js\":\"7151\"===e?\"version-indicator.inline.704acef2.bundle.min.js\":\"6008\"===e?\"bi-common.inline.17f83560.bundle.min.js\":\"\"+(({1059:\"santa-platform-utils\",1090:\"speculationRules\",1116:\"passwordProtectedPage\",1122:\"group_19\",1211:\"siteUrlService\",1278:\"group_24\",1308:\"global-css-engine\",131:\"siteThemeService\",1374:\"editorWixCodeSdk\",1438:\"sdkStateService\",152",
+    "\"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"1619\"],{26350(e,t,i){i.r(t),i.d(t,{STATIC_MEDIA_URL:()=>eH,fileType:()=>v,fittingTypes:()=>r,getData:()=>eR,MEDIA_ROOT_URL:()=>ez,sdk:()=>eB,isWEBP:()=>x,alignTypes:()=>c,htmlTag:()=>u,getPlaceholder:()=>eC,getResponsiveImageProps:()=>e$,upscaleMethods:()=>m,getFileExtension:()=>k,populateGlobalFeatureSupport:()=>q});let r={SCALE_TO_FILL:\"fill\",SCALE_TO_FIT:\"fit\",STRETCH:\"stretch\",ORIGINAL_SIZE:\"original_size\",TILE:\"tile\",TILE_HORIZONTAL:\"tile_horizontal\",TILE_VERTICAL:\"tile_vertical\",FIT_AND_TILE:\"fit_and_tile\",LEGACY_STRIP_TILE:\"legacy_strip_tile\",LEGACY_STRIP_TILE_HORIZONTAL:\"legacy_strip_tile_horizontal\",LEGACY_STRIP_TILE_VERTICAL:\"legacy_strip_tile_vertical\",LEGACY_STRIP_SCALE_TO_FILL:\"legacy_strip_fill\",LEGACY_STRIP_SCALE_TO_FIT:\"legacy_strip_fit\",LEGACY_STRIP_FIT_AND_TILE:\"legacy_strip_fit_and_tile\",LEGACY_STRIP_ORIGINAL_SIZE:\"legacy_strip_original_size\",LEGACY_ORIGINAL_SIZE:\"actual_size\",LEGACY_FIT_WIDTH:\"fitWidth\",LEGACY_FIT_HEIGHT:\"fitHeight\",LEGACY_FULL:\"full\",LEGACY_BG_FIT_AND_TILE:\"legacy_tile\",LEGACY_BG_FIT_AND_TILE_HORIZONTAL:\"legacy_tile_horizontal\",LEGACY_BG_FIT_AND_TILE_VERTICAL:\"legacy_tile_vertical\",LEGACY_BG_NORMAL:\"legacy_normal\"},n=\"fill\",a=\"fill_focal\",o=\"crop\",s=\"legacy_crop\",l=\"legacy_fill\",c={CENTER:\"center\",TOP:\"top\",TOP_LEFT:\"top_left\",TOP_RIGHT:\"top_right\",BOTTOM:\"bottom\",BOTTOM_LEFT:\"bottom_left\",BOTTOM_RIGHT:\"bottom_right\",LEFT:\"left\",RIGHT:",
+    "\"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"6901\"],{33842(e,t,i){i.r(t),i.d(t,{BackgroundParallax:()=>n,BackgroundParallaxZoom:()=>o,BackgroundReveal:()=>l,BgCloseUp:()=>d,BgExpand:()=>c,BgFabeBack:()=>h,BgFadeIn:()=>u,BgFadeOut:()=>g,BgFake3D:()=>m,BgPanLeft:()=>f,BgPanRight:()=>b,BgParallax:()=>p,BgPullBack:()=>v,BgReveal:()=>w,BgRotate:()=>M,BgShrink:()=>y,BgSkew:()=>I,BgUnwind:()=>x,BgZoomIn:()=>L,BgZoomOut:()=>D,ImageParallax:()=>O,ImageReveal:()=>P});var r=i(16956);let a=(e,t)=>({width:e,height:t}),s=(e,t,i)=>({width:e,height:Math.max(t,i)}),n={hasParallax:!0,getMediaDimensions:s},o={hasParallax:!0,getMediaDimensions:s},l={hasParallax:!0,getMediaDimensions:s},d={getMediaDimensions:a},c={getMediaDimensions:a},h={getMediaDimensions:a},u={getMediaDimensions:a},g={getMediaDimensions:a},m={hasParallax:!0,getMediaDimensions:s},f={getMediaDimensions:(e,t)=>({width:1.2*e,height:t})},b={getMediaDimensions:(e,t)=>({width:1.2*e,height:t})},p={hasParallax:!0,getMediaDimensions:s},v={getMediaDimensions:a},w={hasParallax:!0,getMediaDimensions:s},M={getMediaDimensions:(e,t)=>{let i,a,s,n,o;return i=(0,r.kU)(22),a=Math.hypot(e,t)/2,s=Math.acos(e/2/a),n=e*Math.abs(Math.cos(i))+t*Math.abs(Math.sin(i)),o=e*Math.abs(Math.sin(i))+t*Math.abs(Math.cos(i)),{width:Math.ceil(i<s?n:2*a),height:Math.ceil(i<(0,r.kU)(90)-s?o:2*a)}}},y={getMediaDimensions:a},I={getMediaDimensions:(e,t)=>({width:e,height:e*Math.tan((0,r.kU)(20))+t})},x={getM",
+    "\"use strict\";(self.webpackJsonp__wix_thunderbolt_app=self.webpackJsonp__wix_thunderbolt_app||[]).push([[\"6008\"],{68703(e,t,r){r.d(t,{L:()=>i});var a=r(8716),n=r(26778),o=r(49254);let i=(0,a.Og)([],()=>({definition:n.F,impl:o.J,config:{},platformConfig:{}}))},89973(e,t,r){r.d(t,{h:()=>i});var a=r(65672),n=r(48869);let o=({useBatch:e=!0,publishMethod:t=a.PublishMethods.Auto,endpoint:r,muteBi:n=!1,biStore:o,sessionManager:i,fetch:s,factory:p})=>p({useBatch:e,publishMethod:t,endpoint:r}).setMuted(n).withUoUContext({msid:o.msid}).withNonEssentialContext({visitorId:()=>i.getVisitorId(),siteMemberId:()=>i.getSiteMemberId()}).updateDefaults({vsi:o.viewerSessionId,_av:`thunderbolt-${o.viewerVersion}`,isb:o.is_headless,...o.is_headless&&{isbr:o.is_headless_reason}}),i={createBaseBiLoggerFactory:o,createBiLoggerFactoryForFedops:e=>{let{biStore:{session_id:t,initialTimestamp:r,initialRequestTimestamp:a,dc:i,microPop:s,is_headless:p,isCached:d,pageData:l,rolloutData:u,caching:c,checkVisibility:m=()=>\"\",viewerVersion:f,requestUrl:I,st:h,isSuccessfulSSR:A,mpaSessionId:_,siteOwnerId:E,uuid:S},muteBi:g=!1}=e;return o({...e,muteBi:g}).updateDefaults({ts:()=>Date.now()-r,tsn:()=>(function({initialRequestTimestamp:e,adjustForPrerender:t=!1}){if(\"undefined\"==typeof window)return Math.round(performance.now()+(performance.timeOrigin-e));let r=t?(0,n.b)():0;return Math.round(performance.now()-r)})({initialRequestTimestamp:a,adjustForPrerender:!0}),dc:i,microPop:s,caching:c,session_id:t,st:h,url:I||l"
+  ],
+  "forms": [],
+  "ld": [],
+  "height": 1419,
+  "status": 200,
+  "requests": [
+    {
+      "url": "https://www.dolphinreef.co.il/accessibility-statement",
+      "type": "document"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
+      "type": "image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/166e60_135219447c154b2994104c71d37a6519~mv2.png/v1/fill/w_980,h_653,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/divers.png",
+      "type": "image"
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.c6e130bc.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.b184884f.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.32731c34.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js",
+      "type": "script"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/166e60_135219447c154b2994104c71d37a6519~mv2.png/v1/fill/w_1440,h_499,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/divers.png",
+      "type": "image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_1db239e728f641c3a3be5b7ca708f239~mv2.png",
+      "type": "image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+      "type": "image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_2381e8a6e7444f4f902e7b649aa3f0ac~mv2.png",
+      "type": "image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png/v1/fill/w_34,h_34,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_cd15e7c0597c4c6ebc89591bf55ce5d8~mv2.png",
+      "type": "image"
+    }
+  ]
+}
