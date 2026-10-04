@@ -1,0 +1,146 @@
+{
+  "currency": "ILS",
+  "extractedAt": "2026-10-04",
+  "notes": [
+    "Every value below is copied from the live site. 'sourceText' is the exact Hebrew sentence it came from.",
+    "Restaurant / cafe menu item prices are kept with their menus in content/he/menu-bar.json and content/he/menu-stalbet.json (source: the live HTML menu embeds).",
+    "Live site disclaimer (stalbet): \"טל\"ח - המחירים ושעות המפגשים עשויים להשתנות ללא הודעה מראש\"."
+  ],
+  "prices": [
+    {
+      "id": "entry-adult",
+      "activityId": "entry",
+      "labelKey": "prices.entry.adult",
+      "amount": 74,
+      "currency": "ILS",
+      "audience": "adult",
+      "ageFrom": 15,
+      "ageTo": null,
+      "unit": "person",
+      "sourcePage": "https://www.dolphinreef.co.il/experience-thereef",
+      "sourceText": "מבוגר - 74 ש\"ח (מעל גיל 15)."
+    },
+    {
+      "id": "entry-child",
+      "activityId": "entry",
+      "labelKey": "prices.entry.child",
+      "amount": 55,
+      "currency": "ILS",
+      "audience": "child",
+      "ageFrom": 3,
+      "ageTo": 15,
+      "unit": "person",
+      "sourcePage": "https://www.dolphinreef.co.il/experience-thereef",
+      "sourceText": "ילד - 55 ש\"ח (גיל 3 - 15)."
+    },
+    {
+      "id": "entry-infant",
+      "activityId": "entry",
+      "labelKey": "prices.entry.infant",
+      "amount": 0,
+      "currency": "ILS",
+      "audience": "infant",
+      "ageFrom": 0,
+      "ageTo": 3,
+      "unit": "person",
+      "sourcePage": "https://www.dolphinreef.co.il/experience-thereef",
+      "sourceText": "ילדים עד גיל 3 כניסה חינם."
+    },
+    {
+      "id": "snorkel-adult",
+      "activityId": "snorkeling",
+      "labelKey": "prices.snorkeling.adult",
+      "amount": 295,
+      "currency": "ILS",
+      "audience": "adult",
+      "ageFrom": 15,
+      "ageTo": null,
+      "unit": "participant",
+      "sourcePage": "https://www.dolphinreef.co.il/swimming",
+      "sourceText": "מבוגר (מגיל 15) - 295 ₪ למשתתף."
+    },
+    {
+      "id": "snorkel-child",
+      "activityId": "snorkeling",
+      "labelKey": "prices.snorkeling.child",
+      "amount": 265,
+      "currency": "ILS",
+      "audience": "child",
+      "ageFrom": 10,
+      "ageTo": 15,
+      "unit": "participant",
+      "sourcePage": "https://www.dolphinreef.co.il/swimming",
+      "sourceText": "(ילד (מגיל 10) - 265 ₪ למשתתף."
+    },
+    {
+      "id": "dive-adult",
+      "activityId": "intro-dive",
+      "labelKey": "prices.introDive.adult",
+      "amount": 385,
+      "currency": "ILS",
+      "audience": "adult",
+      "ageFrom": 15,
+      "ageTo": null,
+      "unit": "participant",
+      "sourcePage": "https://www.dolphinreef.co.il/diving",
+      "sourceText": "מחיר מבוגר (מגיל 15) - 385 ₪ למשתתף"
+    },
+    {
+      "id": "dive-child",
+      "activityId": "intro-dive",
+      "labelKey": "prices.introDive.child",
+      "amount": 355,
+      "currency": "ILS",
+      "audience": "child",
+      "ageFrom": 8,
+      "ageTo": 15,
+      "unit": "participant",
+      "sourcePage": "https://www.dolphinreef.co.il/diving",
+      "sourceText": "מחיר ילד (מגיל 8) - 355 ₪ למשתתף ."
+    },
+    {
+      "id": "stalbet-one-on-one",
+      "activityId": "stalbet-pools",
+      "labelKey": "prices.stalbet.oneOnOne",
+      "amount": 390,
+      "currency": "ILS",
+      "audience": "adult",
+      "ageFrom": 18,
+      "ageTo": null,
+      "unit": "participant",
+      "sourcePage": "https://www.dolphinreef.co.il/stalbet",
+      "sourceText": "מחיר טיפול חוויתי \"ספיישל אחד על אחד\" 390 ₪"
+    },
+    {
+      "id": "stalbet-session",
+      "activityId": "stalbet-pools",
+      "labelKey": "prices.stalbet.session",
+      "amount": 190,
+      "currency": "ILS",
+      "audience": "adult",
+      "ageFrom": 18,
+      "ageTo": null,
+      "unit": "participant",
+      "sourcePage": "https://www.dolphinreef.co.il/stalbet",
+      "sourceText": "מחיר בילוי בסתלבט (ללא טיפול חוויתי) 190 ₪"
+    },
+    {
+      "id": "stalbet-chill-out",
+      "activityId": "stalbet-pools",
+      "labelKey": "prices.stalbet.chillOut",
+      "amount": 90,
+      "currency": "ILS",
+      "audience": "adult",
+      "ageFrom": 18,
+      "ageTo": null,
+      "unit": "participant",
+      "sourcePage": "https://www.dolphinreef.co.il/stalbet",
+      "sourceText": "\" Chill out\" בסתלבט - 90 ₪ למשתתף וללא הטבת יום בילוי. הרכישה טלפוניות, או בקפה סתלבט בערב הפעילות"
+    }
+  ],
+  "ambiguities": [
+    "Child age upper bounds for snorkeling (10) and intro dive (8) are not stated on the site; adult price applies 'from 15', so child is recorded as ageFrom..15. Confirm with the client.",
+    "Discounted entry for pensioners, students, security forces, soldiers and people with disabilities exists ('מחירים מיוחדים בקופת הכניסה') but no amount is published, so none is recorded.",
+    "Upgrades for stalbet (extra hour / extra 30 min one-on-one) are 'בתוספת תשלום' with no published amount."
+  ]
+}

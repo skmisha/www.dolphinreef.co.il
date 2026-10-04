@@ -1,0 +1,16 @@
+{
+  "afterConsentHosts": [
+    "frog.wix.com"
+  ],
+  "trackingIds": [],
+  "facebookPixelIds": [],
+  "mapIframe": [
+    {
+      "src": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/googleMap.f3347ff6.html?defaultLocation=0&showZoom=true&showStreetView=true&language=en&region=IL&id=dataItem-lqmgtv6u&googleMapsScriptPath=%2Fservices%2Feditor-elements-library%2Fdist%2Fthunderbolt%2Fmedia%2Fgoogle-map.min.9a2bea98.js&origin=https%3A%2F%2Fwww.dolphinreef.co.il&hasFocus=true",
+      "title": "Google Maps"
+    }
+  ],
+  "mapData": [
+    "<wix-iframe data-src=\"\"><div id=\"mapContainer_comp-lqmgtv6p\" class=\"oD_vT7\"><iframe title=\"Google Maps\" data-src=\"\" width=\"100%\" height=\"100%\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\" src=\"https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/googleMap.f3347ff6.html?defaultLocation=0&amp;showZoom=true&amp;showStreetView=true&amp;language=en&amp;region=IL&amp;id=dataItem-lqmgtv6u&amp;googleMapsScriptPath=%2Fservices%2Feditor-elements-library%2Fdist%2Fthunderbolt%2Fmedia%2Fgoogle-map.min.9a2bea98.js&amp;origin=https%3A%2F%2Fwww.dolphinreef.co.il&amp;hasF"
+  ]
+}

@@ -1,0 +1,22 @@
+// Load home, accept cookie banner, record third-party hosts loaded only after consent (analytics) and the Google Map embed.
+import { chromium } from 'playwright';
+import fs from 'node:fs/promises';
+const browser = await chromium.launch({ proxy: process.env.HTTPS_PROXY ? { server: process.env.HTTPS_PROXY } : undefined });
+const page = await browser.newPage({ viewport: { width: 1440, height: 900 }, locale: 'he-IL' });
+const reqs = [];
+page.on('request', (r) => reqs.push(r.url()));
+await page.goto('https://www.dolphinreef.co.il/', { waitUntil: 'load' });
+await page.waitForTimeout(3000);
+const n = reqs.length;
+await page.getByRole('button', { name: 'אישור' }).first().click({ timeout: 5000 }).catch((e) => console.log('no consent btn'));
+await page.waitForTimeout(6000);
+const after = reqs.slice(n).filter((u) => !/parastorage|wixstatic|dolphinreef\.co\.il\/_api|sentry/.test(u));
+const ids = new Set();
+for (const u of reqs) for (const m of u.matchAll(/[?&](?:id|tid)=((?:G|GTM|AW|UA)-[A-Z0-9-]+)/g)) ids.add(m[1]);
+const fb = reqs.filter((u) => /facebook\.(com|net)\/(tr|signals|en_US\/fbevents)/.test(u)).map((u) => (u.match(/[?&]id=(\d+)/) || [])[1]).filter(Boolean);
+const mapIframe = await page.locator('iframe[title*="Google" i], iframe[src*="google"]').evaluateAll((els) => els.map((e) => ({ src: e.src, title: e.title })));
+const mapData = await page.evaluate(() => [...document.querySelectorAll('[data-testid*="map" i], wix-iframe')].map((e) => e.outerHTML.slice(0, 600)));
+const out = { afterConsentHosts: [...new Set(after.map((u) => new URL(u).host))], trackingIds: [...ids], facebookPixelIds: [...new Set(fb)], mapIframe, mapData };
+await fs.writeFile('audit/raw/_consent-probe.json', JSON.stringify(out, null, 2));
+console.log(JSON.stringify(out, null, 1).slice(0, 3000));
+await browser.close();

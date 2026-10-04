@@ -1,0 +1,453 @@
+{
+  "source": {
+    "page": "https://www.dolphinreef.co.il/dining-at-thereef/menu-stalbet",
+    "embed": "https://www-dolphinreef-co-il.filesusr.com/html/166e60_91cd1d485fd54ed9076ddd08554b5ee7.html"
+  },
+  "title": "קפה סתלבט",
+  "subtitle": "ריף הדולפינים אילת",
+  "sections": [
+    {
+      "id": "food",
+      "title": "תפריט",
+      "note": "",
+      "image": "https://static.wixstatic.com/media/166e60_67d24871e30140588b7325bc460784fc~mv2.jpg",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "ג'בטה מחמצת",
+              "description": "מוגש עם מטבלי הבית – שמן זית ובלסמי, טפנד זיתים, פסטו",
+              "price": "₪ 23"
+            },
+            {
+              "name": "עלי גפן",
+              "description": "מוגש עם לאבנה או טחינה",
+              "price": "₪ 28"
+            },
+            {
+              "name": "מוזלי יוגורט עזים",
+              "description": "מוגש עם פירות העונה, גרנולה, חמאת בוטנים, פקאנים מסוכרים ודבש",
+              "price": "₪ 38"
+            },
+            {
+              "name": "אסאי בול",
+              "description": "מוגש עם פירות העונה, חמאת בוטנים, גרנולה, פקאנים מסוכרים ושבבי קוקוס",
+              "price": "₪ 48"
+            },
+            {
+              "name": "ניגוב טחינה ירוקה / לאבנה",
+              "description": "מוגש עם פיתות",
+              "price": "₪ 24"
+            },
+            {
+              "name": "ספישל ראשונה",
+              "description": "מתחלף לפי העונה · שאל את המלצר",
+              "price": ""
+            },
+            {
+              "name": "סלט יווני",
+              "description": "מלפפון, עגבנייה, פלפל, בצל מוחמץ, צלפים ובולגרית",
+              "price": "₪ 42"
+            },
+            {
+              "name": "סלט סתלבט",
+              "description": "חסה, עגבניות שרי, תפוח עץ, ארטישוק, חמוציות, פקאנים, קרוטונים ובלסמי לבן",
+              "price": "₪ 48"
+            },
+            {
+              "name": "סלט קפרזה פרסקה",
+              "description": "עגבניות, פסטו, מוצרלה פרסקה, צנוברים, צלפים ובלסמי לבן",
+              "price": "₪ 44"
+            },
+            {
+              "name": "ברוסקטה בזוג",
+              "description": "שאל את המלצר",
+              "price": "₪ 42"
+            },
+            {
+              "name": "פיצה מרגריטה",
+              "description": "רוטב עגבניות וגבינת מוצרלה · תוספות בתשלום – שאל את המלצר",
+              "price": "₪ 54"
+            },
+            {
+              "name": "פלטת גבינות",
+              "description": "ארבע גבינות, ברוסקטה, פסטו, פירות העונה",
+              "price": "₪ 64"
+            },
+            {
+              "name": "פלטת פירות",
+              "description": "",
+              "price": "₪ 74"
+            },
+            {
+              "name": "ג'חנון",
+              "description": "מוגש עם רסק, חריף וביצה קשה · רק בשבת",
+              "price": "₪ 47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "title": "קינוחים",
+      "note": "",
+      "image": "https://static.wixstatic.com/media/166e60_1a7d8b97a41740d38be2023b8e3d5481~mv2.jpg",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "קרואסון",
+              "description": "שוקולד / שקדים",
+              "price": "₪ 18"
+            },
+            {
+              "name": "עוגה בחושה",
+              "description": "שוקולד / גזר / בננה שוקולד (טבעוני)",
+              "price": "₪ 18"
+            },
+            {
+              "name": "אפוגטו",
+              "description": "אספרסו עם כדור גלידה וניל",
+              "price": "₪ 16"
+            },
+            {
+              "name": "עוגת גבינה באסקית",
+              "description": "",
+              "price": "₪ 44"
+            },
+            {
+              "name": "פאי לימון",
+              "description": "",
+              "price": "₪ 42"
+            },
+            {
+              "name": "סופלה שוקולד",
+              "description": "מגיע עם גלידה וניל וקצפת",
+              "price": "₪ 48"
+            },
+            {
+              "name": "גלידת סתלבט",
+              "description": "שכבות גלידת וניל, פירורי לוטוס, שוקולד וקצפת",
+              "price": "₪ 32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coffee",
+      "title": "קפה & שתייה חמה",
+      "note": "",
+      "image": "https://static.wixstatic.com/media/166e60_d8b38370aa074d01951c6f6e1346aac0~mv2.jpg",
+      "groups": [
+        {
+          "title": "קפה",
+          "items": [
+            {
+              "name": "אספרסו / כפול",
+              "description": "",
+              "price": "₪ 9 / 14"
+            },
+            {
+              "name": "קורטדו",
+              "description": "",
+              "price": "₪ 10"
+            },
+            {
+              "name": "הפוך קטן / גדול",
+              "description": "",
+              "price": "₪ 14 / 16"
+            },
+            {
+              "name": "אמריקנו חם / קר",
+              "description": "",
+              "price": "₪ 16"
+            },
+            {
+              "name": "קפה קר / תוספת הגדלה",
+              "description": "",
+              "price": "₪ 18 / 21"
+            },
+            {
+              "name": "קפה קר בתוספת גלידה",
+              "description": "",
+              "price": "₪ 22"
+            },
+            {
+              "name": "קפה שחור",
+              "description": "",
+              "price": "₪ 10"
+            },
+            {
+              "name": "נס קפה",
+              "description": "",
+              "price": "₪ 13"
+            },
+            {
+              "name": "מקיאטו / כפול",
+              "description": "",
+              "price": "₪ 12 / 14"
+            }
+          ]
+        },
+        {
+          "title": "שתייה חמה",
+          "items": [
+            {
+              "name": "שוקו חם / קר",
+              "description": "",
+              "price": "₪ 16"
+            },
+            {
+              "name": "מוקוצ'ינו / תוספת קצפת",
+              "description": "",
+              "price": "₪ 18 / 21"
+            },
+            {
+              "name": "קקאו נא אורגני",
+              "description": "",
+              "price": "₪ 23"
+            },
+            {
+              "name": "מאצ'ה חם",
+              "description": "",
+              "price": "₪ 18"
+            },
+            {
+              "name": "מאצ'ה קר",
+              "description": "",
+              "price": "₪ 22"
+            },
+            {
+              "name": "מאצ'ה קר בתוספת מנגו / תות",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "תה בריאות חם",
+              "description": "",
+              "price": "₪ 14"
+            },
+            {
+              "name": "צ'אי מסאלה חם / קר",
+              "description": "",
+              "price": "₪ 18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soft",
+      "title": "שתייה קלה & אורגנית",
+      "note": "",
+      "image": null,
+      "groups": [
+        {
+          "title": "אורגני ותה קר",
+          "items": [
+            {
+              "name": "נקטר אורגני נאות סמדר - אפרסק / תפוחים / אגס / אגס+תפוח",
+              "description": "",
+              "price": "₪ 18"
+            },
+            {
+              "name": "רימונים",
+              "description": "",
+              "price": "₪ 16"
+            },
+            {
+              "name": "קמבוצ'ה נענע",
+              "description": "",
+              "price": "₪ 18"
+            },
+            {
+              "name": "תה קר בטעמים",
+              "description": "",
+              "price": "₪ 16"
+            }
+          ],
+          "list": [
+            "סאני – תה ירוק פסיפלורה תפוח",
+            "חליטת צמחים – לימונית לואיזה, זוטה לבנה (ללא סוכר)",
+            "דובדבן שובב – היביסקוס דובדבן תפוח",
+            "קאלם – קמומיל תפוח ציפורן",
+            "פרש – היביסקוס וליים (ללא סוכר)",
+            "קונצ'סנס – תה ירוק יסמין וליצ'י",
+            "חליטה מדברית – לואיזה למון גראס ונענע"
+          ]
+        },
+        {
+          "title": "משקאות קלים",
+          "items": [
+            {
+              "name": "מים מינרלים",
+              "description": "",
+              "price": "₪ 8 / 12"
+            },
+            {
+              "name": "קולה / קולה זירו",
+              "description": "",
+              "price": "₪ 15"
+            },
+            {
+              "name": "ספרייט / ספרייט זירו",
+              "description": "",
+              "price": "₪ 15"
+            },
+            {
+              "name": "גזוז בטעמים · שאל את המלצר",
+              "description": "",
+              "price": "₪ 14 / 18"
+            },
+            {
+              "name": "סודה / טוניק",
+              "description": "",
+              "price": "₪ 10"
+            },
+            {
+              "name": "תפוזים / לימונדה / תפוחים / חמוציות",
+              "description": "",
+              "price": "₪ 16 / 19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beer",
+      "title": "בירה",
+      "note": "",
+      "image": "https://static.wixstatic.com/media/166e60_91b6fa153a7a434ab2d2446217020211~mv2.jpg",
+      "groups": [
+        {
+          "title": "מהחבית",
+          "items": [
+            {
+              "name": "",
+              "description": "",
+              "price": "½ / ⅓"
+            },
+            {
+              "name": "לומה",
+              "description": "",
+              "price": "₪ 25 / 32"
+            },
+            {
+              "name": "שקמה אייל ענברית",
+              "description": "",
+              "price": "₪ 25 / 32"
+            }
+          ]
+        },
+        {
+          "title": "בקבוק",
+          "items": [
+            {
+              "name": "קירין, יפן",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "גולדסטאר",
+              "description": "",
+              "price": "₪ 24"
+            },
+            {
+              "name": "קרלסברג",
+              "description": "",
+              "price": "₪ 24"
+            },
+            {
+              "name": "סאן מיגל פרסקה",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "אסטרייה דאם",
+              "description": "",
+              "price": "₪ 28"
+            },
+            {
+              "name": "קרלסברג 0.0% ללא אלכוהול",
+              "description": "",
+              "price": "₪ 24"
+            },
+            {
+              "name": "גינס 500",
+              "description": "",
+              "price": "₪ 36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cocktails",
+      "title": "קוקטיילים",
+      "note": "",
+      "image": "https://static.wixstatic.com/media/166e60_ed3de651219c4972b0aa00c76141030f~mv2.jpg",
+      "groups": [
+        {
+          "title": "",
+          "items": [
+            {
+              "name": "סנגרייה לבנה",
+              "description": "יין, רום, וורמוט, תמצית תה וטרפיל סק",
+              "price": "₪ 48"
+            },
+            {
+              "name": "פינק פאשן",
+              "description": "רום, פסואה, פסיפלורה, חמוציות, לימון",
+              "price": "₪ 48"
+            },
+            {
+              "name": "ליצ'י גרין גין",
+              "description": "תה ירוק, ג'ין, לימון ומונין ליצ'י",
+              "price": "₪ 48"
+            },
+            {
+              "name": "קוקטייל ספיישל",
+              "description": "שאל את המלצר",
+              "price": "₪ 48"
+            },
+            {
+              "name": "אפרול שפריץ",
+              "description": "",
+              "price": "₪ 48"
+            },
+            {
+              "name": "קמפרי תפוזים",
+              "description": "",
+              "price": "₪ 39"
+            },
+            {
+              "name": "וויק אפ קופי",
+              "description": "אספרסו, בייליס וקלואה",
+              "price": "₪ 26"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unparsed": [],
+  "footer": [
+    "המנות עלולות להכיל גלוטן, ביצים, בוטנים ועוד",
+    "ריף הדולפינים אילת · 08-6300111 · info@dolphinreef.co.il",
+    "המחירים כוללים מע\"מ · התפריט עשוי להשתנות"
+  ],
+  "seo": {
+    "title": "ריף הדולפינים תפריט בר סתלבט | Dolphin Reef Bar Stalbet menu",
+    "description": "",
+    "ogTitle": "ריף הדולפינים תפריט בר סתלבט | Dolphin Reef Bar Stalbet menu",
+    "ogDescription": "",
+    "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
+    "canonical": "https://www.dolphinreef.co.il/dining-at-thereef/menu-stalbet"
+  },
+  "h1": [],
+  "slug": "dining-at-thereef/menu-stalbet"
+}

@@ -1,0 +1,266 @@
+{
+  "source": "https://www.dolphinreef.co.il (JSON-LD, header menu, footer)",
+  "organization": {
+    "@context": "https://schema.org",
+    "@type": [
+      "TouristAttraction",
+      "LocalBusiness"
+    ],
+    "@id": "https://www.dolphinreef.co.il/#dolphinreef",
+    "name": "Dolphin Reef Eilat",
+    "alternateName": "ריף הדולפינים",
+    "url": "https://www.dolphinreef.co.il",
+    "image": "https://static.wixstatic.com/media/166e60_40b1223df36e43679ac7f5912293f92b~mv2.png",
+    "description": "An ecological site on the Red Sea in Eilat where bottlenose dolphins live freely in a protected bay. Visitors can watch the dolphins from the floating piers, snorkel or dive at the reef, relax in the Stalbet saltwater pools, and enjoy the beach, restaurants and gardens.",
+    "foundingDate": "1990",
+    "telephone": "+972-8-630-0111",
+    "email": "info@dolphinreef.co.il",
+    "priceRange": "₪55–₪385",
+    "currenciesAccepted": "ILS",
+    "isAccessibleForFree": false,
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Southern Beach",
+      "addressLocality": "Eilat",
+      "addressRegion": "South District",
+      "postalCode": "8810101",
+      "addressCountry": "IL"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 29.5264,
+      "longitude": 34.936
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "opens": "09:00",
+        "closes": "16:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "17:00"
+      }
+    ],
+    "sameAs": [
+      "https://www.instagram.com/dolphin_reef_eilat/",
+      "https://www.facebook.com/dolphinreefeilat",
+      "https://www.tiktok.com/@dolphin_reef_eilat",
+      "https://www.flickr.com/photos/dolphinreef/albums/"
+    ]
+  },
+  "existingStructuredData": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "LocalBusiness",
+      "name": "Dolphin Reef Eilat",
+      "url": "https://www.dolphinreef.co.il",
+      "image": "https://static.wixstatic.com/media/166e60_ffe04599dcba43bea57b4c29ff60158b~mv2.png",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IL",
+        "addressLocality": "Eilat"
+      },
+      "telephone": "+97286300111"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "WebSite",
+      "name": "Dolphin Reef Eilat",
+      "url": "https://www.dolphinreef.co.il"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "TouristAttraction",
+        "LocalBusiness"
+      ],
+      "@id": "https://www.dolphinreef.co.il/#dolphinreef",
+      "name": "Dolphin Reef Eilat",
+      "alternateName": "ריף הדולפינים",
+      "url": "https://www.dolphinreef.co.il",
+      "image": "https://static.wixstatic.com/media/166e60_40b1223df36e43679ac7f5912293f92b~mv2.png",
+      "description": "An ecological site on the Red Sea in Eilat where bottlenose dolphins live freely in a protected bay. Visitors can watch the dolphins from the floating piers, snorkel or dive at the reef, relax in the Stalbet saltwater pools, and enjoy the beach, restaurants and gardens.",
+      "foundingDate": "1990",
+      "telephone": "+972-8-630-0111",
+      "email": "info@dolphinreef.co.il",
+      "priceRange": "₪55–₪385",
+      "currenciesAccepted": "ILS",
+      "isAccessibleForFree": false,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Southern Beach",
+        "addressLocality": "Eilat",
+        "addressRegion": "South District",
+        "postalCode": "8810101",
+        "addressCountry": "IL"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 29.5264,
+        "longitude": 34.936
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "09:00",
+          "closes": "16:30"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.instagram.com/dolphin_reef_eilat/",
+        "https://www.facebook.com/dolphinreefeilat",
+        "https://www.tiktok.com/@dolphin_reef_eilat",
+        "https://www.flickr.com/photos/dolphinreef/albums/"
+      ]
+    }
+  ],
+  "nav": [
+    {
+      "label": "דף הבית",
+      "href": "/",
+      "depth": 0
+    },
+    {
+      "label": "החזון שלנו",
+      "href": "/our-vision",
+      "depth": 0
+    },
+    {
+      "label": "חוויית הביקור בריף",
+      "href": "/experience-thereef",
+      "depth": 0
+    },
+    {
+      "label": "צלילה היכרות בריף הדולפינים",
+      "href": "/diving",
+      "depth": 0
+    },
+    {
+      "label": "שנירקול בריף הדולפינים",
+      "href": "/swimming",
+      "depth": 0
+    },
+    {
+      "label": "סתלבט על המים",
+      "href": "/stalbet",
+      "depth": 0
+    },
+    {
+      "label": "קפה סתלבט",
+      "href": "/stalbetcoffe",
+      "depth": 0
+    },
+    {
+      "label": "לאכול בריף",
+      "href": "/dining-at-thereef",
+      "depth": 0
+    },
+    {
+      "label": "תפריט בר חוף",
+      "href": "/dining-at-thereef/menu-bar",
+      "depth": 1
+    },
+    {
+      "label": "אירועים לקבוצות ובודדים",
+      "href": "/events",
+      "depth": 0
+    },
+    {
+      "label": "חנות המזכרות",
+      "href": "/shop",
+      "depth": 0
+    },
+    {
+      "label": "חווייה תומכת",
+      "href": "/supportive-experience",
+      "depth": 0
+    },
+    {
+      "label": "נגישות",
+      "href": "/accessibility",
+      "depth": 0
+    },
+    {
+      "label": "הצהרת נגישות",
+      "href": "/accessibility-statement",
+      "depth": 0
+    },
+    {
+      "label": "מפה להתמצאות באתר",
+      "href": "/map",
+      "depth": 0
+    },
+    {
+      "label": "עדכונים שוטפים",
+      "href": "https://www.instagram.com/dolphin_reef_eilat/",
+      "depth": 0
+    }
+  ],
+  "footer": {
+    "text": [
+      "מדיניות פרטיות",
+      "טל: 08-6300111",
+      "info@dolphinreef.co.il"
+    ],
+    "links": [
+      {
+        "text": "WhatsApp",
+        "href": "https://api.whatsapp.com/send/?phone=972526021017&text&type=phone_number&app_absent=0"
+      },
+      {
+        "text": "Instagram",
+        "href": "https://www.instagram.com/dolphin_reef_eilat/"
+      },
+      {
+        "text": "Facebook",
+        "href": "https://www.facebook.com/dolphinreefeilat"
+      },
+      {
+        "text": "TikTok",
+        "href": "https://www.tiktok.com/@dolphin_reef_eilat"
+      },
+      {
+        "text": "מדיניות פרטיות",
+        "href": "https://www.dolphinreef.co.il/privacypolicy"
+      },
+      {
+        "text": "טל: 08-6300111",
+        "href": "tel:+97286300111"
+      },
+      {
+        "text": "info@dolphinreef.co.il",
+        "href": "mailto:info@dolphinreef.co.il"
+      }
+    ]
+  },
+  "cookieBanner": {
+    "note": "Wix cookie banner; buttons 'אישור' / 'דחיית הכל' with link 'מדיניות הפרטיות'"
+  }
+}

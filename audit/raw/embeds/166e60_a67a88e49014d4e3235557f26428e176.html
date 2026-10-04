@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>תפריט | ריף הדולפינים אילת</title>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  :root{
+    --bg:#2b2118;
+    --bg-light:#352a1f;
+    --bg-card:rgba(255,255,255,0.04);
+    --bg-card-hover:rgba(255,255,255,0.07);
+    --amber:#d4923a;
+    --amber-light:#e8b060;
+    --white:#ffffff;
+    --off-white:#f0ece6;
+    --text:#e8e2da;
+    --text-mid:#b0a898;
+    --text-dim:#7a7068;
+    --rule:rgba(255,255,255,0.08);
+    --rule-accent:rgba(212,146,58,0.25);
+  }
+  html{scroll-behavior:smooth;scroll-padding-top:52px}
+  body{
+    font-family:'Heebo',Arial,sans-serif;
+    background:var(--bg);
+    color:var(--text);
+    line-height:1.65;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* ===== HERO ===== */
+  .hero{
+    position:relative;
+    height:55vh;min-height:340px;max-height:520px;
+    overflow:hidden;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .hero-bg{
+    position:absolute;inset:0;
+    background:url('https://static.wixstatic.com/media/166e60_b9ea212268c0418da64548943420389f~mv2.jpg') center 40%/cover no-repeat;
+  }
+  .hero-dim{
+    position:absolute;inset:0;
+    background:linear-gradient(180deg,rgba(43,33,24,0.3) 0%,rgba(43,33,24,0.5) 80%,rgba(43,33,24,0.92) 100%);
+  }
+  .hero-inner{
+    position:relative;z-index:2;
+    text-align:center;padding:20px;
+  }
+    .hero h1{
+    font-family:'Heebo',Arial,sans-serif;
+    font-weight:800;
+    font-size:clamp(2rem,5.5vw,3.2rem);
+    color:var(--white);
+    letter-spacing:2px;
+    margin-bottom:8px;
+    text-shadow:0 2px 20px rgba(0,0,0,0.4);
+  }
+  .hero h1 em{
+    font-style:normal;
+    color:var(--amber);
+  }
+  .hero-sub{
+    font-size:0.9rem;color:var(--text-mid);
+    font-weight:300;letter-spacing:2px;
+  }
+
+  /* ===== NAV ===== */
+  .nav{
+    position:sticky;top:0;z-index:100;
+    background:rgba(43,33,24,0.96);
+    backdrop-filter:blur(12px);
+    -webkit-backdrop-filter:blur(12px);
+    border-bottom:1px solid var(--rule-accent);
+  }
+  .nav-row{
+    max-width:1000px;margin:0 auto;
+    display:flex;overflow-x:auto;
+    scrollbar-width:none;
+  }
+  .nav-row::-webkit-scrollbar{display:none}
+  .nav-btn{
+    flex-shrink:0;padding:14px 17px;
+    background:none;border:none;
+    font-family:'Heebo',Arial,sans-serif;
+    font-size:0.83rem;font-weight:400;
+    color:var(--text-mid);cursor:pointer;
+    position:relative;transition:color 0.2s;
+    white-space:nowrap;
+  }
+  .nav-btn:hover{color:var(--white)}
+  .nav-btn.active{color:var(--amber);font-weight:600}
+  .nav-btn.active::after{
+    content:'';position:absolute;
+    bottom:0;right:12%;left:12%;
+    height:2px;background:var(--amber);border-radius:2px;
+  }
+
+  /* ===== SECTION PHOTO STRIPS ===== */
+  .strip-inline{
+    width:calc(100% + 48px);margin:0 -24px 20px;
+    height:140px;overflow:hidden;position:relative;
+    border-radius:0;
+  }
+  .strip-inline img{
+    width:100%;height:100%;object-fit:cover;display:block;
+    filter:brightness(0.65);
+  }
+  .strip-fade{
+    position:absolute;bottom:0;left:0;right:0;height:50px;
+    background:linear-gradient(0deg,var(--bg),transparent);
+  }
+  @media(max-width:640px){
+    .strip-inline{height:100px;width:calc(100% + 28px);margin:0 -14px 16px}
+  }
+
+  /* ===== MAIN ===== */
+  .menu-body{
+    max-width:780px;margin:0 auto;
+    padding:0 24px 60px;
+  }
+
+  /* ===== SECTION ===== */
+  .sec{
+    padding-top:40px;scroll-margin-top:52px;
+    margin-bottom:8px;
+  }
+  .sec-head{
+    margin-bottom:20px;
+    padding-bottom:14px;
+    border-bottom:1px solid var(--rule-accent);
+  }
+  .sec-title{
+    font-weight:700;font-size:1.35rem;
+    color:var(--white);letter-spacing:1px;
+  }
+  .sec-title span{
+    color:var(--amber);
+    font-weight:400;
+    font-style:italic;
+  }
+  .sec-note{
+    display:block;
+    font-size:0.78rem;color:var(--text-dim);
+    font-weight:300;margin-top:4px;
+  }
+
+  /* ===== ITEMS ===== */
+  .items{display:flex;flex-direction:column}
+  .row{
+    display:flex;align-items:baseline;
+    padding:12px 12px;gap:10px;
+    border-radius:4px;
+    transition:background 0.15s;
+  }
+  .row:nth-child(odd){background:var(--bg-card)}
+  .row:hover{background:var(--bg-card-hover)}
+  .row-info{flex:1;min-width:0}
+  .row-name{
+    font-weight:600;font-size:0.95rem;
+    color:var(--off-white);line-height:1.35;
+  }
+  .row-desc{
+    font-size:0.78rem;color:var(--text-dim);
+    font-weight:300;margin-top:2px;
+  }
+  .row-price{
+    font-weight:700;font-size:0.95rem;
+    color:var(--amber);white-space:nowrap;
+    flex-shrink:0;direction:ltr;
+    font-variant-numeric:tabular-nums;
+  }
+
+  /* ===== ADD-ONS ===== */
+  .add-ons{
+    margin:12px 0 0;padding:12px 16px;
+    background:rgba(212,146,58,0.06);
+    border:1px solid rgba(212,146,58,0.15);
+    border-radius:6px;
+    font-size:0.78rem;color:var(--text-mid);line-height:1.8;
+  }
+  .add-ons b{color:var(--amber-light);font-weight:600}
+
+  /* ===== DRINKS ===== */
+  .drinks-pair{
+    display:grid;grid-template-columns:1fr 1fr;gap:20px;
+  }
+  @media(max-width:640px){.drinks-pair{grid-template-columns:1fr;gap:14px}}
+
+  .dbox{
+    background:var(--bg-light);
+    border:1px solid var(--rule);
+    border-radius:8px;padding:18px 16px;
+  }
+  .dbox-title{
+    font-weight:700;font-size:0.95rem;
+    color:var(--amber);text-align:center;
+    letter-spacing:0.5px;
+    padding-bottom:10px;margin-bottom:8px;
+    border-bottom:1px solid var(--rule-accent);
+  }
+  .dr{
+    display:flex;justify-content:space-between;
+    align-items:baseline;padding:5px 0;
+    font-size:0.84rem;gap:6px;
+  }
+  .dr+.dr{border-top:1px solid var(--rule)}
+  .dr-n{color:var(--text);font-weight:400;flex:1}
+  .dr-p{
+    color:var(--amber);font-weight:600;
+    white-space:nowrap;direction:ltr;flex-shrink:0;
+    font-variant-numeric:tabular-nums;
+  }
+
+    .dr-p-left {
+        color: var(--amber);
+        font-size: 1.1rem;
+        font-weight: 600;
+        white-space: nowrap;
+        direction: rtl;
+        flex-shrink: 0;
+        font-variant-numeric: tabular-nums;
+    }
+  .dg{margin-top:14px;padding-top:10px;border-top:1px solid var(--rule-accent)}
+  .dg-label{
+    font-size:0.78rem;font-weight:600;
+    color:var(--off-white);margin-bottom:6px;
+    letter-spacing:0.3px;
+  }
+    .dg-label-Left {
+        text-align:right;
+        font-size: 0.78rem;
+        font-weight: 600;
+        color: var(--off-white);
+        margin-bottom: 6px;
+        letter-spacing: 0.3px;
+    }
+  .dn{
+    text-align:center;font-size:0.74rem;
+    color:var(--text-dim);font-style:italic;padding:4px 0;
+  }
+
+  /* ===== FOOTER ===== */
+  .foot{text-align:center;padding:36px 20px 24px}
+  .foot-line{
+    width:40px;height:2px;background:var(--rule-accent);
+    margin:0 auto 16px;border-radius:1px;
+  }
+  .foot p{font-size:0.74rem;color:var(--text-dim);line-height:1.9;font-weight:300}
+
+  /* ===== RESPONSIVE ===== */
+  @media(max-width:480px){
+    .hero{height:44vh;min-height:280px}
+    .hero h1{font-size:1.8rem}
+    .menu-body{padding:0 14px 40px}
+    .nav-btn{padding:12px 13px;font-size:0.78rem}
+    .sec{padding-top:30px}
+    .row{padding:10px 8px}
+    .dbox{padding:14px 12px}
+  }
+  @media print{
+    .nav,.hero,.strip-inline{display:none}
+    body{background:#fff;color:#222}
+    .sec{break-inside:avoid}
+    .row-price,.dr-p{color:#333}
+    .sec-title{color:#222}
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-dim"></div>
+  <div class="hero-inner">
+      <h1>התפריט <em>&</em> המשקאות</h1>
+    <p class="hero-sub">בר מסעדה על החוף · ריף הדולפינים אילת</p>
+  </div>
+</div>
+
+<nav class="nav">
+  <div class="nav-row">
+    <button class="nav-btn active" data-target="breakfast">ארוחת בוקר</button>
+    <button class="nav-btn" data-target="toasts">טוסטים</button>
+    <button class="nav-btn" data-target="salads">סלטים</button>
+    <button class="nav-btn" data-target="sea">מן הים</button>
+    <button class="nav-btn" data-target="grill">על הגריל</button>
+    <button class="nav-btn" data-target="pasta">פסטה</button>
+    <button class="nav-btn" data-target="kids">ילדים</button>
+    <button class="nav-btn" data-target="center">למרכז השולחן</button>
+    <button class="nav-btn" data-target="drinks">משקאות</button>
+    <button class="nav-btn" data-target="alcohol">אלכוהול</button>
+  </div>
+</nav>
+
+<main class="menu-body">
+
+  <!-- BREAKFAST -->
+  <section class="sec" id="breakfast">
+    <div class="strip-inline"><img src="https://images.unsplash.com/photo-1525351484163-7529414344d8?w=1200&h=400&fit=crop&crop=center" alt="" loading="lazy"><div class="strip-fade"></div></div>
+    <div class="sec-head">
+      <div class="sec-title">ארוחת בוקר</div>
+      <div class="sec-note">מוגש עד 11:00</div>
+    </div>
+    <div class="items">
+      <div class="row"><div class="row-info"><div class="row-name">ישראלית</div><div class="row-desc">2 ביצים לבחירה / גבינת שמנת, טחינה, סלמון מעושן, סלט, חמאה וריבה, לחם ושתיה אחת · אפשרות לחביתה טבעונית (מעדשים)</div></div><div class="row-price">₪ 72</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">שקשוקה</div><div class="row-desc">מוגש עם טחינה ולחם</div></div><div class="row-price">₪ 54</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">ג'חנון</div><div class="row-desc">רק בשבת · מוגש עם ביצה קשה רסק וחריף</div></div><div class="row-price">₪ 42</div></div>
+    </div>
+    <div class="add-ons">תוספות: בולגרית / זיתי קלמטה / פטריות / חציל — <b>₪ 5</b> &nbsp;·&nbsp; ארטישוק — <b>₪ 12</b></div>
+  </section>
+
+  <!-- TOASTS -->
+  <section class="sec" id="toasts">
+    <div class="strip-inline"><img src="https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=1200&h=400&fit=crop&crop=center" alt="" loading="lazy"><div class="strip-fade"></div></div>
+    <div class="sec-head">
+      <div class="sec-title">טוסטים</div>
+      <div class="sec-note">מוגש עם סלט ירוק או ירקות חתוכים</div>
+    </div>
+    <div class="items">
+      <div class="row"><div class="row-info"><div class="row-name">טוסט צהובה</div></div><div class="row-price">₪ 42</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">טוסט משולב</div><div class="row-desc">צהובה עם ממרח בולגרית</div></div><div class="row-price">₪ 45</div></div>
+    </div>
+    <div class="add-ons">תוספות: ממרח עגבניות / ממרח פסטו / טפנד זיתים / עגבנייה / בצל / פטריות — <b>₪ 3</b></div>
+  </section>
+
+  <!-- SALADS -->
+  <section class="sec" id="salads">
+    <div class="strip-inline"><img src="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&h=400&fit=crop&crop=center" alt="" loading="lazy"><div class="strip-fade"></div></div>
+    <div class="sec-head">
+      <div class="sec-title">סלטים</div>
+      <div class="sec-note">מוגש עם לחם ורוטב</div>
+    </div>
+    <div class="items">
+      <div class="row"><div class="row-info"><div class="row-name">סלט הבית</div></div><div class="row-price">₪ 54</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">סלט עוף</div></div><div class="row-price">₪ 58</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">סלט יווני</div></div><div class="row-price">₪ 52</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">סלט חלומי</div></div><div class="row-price">₪ 52</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">סלט קצוץ</div><div class="row-desc">גדול / קטן</div></div><div class="row-price">₪ 40 / 25</div></div>
+    </div>
+  </section>
+
+  <!-- SEA -->
+  <section class="sec" id="sea">
+    <div class="strip-inline"><img src="https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=1200&h=400&fit=crop&crop=center" alt="" loading="lazy"><div class="strip-fade"></div></div>
+    <div class="sec-head"><div class="sec-title">מן הים</div></div>
+    <div class="items">
+      <div class="row"><div class="row-info"><div class="row-name">שרימפס</div><div class="row-desc">ברוטב עשבי תיבול ושמנת / חמאה, שום ויין</div></div><div class="row-price">₪ 95</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">פיש & צ'יפס</div></div><div class="row-price">₪ 58</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">פילה דניס</div></div><div class="row-price">₪ 105</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">פילה סלמון</div></div><div class="row-price">₪ 96</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">טבעות קלמרי מטוגנות</div></div><div class="row-price">₪ 68</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">דואט מטוגן</div><div class="row-desc">שרימפס וקלמרי</div></div><div class="row-price">₪ 95</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">חריימה של יעל</div><div class="row-desc">רק בשישי · מוגש עם סלט כרוב, עגבניות חריפות ולחם</div></div><div class="row-price">₪ 64</div></div>
+    </div>
+  </section>
+
+  <!-- GRILL -->
+  <section class="sec" id="grill">
+    <div class="strip-inline"><img src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1200&h=400&fit=crop&crop=center" alt="" loading="lazy"><div class="strip-fade"></div></div>
+    <div class="sec-head">
+      <div class="sec-title">על הגריל</div>
+      <div class="sec-note">העיקריות מוגשות עם תוספת לבחירה: אורז / צ'יפס / סלט ירוק</div>
+    </div>
+    <div class="items">
+      <div class="row"><div class="row-info"><div class="row-name">המבורגר</div><div class="row-desc">240 גרם בקר בלחמנית פרצ'ל · מוגש עם חסה, עגבנייה, מלפפון חומץ ובצל</div></div><div class="row-price">₪ 72</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">חזה עוף</div><div class="row-desc">ברוטב צ'ילי / שמנת-פטריות / עשבי תיבול / שמנת עשבי תיבול</div></div><div class="row-price">₪ 68</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">סטייק פרגית</div></div><div class="row-price">₪ 75</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">כנפיים BBQ</div><div class="row-desc">ללא תוספת</div></div><div class="row-price">₪ 54</div></div>
+    </div>
+    <div class="add-ons">המבורגר: אפשרות לקציצה טבעונית — <b>₪ 5</b> / או חזה עוף<br>ריבת בצל / גבינה צהובה — <b>₪ 3</b> &nbsp;·&nbsp; פלפל חריף / צ'דר / ביצת עין / הפוכה — <b>₪ 6</b><br>לחמנייה ללא גלוטן — <b>₪ 3</b></div>
+  </section>
+
+  <!-- KIDS -->
+  <section class="sec" id="kids">
+    <div class="sec-head"><div class="sec-title">מנות ילדים</div></div>
+    <div class="items">
+      <div class="row"><div class="row-info"><div class="row-name">המבורגר ילדים</div><div class="row-desc">בלחמנייה עם עגבנייה, חסה ומלפפון חמוץ (120 גר')</div></div><div class="row-price">₪ 48</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">שניצלונים וצ'יפס</div></div><div class="row-price">₪ 58</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">נקניקיות וצ'יפס בצלחת</div></div><div class="row-price">₪ 32</div></div>
+    </div>
+  </section>
+
+  <!-- PASTA -->
+  <section class="sec" id="pasta">
+    <div class="strip-inline"><img src="https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=1200&h=400&fit=crop&crop=center" alt="" loading="lazy"><div class="strip-fade"></div></div>
+    <div class="sec-head"><div class="sec-title">פסטה</div><div class="sec-note">מוגש בליווי פרמזן</div></div>
+    <div class="items">
+      <div class="row"><div class="row-info"><div class="row-name">פסטה פנה / ספגטי / ללא גלוטן</div><div class="row-desc">ברוטב עגבניות · שדרוג לרוזה / שמנת פטריות / בולונז</div></div><div class="row-price">₪ 52</div></div>
+    </div>
+    <div class="add-ons">שדרוג רוטב — <b>₪ 5</b></div>
+  </section>
+
+  <!-- CENTER TABLE -->
+  <section class="sec" id="center">
+    <div class="strip-inline"><img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&h=400&fit=crop&crop=center" alt="" loading="lazy"><div class="strip-fade"></div></div>
+    <div class="sec-head"><div class="sec-title">למרכז השולחן</div></div>
+    <div class="items">
+      <div class="row"><div class="row-info"><div class="row-name">פלטת מזטים</div><div class="row-desc">שאל את המלצר</div></div><div class="row-price">₪ 58</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">מזט לבחירה</div></div><div class="row-price">₪ 16</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">בטטה בתנור</div><div class="row-desc">מוגש עם טחינה וסלט קצוץ</div></div><div class="row-price">₪ 48</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">שעועית ירוקה</div></div><div class="row-price">₪ 18</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">צ'יפס</div></div><div class="row-price">₪ 28</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">צלחת חריף</div></div><div class="row-price">₪ 22</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">חומוס / טחינה / לבנה</div><div class="row-desc">מוגש עם פיתה | 2 פיתות · גדול / קטן</div></div><div class="row-price">₪ 24 / 14</div></div>
+      <div class="row"><div class="row-info"><div class="row-name">פוקצ'ה מחמצת</div><div class="row-desc">קמח מלא</div></div><div class="row-price">₪ 18</div></div>
+    </div>
+    <div class="add-ons">תוספת פיתה / לחמנייה — <b>₪ 4</b> &nbsp;·&nbsp; לחמנייה ללא גלוטן — <b>₪ 6</b><br>סביבת העבודה אינה סטרילית ועלולה להכיל רכיבים אלרגניים</div>
+  </section>
+
+  <!-- DRINKS -->
+  <section class="sec" id="drinks">
+    <div class="sec-head"><div class="sec-title">משקאות</div></div>
+    <div class="drinks-pair">
+      <div class="dbox">
+        <div class="dbox-title">משקאות קלים</div>
+        <div class="dr"><span class="dr-n">סודה 250 מ"ל</span><span class="dr-p">₪ 8</span></div>
+        <div class="dr"><span class="dr-n">מים קטן</span><span class="dr-p">₪ 8</span></div>
+        <div class="dr"><span class="dr-n">מים גדול</span><span class="dr-p">₪ 10</span></div>
+        <div class="dr"><span class="dr-n">קוקה קולה / זירו</span><span class="dr-p">₪ 15</span></div>
+        <div class="dr"><span class="dr-n">ספרייט / ספרייט זירו</span><span class="dr-p">₪ 15</span></div>
+        <div class="dr"><span class="dr-n">תפוזים סחוט</span><span class="dr-p">₪ 24</span></div>
+        <div class="dr"><span class="dr-n">תפוזים פריגת</span><span class="dr-p">₪ 15</span></div>
+        <div class="dr"><span class="dr-n">אשכוליות פריגת</span><span class="dr-p">₪ 15</span></div>
+        <div class="dr"><span class="dr-n">תפוחים צלול בקבוק</span><span class="dr-p">₪ 15</span></div>
+        <div class="dr"><span class="dr-n">ענבים בקבוק</span><span class="dr-p">₪ 15</span></div>
+        <div class="dr"><span class="dr-n">מים בטעמים (אפרסק / ענבים / תפוח)</span><span class="dr-p">₪ 15</span></div>
+        <div class="dr"><span class="dr-n">אייס-טי אפרסק ביתי</span><span class="dr-p">₪ 20</span></div>
+        <div class="dr"><span class="dr-n">פרללה מינרלים מוגז עדין 750 מ"ל</span><span class="dr-p">₪ 25</span></div>
+      </div>
+      <div class="dbox">
+        <div class="dbox-title">משקאות חמים</div>
+        <div class="dr"><span class="dr-n">קפה שחור</span><span class="dr-p">₪ 8</span></div>
+        <div class="dr"><span class="dr-n">נס קפה</span><span class="dr-p">₪ 11</span></div>
+        <div class="dr"><span class="dr-n">אספרסו / כפול</span><span class="dr-p">₪ 9 / 14</span></div>
+        <div class="dr"><span class="dr-n">תה / תה בריאות</span><span class="dr-p">₪ 10 / 14</span></div>
+        <div class="dr"><span class="dr-n">מקיאטו / כפול</span><span class="dr-p">₪ 12 / 14</span></div>
+        <div class="dr"><span class="dr-n">הפוך קטן / גדול</span><span class="dr-p">₪ 14 / 16</span></div>
+        <div class="dr"><span class="dr-n">אמריקנו</span><span class="dr-p">₪ 16</span></div>
+        <div class="dr"><span class="dr-n">אפוגטו</span><span class="dr-p">₪ 16</span></div>
+        <div class="dr"><span class="dr-n">שוקו חם / קר</span><span class="dr-p">₪ 16</span></div>
+        <div class="dr"><span class="dr-n">נס קפה קר</span><span class="dr-p">₪ 18</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ALCOHOL -->
+  <section class="sec" id="alcohol">
+    <div class="strip-inline"><img src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&h=400&fit=crop&crop=center" alt="" loading="lazy"><div class="strip-fade"></div></div>
+    <div class="sec-head"><div class="sec-title">שייקים, ברדים <span>&</span> אלכוהול</div></div>
+    <div class="drinks-pair">
+      <div class="dbox">
+        <div class="dbox-title">שייקים & ברדים</div>
+        <div class="dr"><span class="dr-n">אייס קפה</span><span class="dr-p">₪ 21</span></div>
+        <div class="dr"><span class="dr-n">לימונענע גרוס</span><span class="dr-p">₪ 22</span></div>
+        <div class="dr"><span class="dr-n">ענבים / אבטיח</span><span class="dr-p">₪ 18</span></div>
+        <div class="dr"><span class="dr-n">פרישייק — טבעוני</span><span class="dr-p">₪ 38</span></div>
+        <div class="dn">ניתן להוסיף אלכוהול לשייקים והברדים · שאל את המלצר</div>
+        <div class="dg"><div class="dg-label">קוקטיילים</div><div class="dn">שאל את המלצר</div></div>
+        <div class="dg">
+          <div class="dg-label">ברד ערק</div>
+          <div class="dr"><span class="dr-n">רגיל / גדול</span><span class="dr-p">₪ 36</span></div>
+          <div class="dr"><span class="dr-n">חיזוק ערק: צ'ייסר</span><span class="dr-p">₪ 9</span></div>
+          <div class="dr"><span class="dr-n">חיזוק ערק: מנה</span><span class="dr-p">₪ 12</span></div>
+        </div>
+        <div class="dg">
+          <div class="dg-label">יין בכוס</div>
+          <div class="dr"><span class="dr-n">אביב לבן</span><span class="dr-p">₪ 28</span></div>
+          <div class="dr"><span class="dr-n">אביב רוזה</span><span class="dr-p">₪ 32</span></div>
+          <div class="dr"><span class="dr-n">אביב אדום</span><span class="dr-p">₪ 34</span></div>
+          <div class="dr"><span class="dr-n">גמלא גוורצטרמינר (חצי יבש)</span><span class="dr-p">₪ 32</span></div>
+          <div class="dn">תפריט יין מלא · שאל את המלצר</div>
+        </div>
+      </div>
+      <div class="dbox">
+        <div class="dbox-title">בירות</div>
+        <div class="dr"><span class="dr-n">מהחבית </span><span class="dr-p-left">&nbsp;&nbsp; ½ / ⅓&nbsp;&nbsp;</span></div>
+        <div class="dr"><span class="dr-n">קרלסברג</span><span class="dr-p">₪ 26 / 30</span></div>
+        <div class="dr"><span class="dr-n">טובורג</span><span class="dr-p">₪ 26 / 30</span></div>
+        <div class="dr"><span class="dr-n">ויינשטפן</span><span class="dr-p">₪ 28 / 34</span></div>
+        <div class="dr"><span class="dr-n">בלאנק 1664</span><span class="dr-p">₪ 28 / 34</span></div>
+        <div class="dr"><span class="dr-n">שיקמה בלונד</span><span class="dr-p">₪ 28 / 34</span></div>
+        <div class="dg">
+          <div class="dg-label">בקבוק / פחית</div>
+          <div class="dr"><span class="dr-n">קרלסברג אלומיניום</span><span class="dr-p">₪ 26</span></div>
+          <div class="dr"><span class="dr-n">בלאנק 1664 פחית</span><span class="dr-p">₪ 28</span></div>
+          <div class="dr"><span class="dr-n">שיקמה IPA</span><span class="dr-p">₪ 28</span></div>
+          <div class="dr"><span class="dr-n">סאן מיגל פרסקה</span><span class="dr-p">₪ 28</span></div>
+          <div class="dr"><span class="dr-n">אסטרייה דאם</span><span class="dr-p">₪ 28</span></div>
+          <div class="dr"><span class="dr-n">סיידר אלכוהולי (ללא גלוטן)</span><span class="dr-p">₪ 28</span></div>
+          <div class="dr"><span class="dr-n">אדורה דאם (ללא גלוטן)</span><span class="dr-p">₪ 28</span></div>
+        </div>
+        <div class="dg">
+          <div class="dg-label">באקטים</div>
+          <div class="dr"><span class="dr-n">בלאנק 1664 — 3+1 (פחית)</span><span class="dr-p">₪ 78</span></div>
+          <div class="dr"><span class="dr-n">מיקס 4+1 (קרלסברג, אסטרייה, בלאנק)</span><span class="dr-p">₪ 105</span></div>
+          <div class="dr"><span class="dr-n">סומרסבי סיידר תפוחים 2+1</span><span class="dr-p">₪ 74</span></div>
+          <div class="dr"><span class="dr-n">באקט סאן מיגל 5 בקבוקים 250 מ"ל</span><span class="dr-p">₪ 76</span></div>
+        </div>
+        <div class="dn">עוד אלכוהול שלא בתפריט · שאל את המלצר</div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="foot">
+    <div class="foot-line"></div>
+    <p>בעלי כרטיס חבר ריף או תושב אילת, נא להציגו בעת ההזמנה<br>ריף הדולפינים אילת &nbsp;·&nbsp; 08-6300111 &nbsp;·&nbsp; info@dolphinreef.co.il<br>המחירים כוללים מע"מ &nbsp;·&nbsp; התפריט עשוי להשתנות<br>מקווים שנהניתם, נשמח לראותכם שוב</p>
+  </footer>
+</main>
+
+<script>
+(function(){
+  var secs=document.querySelectorAll('.sec');
+  var btns=document.querySelectorAll('.nav-btn');
+  var nav=document.querySelector('.nav');
+  var track=document.querySelector('.nav-row');
+  var lock=false;
+
+  /* Scroll a nav button into view WITHOUT scrollIntoView (which hijacks page scroll on mobile) */
+  /* Only scrolls if the button is not fully visible. Never over-centers edge buttons. */
+  function scrollBtnIntoNav(btn){
+    if(!track||!btn)return;
+    var tRect=track.getBoundingClientRect();
+    var bRect=btn.getBoundingClientRect();
+    var pad=12;
+    /* Check if button is already fully visible within the track */
+    if(bRect.left>=tRect.left+pad && bRect.right<=tRect.right-pad) return;
+    /* Button is clipped — scroll just enough to bring it into view with padding */
+    var offset=0;
+    if(bRect.right>tRect.right-pad){
+      /* Clipped on right (LTR) / left (visual RTL end) — scroll to show it */
+      offset=bRect.right-tRect.right+pad;
+    }else if(bRect.left<tRect.left+pad){
+      /* Clipped on left (LTR) / right (visual RTL start) — scroll to show it */
+      offset=bRect.left-tRect.left-pad;
+    }
+    if(Math.abs(offset)>2){
+      track.scrollBy({left:offset,behavior:'smooth'});
+    }
+  }
+
+  btns.forEach(function(b){
+    b.addEventListener('click',function(e){
+      e.preventDefault();
+      var t=document.getElementById(b.dataset.target);
+      if(!t)return;
+      lock=true;
+      btns.forEach(function(x){x.classList.remove('active')});
+      b.classList.add('active');
+      scrollBtnIntoNav(b);
+      t.scrollIntoView({behavior:'smooth',block:'start'});
+      setTimeout(function(){lock=false},1200);
+    });
+  });
+
+  /* Throttled scroll spy — runs at most every 120ms to avoid scroll jank */
+  var ticking=false;
+  function spy(){
+    if(lock)return;
+    var nh=nav?nav.offsetHeight:52;
+    var cur=null;
+    for(var i=secs.length-1;i>=0;i--){
+      if(secs[i].getBoundingClientRect().top<=nh+80){cur=secs[i];break}
+    }
+    if(!cur)return;
+    var id=cur.id;
+    var a=document.querySelector('.nav-btn.active');
+    if(a&&a.dataset.target===id)return;
+    btns.forEach(function(x){x.classList.remove('active')});
+    var m=document.querySelector('.nav-btn[data-target="'+id+'"]');
+    if(m){m.classList.add('active');scrollBtnIntoNav(m)}
+  }
+  function onScroll(){
+    if(!ticking){
+      ticking=true;
+      requestAnimationFrame(function(){spy();ticking=false});
+    }
+  }
+  window.addEventListener('scroll',onScroll,{passive:true});
+  document.addEventListener('scroll',onScroll,{passive:true});
+  spy();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+{
+  "slug": "map",
+  "source": "https://www.dolphinreef.co.il/map",
+  "seo": {
+    "title": "מפה להתמצאות בריף הדולפינים אילת",
+    "description": "מפה דינמית להתמצאות בריף הדולפינים אילת – אתרו את הבריכות, מועדון הצלילה, המסעדה, הקפה, חנות המזכרות ושאר נקודות העניין באתר לקראת הביקור.",
+    "ogTitle": "מפה להתמצאות בריף הדולפינים אילת",
+    "ogDescription": "מפה דינמית להתמצאות בריף הדולפינים אילת – אתרו את הבריכות, מועדון הצלילה, המסעדה, הקפה, חנות המזכרות ושאר נקודות העניין באתר לקראת הביקור.",
+    "ogImage": "https://static.wixstatic.com/media/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/166e60_9d788e16ab49497eb1834ea156162169%7Emv2.jpg",
+    "canonical": "https://www.dolphinreef.co.il/map"
+  },
+  "h1": [
+    "מפת התמצאות בריף הדולפינים"
+  ],
+  "sections": [
+    {
+      "heading": "מפת התמצאות בריף הדולפינים",
+      "level": 1,
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/166e60_0eb8b031caed4e24a4bebafcde5cb97d~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOLPHIN%20REEF%20LOGO_HQ.png",
+          "alt": "Dolphin Reef Logo"
+        }
+      ]
+    },
+    {
+      "heading": "לחיצה על המספר המופיע במפה תפתח תיאור והסבר קצר על האזור שנבחר.",
+      "level": 2,
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/166e60_7a720a93da5444df87e38a94a752ee54~mv2.jpg/v1/fill/w_1139,h_700,al_c,q_85,enc_avif,quality_auto/map.jpg",
+          "alt": "מפת התמצאות בריף הדולפינים"
+        }
+      ]
+    }
+  ],
+  "faq": [],
+  "ctas": [],
+  "videos": [],
+  "embeds": []
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "index": 0,
+    "x": 1124,
+    "y": 239,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_a92a9eba177948d996f6d533516dda05~mv2.jpg/v1/fill/w_493,h_163,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/map-5.jpg",
+        "alt": "גונדולה סירת זכוכית",
+        "w": 493,
+        "h": 163
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "x": 966,
+    "y": 239,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_058e06f5e1b14b55ad14fe733ae7e789~mv2.jpg/v1/fill/w_515,h_167,al_c,lg_1,q_80,enc_avif,quality_auto/map-6.jpg",
+        "alt": "בר מסעדה על המים",
+        "w": 515,
+        "h": 167
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "x": 895,
+    "y": 239,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_7366d940823c482fbb17f3079fedcf80~mv2.jpg/v1/fill/w_493,h_163,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/map-7.jpg",
+        "alt": "ירידה לחוף",
+        "w": 493,
+        "h": 163
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "x": 488,
+    "y": 239,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_7366d940823c482fbb17f3079fedcf80~mv2.jpg/v1/fill/w_493,h_163,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/map-7.jpg",
+        "alt": "ירידה לחוף",
+        "w": 493,
+        "h": 163
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "x": 415,
+    "y": 239,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_84a67926591b4aaa8fbbed95f2f0fb3a~mv2.jpg/v1/fill/w_493,h_163,fp_0.64_0.28,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/map-8.jpg",
+        "alt": "צפייה בדולפינים",
+        "w": 493,
+        "h": 163
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "x": 31,
+    "y": 454,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_7366d940823c482fbb17f3079fedcf80~mv2.jpg/v1/fill/w_493,h_163,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/map-7.jpg",
+        "alt": "ירידה לחוף",
+        "w": 493,
+        "h": 163
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "x": 31,
+    "y": 517,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_c58a2cb2312e4adabd0d98e7c23078c5~mv2.jpg/v1/fill/w_614,h_373,al_c,lg_1,q_80,enc_avif,quality_auto/map-12.jpg",
+        "alt": "סתלבט על המים",
+        "w": 614,
+        "h": 373
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "x": 31,
+    "y": 608,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_c69a5e0dd6174c37825736b1afd4f9bb~mv2.jpg/v1/fill/w_493,h_163,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/map-11.jpg",
+        "alt": "מרכז צילום",
+        "w": 493,
+        "h": 163
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "x": 1374,
+    "y": 674,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_4c109b35996f464996ae0ecd347c6cf3~mv2.jpg/v1/fill/w_500,h_200,al_c,q_80,enc_avif,quality_auto/map-accessibility.jpg",
+        "alt": "דרכים נגישות",
+        "w": 500,
+        "h": 200
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "x": 31,
+    "y": 674,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_bf064874526d4388b0f166f1b770ea0a~mv2.jpg/v1/fill/w_515,h_167,al_c,lg_1,q_80,enc_avif,quality_auto/map-10.jpg",
+        "alt": "מסעדה בהגשה עצמית",
+        "w": 515,
+        "h": 167
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "x": 1371,
+    "y": 784,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_6852b0a881d14078a0d63d2a68e87f17~mv2.jpg/v1/fill/w_493,h_163,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/map-1.jpg",
+        "alt": "כנסה קופות ומידע",
+        "w": 493,
+        "h": 163
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "x": 31,
+    "y": 743,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_91bc53eb59b64e4cbbfdab1620a31d72~mv2.jpg/v1/fill/w_580,h_410,fp_0.79_0.61,lg_1,q_80,enc_avif,quality_auto/map-9.jpg",
+        "alt": "שחייה וצלילה עם דולפינים",
+        "w": 580,
+        "h": 410
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "x": 1374,
+    "y": 938,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_4c109b35996f464996ae0ecd347c6cf3~mv2.jpg/v1/fill/w_500,h_200,al_c,q_80,enc_avif,quality_auto/map-accessibility.jpg",
+        "alt": "דרכים נגישות",
+        "w": 500,
+        "h": 200
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "x": 1157,
+    "y": 1018,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_4c109b35996f464996ae0ecd347c6cf3~mv2.jpg/v1/fill/w_500,h_200,al_c,q_80,enc_avif,quality_auto/map-accessibility.jpg",
+        "alt": "דרכים נגישות",
+        "w": 500,
+        "h": 200
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "x": 966,
+    "y": 1019,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_34710052edcc4fdfa0af8aa15eee24d1~mv2.jpg/v1/fill/w_515,h_167,al_c,lg_1,q_80,enc_avif,quality_auto/map-2.jpg",
+        "alt": "חנות מזכרות",
+        "w": 515,
+        "h": 167
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "x": 902,
+    "y": 1020,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_adf43544fc9b42c3aa66213dfd3614c2~mv2.jpg/v1/fill/w_515,h_167,al_c,lg_1,q_80,enc_avif,quality_auto/map-3.jpg",
+        "alt": "אודיטוריום סרטי דולפינים",
+        "w": 515,
+        "h": 167
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "x": 839,
+    "y": 1020,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_ae20014a72b148b590c80f2aa6dd8bc1~mv2.jpg/v1/fill/w_515,h_167,al_c,lg_1,q_80,enc_avif,quality_auto/map-4.jpg",
+        "alt": "מרכז יצירה לילדים",
+        "w": 515,
+        "h": 167
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "x": 403,
+    "y": 1018,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_4c109b35996f464996ae0ecd347c6cf3~mv2.jpg/v1/fill/w_500,h_200,al_c,q_80,enc_avif,quality_auto/map-accessibility.jpg",
+        "alt": "דרכים נגישות",
+        "w": 500,
+        "h": 200
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "x": 302,
+    "y": 1019,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_4c109b35996f464996ae0ecd347c6cf3~mv2.jpg/v1/fill/w_500,h_200,al_c,q_80,enc_avif,quality_auto/map-accessibility.jpg",
+        "alt": "דרכים נגישות",
+        "w": 500,
+        "h": 200
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "x": 211,
+    "y": 1020,
+    "href": null,
+    "buttonImage": null,
+    "popupImages": [
+      {
+        "src": "https://static.wixstatic.com/media/166e60_4c109b35996f464996ae0ecd347c6cf3~mv2.jpg/v1/fill/w_500,h_200,al_c,q_80,enc_avif,quality_auto/map-accessibility.jpg",
+        "alt": "דרכים נגישות",
+        "w": 500,
+        "h": 200
+      }
+    ]
+  }
+]
