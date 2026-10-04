@@ -220,11 +220,13 @@
     "alt": [
       "תמונה של החוף בריף הדולפינים בשקיעה."
     ],
-    "bytes": 3111598,
+    "bytes": 799598,
     "downloaded": true,
-    "width": 4032,
-    "height": 2264,
-    "format": "JPEG"
+    "width": 2400,
+    "height": 1348,
+    "format": "JPEG",
+    "originalWidth": 4032,
+    "originalHeight": 2264
   },
   {
     "file": "/assets/images/62bd3d_9f9bce48fe754607af9f95f86cd1b020.jpg",
@@ -266,10 +268,12 @@
       "/dining-at-thereef"
     ],
     "alt": [],
-    "bytes": 12978336,
+    "bytes": 2987317,
     "downloaded": true,
     "quality": "360p",
-    "dimensionsFromRendition": "360p"
+    "dimensionsFromRendition": "360p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 12978336
   },
   {
     "file": "/assets/pdf/62bd3d_d6031990d17d42eb98ae5de91d0616a5.pdf",
@@ -306,10 +310,12 @@
       "/diving"
     ],
     "alt": [],
-    "bytes": 12595913,
+    "bytes": 3028005,
     "downloaded": true,
     "quality": "360p",
-    "dimensionsFromRendition": "360p"
+    "dimensionsFromRendition": "360p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 12595913
   },
   {
     "file": "/assets/pdf/62bd3d_5abe4de656634145922ab76b2f7ccf7d.pdf",
@@ -544,11 +550,13 @@
     "alt": [
       "סתלבט"
     ],
-    "bytes": 6304424,
+    "bytes": 771631,
     "downloaded": true,
-    "width": 6016,
-    "height": 4000,
-    "format": "MPO"
+    "width": 2400,
+    "height": 1596,
+    "format": "MPO",
+    "originalWidth": 6016,
+    "originalHeight": 4000
   },
   {
     "file": "/assets/images/166e60_c91f4e9e44db4cd49408c7c14181420f.jpg",
@@ -580,11 +588,13 @@
       "Dolphins and cats",
       "סנוב, בוא למים"
     ],
-    "bytes": 3450729,
+    "bytes": 637460,
     "downloaded": true,
-    "width": 4032,
-    "height": 3024,
-    "format": "JPEG"
+    "width": 2400,
+    "height": 1800,
+    "format": "JPEG",
+    "originalWidth": 4032,
+    "originalHeight": 3024
   },
   {
     "file": "/assets/images/166e60_66c7025701d74db78df0805092fa74ff.jpg",
@@ -597,11 +607,13 @@
       "Dolphin Reef on a rainy day",
       "ברווזים במים"
     ],
-    "bytes": 2360542,
+    "bytes": 256200,
     "downloaded": true,
-    "width": 4256,
-    "height": 2832,
-    "format": "JPEG"
+    "width": 2400,
+    "height": 1597,
+    "format": "JPEG",
+    "originalWidth": 4256,
+    "originalHeight": 2832
   },
   {
     "file": "/assets/images/166e60_e1e8172983f64fe5977a1b467bb12cbc.jpg",
@@ -721,11 +733,13 @@
     "alt": [
       "מבט על הבר בקפה סתלבט"
     ],
-    "bytes": 10385105,
+    "bytes": 1961836,
     "downloaded": true,
-    "width": 3024,
-    "height": 4032,
-    "format": "JPEG"
+    "width": 2400,
+    "height": 3200,
+    "format": "JPEG",
+    "originalWidth": 3024,
+    "originalHeight": 4032
   },
   {
     "file": "/assets/images/166e60_c64c20ec425d467e8f518b894fc3978c.jpg",
@@ -772,11 +786,13 @@
     "alt": [
       "הנוף מתחת למים"
     ],
-    "bytes": 4437610,
+    "bytes": 574569,
     "downloaded": true,
-    "width": 4000,
-    "height": 3000,
-    "format": "JPEG"
+    "width": 2400,
+    "height": 1800,
+    "format": "JPEG",
+    "originalWidth": 4000,
+    "originalHeight": 3000
   },
   {
     "file": "/assets/images/166e60_1e054c6d579248449bd4f92d0495ab88.jpg",
@@ -955,10 +971,12 @@
       "/experience-thereef"
     ],
     "alt": [],
-    "bytes": 45104785,
+    "bytes": 13307845,
     "downloaded": true,
     "quality": "360p",
-    "dimensionsFromRendition": "360p"
+    "dimensionsFromRendition": "360p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 45104785
   },
   {
     "file": "/assets/images/166e60_9464caf34955478b8e60f0041d0ddff9f000.jpg",
@@ -1104,11 +1122,13 @@
       "menu hero",
       "לאכול בריף תמונה של בחורה יושבת על החוף קורה בספר מחכה לארוחת צהריים בריף הדולפינים"
     ],
-    "bytes": 3577104,
+    "bytes": 866519,
     "downloaded": true,
-    "width": 6000,
-    "height": 4000,
-    "format": "JPEG"
+    "width": 2400,
+    "height": 1600,
+    "format": "JPEG",
+    "originalWidth": 6000,
+    "originalHeight": 4000
   },
   {
     "file": "/assets/images/166e60_dee21300b4074dad908e6d0a11198d21.jpg",
@@ -1153,10 +1173,12 @@
       "/"
     ],
     "alt": [],
-    "bytes": 24361989,
+    "bytes": 6116254,
     "downloaded": true,
     "quality": "720p",
-    "dimensionsFromRendition": "720p"
+    "dimensionsFromRendition": "720p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 24361989
   },
   {
     "file": "/assets/video/166e60_0ffd61ae82db425ea673ca004fc2f9a7.mp4",
@@ -1166,10 +1188,12 @@
       "/"
     ],
     "alt": [],
-    "bytes": 23556554,
+    "bytes": 6668585,
     "downloaded": true,
     "quality": "480p",
-    "dimensionsFromRendition": "480p"
+    "dimensionsFromRendition": "480p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 23556554
   },
   {
     "file": "/assets/video/166e60_30e888ad073e40a488aeee5c7b9c3a63.mp4",
@@ -1179,10 +1203,12 @@
       "/"
     ],
     "alt": [],
-    "bytes": 9756411,
+    "bytes": 2325492,
     "downloaded": true,
     "quality": "720p",
-    "dimensionsFromRendition": "720p"
+    "dimensionsFromRendition": "720p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 9756411
   },
   {
     "file": "/assets/images/166e60_7a720a93da5444df87e38a94a752ee54.jpg",
@@ -1224,10 +1250,12 @@
       "/our-vision"
     ],
     "alt": [],
-    "bytes": 23604859,
+    "bytes": 6675648,
     "downloaded": true,
     "quality": "360p",
-    "dimensionsFromRendition": "360p"
+    "dimensionsFromRendition": "360p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 23604859
   },
   {
     "file": "/assets/images/62bd3d_2915f2f34d8540d29439129d6fc8dd17f000.jpg",
@@ -1251,10 +1279,12 @@
       "/shop"
     ],
     "alt": [],
-    "bytes": 21302856,
+    "bytes": 4023253,
     "downloaded": true,
     "quality": "360p",
-    "dimensionsFromRendition": "360p"
+    "dimensionsFromRendition": "360p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 21302856
   },
   {
     "file": "/assets/images/166e60_0bc21fdafe1b42669e2329ef0a293f01f000.jpg",
@@ -1280,10 +1310,12 @@
       "/stalbet"
     ],
     "alt": [],
-    "bytes": 6248001,
+    "bytes": 2351241,
     "downloaded": true,
     "quality": "360p",
-    "dimensionsFromRendition": "360p"
+    "dimensionsFromRendition": "360p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 6248001
   },
   {
     "file": "/assets/images/62bd3d_d9cc9b978d824b758ecad78c381fec60.jpg",
@@ -1295,11 +1327,13 @@
     "alt": [
       "תמונה של קפה סתלבט על המים"
     ],
-    "bytes": 6343081,
+    "bytes": 776729,
     "downloaded": true,
-    "width": 7464,
-    "height": 3884,
-    "format": "JPEG"
+    "width": 2400,
+    "height": 1249,
+    "format": "JPEG",
+    "originalWidth": 7464,
+    "originalHeight": 3884
   },
   {
     "file": "/assets/images/62bd3d_d82bf80247f442d09a13b6ea8a63f31b.jpg",
@@ -1367,10 +1401,12 @@
       "/supportive-experience"
     ],
     "alt": [],
-    "bytes": 19311662,
+    "bytes": 10077298,
     "downloaded": true,
     "quality": "360p",
-    "dimensionsFromRendition": "360p"
+    "dimensionsFromRendition": "360p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 19311662
   },
   {
     "file": "/assets/pdf/62bd3d_189b134905274291ad4f8941b0d018b8.pdf",
@@ -1407,10 +1443,12 @@
       "/swimming"
     ],
     "alt": [],
-    "bytes": 8951041,
+    "bytes": 3606899,
     "downloaded": true,
     "quality": "360p",
-    "dimensionsFromRendition": "360p"
+    "dimensionsFromRendition": "360p",
+    "optimized": "h264 720p crf28, no audio",
+    "bytesOriginal": 8951041
   },
   {
     "file": "/assets/pdf/62bd3d_48a9c770b7534481a7e0281efe10080d.pdf",

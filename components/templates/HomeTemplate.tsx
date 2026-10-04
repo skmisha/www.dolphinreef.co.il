@@ -112,7 +112,7 @@ export async function HomeTemplate({ page }: { page: HomePage }) {
             </div>
           </div>
           {geo && (
-            <a className="visit__map" href={googleMaps(geo.latitude, geo.longitude)} target="_blank" rel="noopener noreferrer" aria-label={`${t('home.openMapsLabel')} ${t('a11y.opensNewWindow')}`}>
+            <a className="visit__map" href={googleMaps(geo.latitude, geo.longitude)} target="_blank" rel="noopener noreferrer" aria-label={`${t('home.openMaps')} – ${t('home.openMapsLabel')} ${t('a11y.opensNewWindow')}`}>
               <Image src={page.visit.image.src} alt="" fill sizes="(min-width: 1024px) 640px, 100vw" quality={60} style={{ objectFit: 'cover' }} />
               <span className="btn btn--book">
                 <Icon name="pin" size={18} />

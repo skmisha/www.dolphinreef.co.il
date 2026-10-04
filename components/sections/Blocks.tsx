@@ -49,7 +49,7 @@ export function Faq({ items, openFirst = true }: { items: FaqItem[]; openFirst?:
 export async function VideoFacade({ id, poster, title }: { id: string; poster?: { src: string; width: number; height: number }; title: string }) {
   const t = await getTranslations();
   return (
-    <a className="video-facade" href={youtube(id)} target="_blank" rel="noopener noreferrer" aria-label={`${t('video.watchLabel')}: ${title} ${t('a11y.opensNewWindow')}`}>
+    <a className="video-facade" href={youtube(id)} target="_blank" rel="noopener noreferrer" aria-label={`${t('video.watchOnYoutube')}: ${title} ${t('a11y.opensNewWindow')}`}>
       {poster && <Image src={poster.src} alt="" width={poster.width} height={poster.height} sizes="(min-width: 1024px) 736px, 100vw" quality={60} />}
       <span className="play" aria-hidden="true">
         <Icon name="play" size={30} />

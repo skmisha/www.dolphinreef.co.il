@@ -17,8 +17,8 @@
     "image": {
       "src": "/assets/images/62bd3d_79e6f92bc1584eafaa455a35c2d963f4.jpg",
       "alt": "הנוף מתחת למים",
-      "width": 4000,
-      "height": 3000
+      "width": 2400,
+      "height": 1800
     },
     "video": {
       "src": "/assets/video/166e60_0ffd61ae82db425ea673ca004fc2f9a7.mp4",
@@ -191,8 +191,8 @@
       "image": {
         "src": "/assets/images/166e60_6fecf2aa885b4339b80ec9ce26c44024.jpg",
         "alt": "תמונה של החוף בריף הדולפינים בשקיעה.",
-        "width": 4032,
-        "height": 2264
+        "width": 2400,
+        "height": 1348
       }
     }
   ],
