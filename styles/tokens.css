@@ -1,113 +1,162 @@
-/* Dolphin Reef design tokens. Single source for the Tailwind theme in Phase 3.
-   Concept: "Calm depth": light sand and shell surfaces above, abyss blues below, sun-gold for booking actions only.
-   Every text/background pair used in components is listed with its contrast ratio in design/README.md. */
+/* Dolphin Reef design tokens (approved in Polish Phase 2; see polish/tokens.md).
+   Direction: restrained premium type, full-bleed photography, approachable facts.
+   Rules: 1 primary (ocean) + 1 accent (sun, BOOKING ONLY); 8pt spacing; logical properties only.
+   Legacy names (--c-*, --fs-*, --space-*) are kept as aliases so components need no renames. */
 
 :root {
-  /* ---------- Color: palette ---------- */
-  --c-abyss: #04212f;   /* deepest water: footer, hero overlays */
-  --c-deep: #0a3a52;    /* dark sections */
-  --c-reef: #0f5e73;    /* links on light, secondary buttons */
-  --c-lagoon: #0b6e79;  /* accents, icons, focus on dark */
-  --c-tide: #2a8c96;    /* decorative only (< 4.5:1 on light) */
-  --c-foam: #ddefee;    /* text on dark (muted), tinted panels */
-  --c-mist: #eef6f5;    /* light tinted surface */
-  --c-sand: #f7f2ea;    /* page background (warm) */
-  --c-shell: #fffdf9;   /* cards, raised surfaces */
-  --c-ink: #0c1e2a;     /* primary text */
-  --c-ink-2: #3e5361;   /* secondary text */
-  --c-ink-3: #566a77;   /* tertiary text / meta (4.5:1 on sand) */
-  --c-sun: #f2be5c;     /* booking CTA fill (abyss text 9.7:1) */
-  --c-sun-deep: #e2a43b;/* CTA hover */
-  --c-coral: #a8452e;   /* alerts, error states */
-  --c-line: #d5dedd;    /* hairlines (decorative) */
-  --c-line-strong: #6f878e; /* component borders needing 3:1 */
+  /* ---------- Colour ---------- */
+  --ink: #13232c;          /* text            14.4:1 on sand */
+  --ink-2: #45555e;        /* secondary        6.9:1 */
+  --ink-3: #5b6b73;        /* meta             5.0:1 on sand, 4.7:1 on ocean-tint */
+  --sand: #f6f2eb;         /* page ground */
+  --paper: #fffdf9;        /* surfaces */
+  --line: #e4ded3;         /* decorative hairline */
+  --line-strong: #7a878d;  /* component borders >= 3:1 */
+  --ocean: #0e4c5e;        /* primary: links, secondary actions, icons (8.5:1; white on it 9.5:1) */
+  --ocean-deep: #0a2c38;   /* dark sections, footer, scrims (white 14.7:1) */
+  --ocean-tint: #e4eeef;   /* tinted surfaces */
+  --foam: #d8e8ea;         /* secondary text on dark (11.6:1 on ocean-deep) */
+  --sun: #f0b85a;          /* BOOKING ONLY (ink on sun 9.0:1) */
+  --sun-strong: #e0a23e;   /* booking hover (ink 7.2:1) */
+  --error: #b23e26;
+  --success: #2b6e4f;
+  --warning: #8a5a00;
 
-  /* ---------- Color: semantic ---------- */
-  --color-bg: var(--c-sand);
-  --color-surface: var(--c-shell);
-  --color-surface-tint: var(--c-mist);
-  --color-surface-inverse: var(--c-abyss);
-  --color-text: var(--c-ink);
-  --color-text-muted: var(--c-ink-2);
-  --color-text-subtle: var(--c-ink-3);
+  /* legacy aliases */
+  --c-abyss: var(--ocean-deep);
+  --c-deep: var(--ocean-deep);
+  --c-reef: var(--ocean);
+  --c-lagoon: var(--ocean);
+  --c-tide: var(--ocean);
+  --c-foam: var(--foam);
+  --c-mist: var(--ocean-tint);
+  --c-sand: var(--sand);
+  --c-shell: var(--paper);
+  --c-ink: var(--ink);
+  --c-ink-2: var(--ink-2);
+  --c-ink-3: var(--ink-3);
+  --c-sun: var(--sun);
+  --c-sun-deep: var(--sun-strong);
+  --c-coral: var(--error);
+  --c-line: var(--line);
+  --c-line-strong: var(--line-strong);
+
+  /* semantic */
+  --color-bg: var(--sand);
+  --color-surface: var(--paper);
+  --color-surface-tint: var(--ocean-tint);
+  --color-surface-inverse: var(--ocean-deep);
+  --color-text: var(--ink);
+  --color-text-muted: var(--ink-2);
+  --color-text-subtle: var(--ink-3);
   --color-text-inverse: #ffffff;
-  --color-text-inverse-muted: var(--c-foam);
-  --color-link: var(--c-reef);
-  --color-link-inverse: var(--c-sun);
-  --color-cta-bg: var(--c-sun);
-  --color-cta-bg-hover: var(--c-sun-deep);
-  --color-cta-text: var(--c-abyss);
-  --color-secondary-bg: var(--c-reef);
+  --color-text-inverse-muted: var(--foam);
+  --color-link: var(--ocean);
+  --color-link-inverse: #ffffff;
+  --color-cta-bg: var(--sun);
+  --color-cta-bg-hover: var(--sun-strong);
+  --color-cta-text: var(--ink);
+  --color-secondary-bg: var(--ocean);
   --color-secondary-text: #ffffff;
-  --color-focus: var(--c-sun);       /* 2px ring + 2px abyss offset → visible on light and dark */
-  --color-focus-offset: var(--c-abyss);
-  --color-error: var(--c-coral);
-  --color-border: var(--c-line);
-  --color-border-strong: var(--c-line-strong);
-  /* text sits in the lower half: >= 0.65 abyss there guarantees >= 5.2:1 for white text even over a pure-white pixel */
-  --overlay-hero: linear-gradient(180deg, rgb(4 33 47 / 0.25) 0%, rgb(4 33 47 / 0.45) 18%, rgb(4 33 47 / 0.66) 34%, rgb(4 33 47 / 0.88) 100%);
-  --overlay-card: linear-gradient(180deg, rgb(4 33 47 / 0) 35%, rgb(4 33 47 / 0.88) 100%);
+  --color-error: var(--error);
+  --color-border: var(--line);
+  --color-border-strong: var(--line-strong);
+  --focus-ring: 0 0 0 2px var(--paper), 0 0 0 4px var(--ocean-deep), 0 0 0 7px rgb(240 184 90 / 0.9);
+
+  /* scrims: local, behind text only (measured >= 5.6:1 for hero text over real photos) */
+  --scrim-top: linear-gradient(180deg, rgb(10 44 56 / 0.5), rgb(10 44 56 / 0) 140px);
+  --scrim-hero: radial-gradient(140% 110% at 100% 100%, rgb(10 44 56 / 0.86) 0%, rgb(10 44 56 / 0.7) 40%, rgb(10 44 56 / 0.25) 70%, rgb(10 44 56 / 0) 88%);
+  --scrim-hero-mobile: linear-gradient(180deg, rgb(10 44 56 / 0) 22%, rgb(10 44 56 / 0.72) 46%, rgb(10 44 56 / 0.9) 100%);
+  --overlay-card: linear-gradient(180deg, rgb(10 44 56 / 0) 30%, rgb(10 44 56 / 0.86) 100%);
 
   /* ---------- Typography ---------- */
-  --font-display: "Frank Ruhl Libre", "Frank Ruhl Libre Fallback", "David Libre", "David", "Times New Roman", serif;
-  --font-body: "Assistant", "Assistant Fallback", "Heebo", "Arial Hebrew", "Segoe UI", Arial, sans-serif;
-  /* fluid scale (360 → 1440 px). Hebrew gets generous line height. */
-  --fs-display: clamp(2.5rem, 1.83rem + 2.96vw, 4.5rem);   /* 40 → 72 */
-  --fs-h1: clamp(2.125rem, 1.75rem + 1.67vw, 3.25rem);     /* 34 → 52 */
-  --fs-h2: clamp(1.75rem, 1.5rem + 1.11vw, 2.5rem);        /* 28 → 40 */
-  --fs-h3: clamp(1.375rem, 1.29rem + 0.37vw, 1.625rem);    /* 22 → 26 */
-  --fs-h4: 1.25rem;                                        /* 20 */
-  --fs-lead: clamp(1.125rem, 1.08rem + 0.19vw, 1.25rem);   /* 18 → 20 */
-  --fs-body: 1.0625rem;                                    /* 17 */
-  --fs-small: 0.9375rem;                                   /* 15 */
-  --fs-micro: 0.8125rem;                                   /* 13, meta only, never body */
-  --lh-tight: 1.1;
-  --lh-heading: 1.2;
+  --font-display: "Bellefair", "Bellefair Fallback", "Frank Ruhl Libre", "David", "Times New Roman", serif;
+  --font-text: "Heebo", "Heebo Fallback", "Assistant", "Arial Hebrew", "Segoe UI", Arial, sans-serif;
+  --font-body: var(--font-text);
+  /* modular scale 1.25 (390px) -> 1.333 (1440px) */
+  --step--1: clamp(0.875rem, 0.86rem + 0.06vw, 0.9375rem);   /* 14 -> 15 */
+  --step-0: clamp(1.0625rem, 1.04rem + 0.1vw, 1.125rem);     /* 17 -> 18 */
+  --step-1: clamp(1.1875rem, 1.13rem + 0.24vw, 1.375rem);    /* 19 -> 22 */
+  --step-2: clamp(1.4375rem, 1.31rem + 0.55vw, 1.875rem);    /* 23 -> 30 */
+  --step-3: clamp(1.875rem, 1.62rem + 1.07vw, 2.625rem);     /* 30 -> 42 */
+  --step-4: clamp(2.25rem, 1.84rem + 1.71vw, 3.5rem);        /* 36 -> 56 */
+  --step-5: clamp(2.75rem, 2.09rem + 2.74vw, 4.75rem);       /* 44 -> 76 */
+  --fs-display: var(--step-5);
+  --fs-h1: var(--step-4);
+  --fs-h2: var(--step-3);
+  --fs-h3: var(--step-2);
+  --fs-h4: var(--step-1);
+  --fs-lead: var(--step-1);
+  --fs-body: var(--step-0);
+  --fs-small: var(--step--1);
+  --fs-micro: 0.8125rem;
+  --lh-display: 1.12;
+  --lh-tight: 1.12;
+  --lh-heading: 1.25;
   --lh-body: 1.7;
+  --lh-ui: 1.4;
+  --tracking-display: -0.01em;
   --fw-regular: 400;
+  --fw-medium: 500;
   --fw-semibold: 600;
-  --fw-bold: 700;
-  --measure: 68ch;
+  --fw-bold: 600;
+  --measure: 62ch;
+  --measure-lead: 48ch;
 
-  /* ---------- Spacing (4 px base) ---------- */
-  --space-1: 0.25rem;  /* 4 */
-  --space-2: 0.5rem;   /* 8 */
-  --space-3: 0.75rem;  /* 12 */
-  --space-4: 1rem;     /* 16 */
-  --space-5: 1.5rem;   /* 24 */
-  --space-6: 2rem;     /* 32 */
-  --space-7: 3rem;     /* 48 */
-  --space-8: 4rem;     /* 64 */
-  --space-9: 6rem;     /* 96 */
-  --space-10: 8rem;    /* 128 */
-  --gutter: clamp(1rem, 0.5rem + 2.2vw, 2.5rem);           /* 16 → 40 */
-  --section-y: clamp(4rem, 2.7rem + 5.6vw, 8rem);          /* 64 → 128 */
-  --container: 76rem;                                      /* 1216 */
-  --container-narrow: 46rem;                               /* 736, long-form reading */
-  --tap-min: 44px;
+  /* ---------- Spacing: 8pt grid ---------- */
+  --s-0-5: 4px;
+  --s-1: 8px;
+  --s-2: 16px;
+  --s-3: 24px;
+  --s-4: 32px;
+  --s-5: 40px;
+  --s-6: 48px;
+  --s-8: 64px;
+  --s-10: 80px;
+  --s-12: 96px;
+  --s-16: 128px;
+  --s-20: 160px;
+  --space-1: var(--s-0-5);
+  --space-2: var(--s-1);
+  --space-3: 12px;
+  --space-4: var(--s-2);
+  --space-5: var(--s-3);
+  --space-6: var(--s-4);
+  --space-7: var(--s-6);
+  --space-8: var(--s-8);
+  --space-9: var(--s-12);
+  --space-10: var(--s-16);
+  --gutter: clamp(20px, 2.2vw + 12px, 48px);
+  --section-y: clamp(96px, 6vw + 72px, 160px);
+  --stack: clamp(40px, 2vw + 32px, 64px);
+  --container: 77.5rem;           /* 1240 */
+  --container-narrow: 46rem;
+  --tap-min: 48px;
 
   /* ---------- Radius ---------- */
   --radius-xs: 4px;
   --radius-sm: 8px;
-  --radius-md: 16px;
-  --radius-lg: 24px;
-  --radius-xl: 32px;
+  --radius-md: 12px;
+  --radius-lg: 12px;
+  --radius-xl: 20px;
   --radius-pill: 999px;
 
-  /* ---------- Shadows (water-tinted, soft) ---------- */
-  --shadow-1: 0 1px 2px rgb(4 33 47 / 0.06), 0 1px 1px rgb(4 33 47 / 0.04);
-  --shadow-2: 0 6px 16px -4px rgb(4 33 47 / 0.12), 0 2px 4px rgb(4 33 47 / 0.06);
-  --shadow-3: 0 18px 40px -12px rgb(4 33 47 / 0.25), 0 4px 10px rgb(4 33 47 / 0.08);
-  --shadow-sticky: 0 -8px 24px -8px rgb(4 33 47 / 0.25);
+  /* ---------- Elevation (flat by default) ---------- */
+  --shadow-1: none;
+  --shadow-2: 0 1px 2px rgb(10 44 56 / 0.06), 0 6px 20px -12px rgb(10 44 56 / 0.25);
+  --shadow-3: 0 2px 6px rgb(10 44 56 / 0.08), 0 24px 48px -20px rgb(10 44 56 / 0.35);
+  --shadow-sticky: 0 -1px 0 var(--line), 0 -10px 30px -18px rgb(10 44 56 / 0.35);
 
   /* ---------- Motion ---------- */
-  --dur-instant: 100ms;
-  --dur-fast: 160ms;
-  --dur-base: 260ms;
-  --dur-slow: 420ms;
-  --dur-drift: 900ms;               /* hero/image reveals */
-  --ease-tide: cubic-bezier(0.22, 0.7, 0.2, 1);   /* default: soft settle */
-  --ease-swell: cubic-bezier(0.45, 0, 0.2, 1);    /* in-out for panels */
+  --dur-instant: 120ms;
+  --dur-fast: 200ms;
+  --dur-base: 320ms;
+  --dur-slow: 560ms;
+  --dur-drift: 900ms;
+  --ease-tide: cubic-bezier(0.2, 0, 0, 1);
+  --ease-swell: cubic-bezier(0.4, 0, 0.2, 1);
+  --reveal-shift: 16px;
+  --stagger: 70ms;
 
   /* ---------- Layers ---------- */
   --z-header: 40;
@@ -118,24 +167,15 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  :root {
-    --dur-fast: 0ms;
-    --dur-base: 0ms;
-    --dur-slow: 0ms;
-    --dur-drift: 0ms;
-  }
+  :root { --dur-instant: 0ms; --dur-fast: 0ms; --dur-base: 0ms; --dur-slow: 0ms; --dur-drift: 0ms; --reveal-shift: 0px; --stagger: 0ms; }
 }
 
-/* Accessibility-toolbar overrides (set as classes on <html>) */
+/* Accessibility-toolbar overrides (classes on <html>) */
 :root.a11y-contrast {
-  --color-bg: #ffffff;
-  --color-surface: #ffffff;
-  --color-text: #000000;
-  --color-text-muted: #000000;
-  --color-text-subtle: #1a1a1a;
-  --color-link: #003a75;
-  --color-border: #000000;
-  --overlay-hero: linear-gradient(rgb(0 0 0 / 0.7), rgb(0 0 0 / 0.85));
+  --sand: #ffffff; --paper: #ffffff; --ink: #000000; --ink-2: #000000; --ink-3: #1a1a1a;
+  --ocean: #003a75; --line: #000000; --line-strong: #000000;
+  --scrim-hero: linear-gradient(rgb(0 0 0 / 0.75), rgb(0 0 0 / 0.88));
+  --scrim-hero-mobile: linear-gradient(rgb(0 0 0 / 0.75), rgb(0 0 0 / 0.88));
 }
-:root.a11y-links a { text-decoration: underline !important; outline: 2px solid var(--c-sun); outline-offset: 2px; }
-:root.a11y-no-motion { --dur-fast: 0ms; --dur-base: 0ms; --dur-slow: 0ms; --dur-drift: 0ms; }
+:root.a11y-links a { text-decoration: underline !important; outline: 2px solid var(--sun); outline-offset: 2px; }
+:root.a11y-no-motion { --dur-instant: 0ms; --dur-fast: 0ms; --dur-base: 0ms; --dur-slow: 0ms; --dur-drift: 0ms; --reveal-shift: 0px; --stagger: 0ms; }

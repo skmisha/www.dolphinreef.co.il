@@ -36,8 +36,8 @@ export default async function LocaleLayout({ children, params }: LayoutProps<'/[
   return (
     <html lang={locale} dir={dir}>
       <head>
-        {/* only the small (7 KB) Hebrew body font is preloaded; display fonts swap in without competing with the LCP image */}
-        {dir === 'rtl' && <link rel="preload" href="/fonts/Assistant-400-700-hebrew.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />}
+        {/* only the small (11 KB) Hebrew text font is preloaded; display fonts swap in without competing with the LCP image */}
+        {dir === 'rtl' && <link rel="preload" href="/fonts/Heebo-300-700-hebrew.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />}
       </head>
       <body>
         <NextIntlClientProvider messages={messages}>

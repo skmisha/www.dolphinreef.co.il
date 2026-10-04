@@ -37,7 +37,7 @@ interface PageBase {
 export interface ContentPage extends PageBase { template: 'content' | 'legal' }
 
 export interface Fact { icon: IconName; label: string; value: string; sub?: string }
-export type IconName = 'age' | 'clock' | 'depth' | 'sun' | 'group' | 'wave';
+export type IconName = 'age' | 'clock' | 'depth' | 'sun' | 'group' | 'wave' | 'ticket';
 
 export interface ExperiencePage extends PageBase {
   template: 'experience';

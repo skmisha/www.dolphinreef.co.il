@@ -23,6 +23,7 @@ export async function HomeTemplate({ page }: { page: HomePage }) {
       <Hero
         hero={page.hero}
         variant="home"
+        hours={page.facts.filter((f) => f.value).map((f) => ({ label: f.label, value: f.value! }))}
         actions={
           <>
             <a className="btn btn--book btn--lg" href={bookingUrl('default')} {...(bookingTarget === '_blank' ? { target: '_blank', rel: 'noopener' } : {})}>

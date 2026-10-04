@@ -5,6 +5,7 @@ import { Link } from '@/i18n/navigation';
 import { bookingTarget, bookingUrl } from '@/config/links';
 import { Icon } from '@/components/ui/Icon';
 import { FromPrice } from '@/components/prices/Prices';
+import { cardFocalStyle } from '@/config/art-direction';
 
 /** Experience card: price · age · duration visible before the click. Whole card links to the page. */
 export async function ExperienceCard({ card, headingLevel = 3 }: { card: HomeCard; headingLevel?: 2 | 3 }) {
@@ -13,16 +14,21 @@ export async function ExperienceCard({ card, headingLevel = 3 }: { card: HomeCar
   return (
     <article className="xcard">
       <div className="xcard__media">
-        <Image src={card.image.src} alt={card.image.alt} width={card.image.width} height={card.image.height} sizes="(min-width: 1200px) 300px, (min-width: 768px) 50vw, 100vw" quality={60} />
-        {card.priceIds && <FromPrice ids={card.priceIds} />}
+        <Image src={card.image.src} alt={card.image.alt} width={card.image.width} height={card.image.height} sizes="(min-width: 1200px) 300px, (min-width: 768px) 50vw, 100vw" quality={60} style={cardFocalStyle(card.image.src)} />
       </div>
       <div className="xcard__body">
         <H className="xcard__title">
           <Link href={`/${card.slug}`}>{card.title}</Link>
         </H>
-        {card.chips && (
+        {(card.chips || card.priceIds) && (
           <ul className="chips">
-            {card.chips.map((c) => (
+            {card.priceIds && (
+              <li className="chip">
+                <Icon name="ticket" size={18} />
+                <FromPrice ids={card.priceIds} className="xcard__price" />
+              </li>
+            )}
+            {card.chips?.map((c) => (
               <li key={c.text} className="chip">
                 <Icon name={c.icon} size={16} />
                 {c.text}
